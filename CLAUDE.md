@@ -10,6 +10,7 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - `10-World/` — one note per base screen or place. `Building/` (lobby, rings, rooms 202/212/232/313/434, 101, 242, 696…), `Pockets/` (teaching pocket, maze family, Penrose stair…), `Satellites/` (street/tram, the Ward).
 - `20-Cast/` — one note per voice, including Renner, the Couple, and Mr. Vacancy.
 - `30-Narrative/` — `Chapters/` (one note per day card: №121, SPOOL, LIVED, RADAR, REPAPER, ANNA, DEED, ROTOR, REDIVIDER), `Endings/`, `Anecdotes/`, plus tapes and the corkboard thread.
+- `35-Corkboard/` — the Lynch board. `Notes/` holds sticky scenes (`S### Evocative Title.md`), `Threads/` holds synthesis outputs, `Corkboard.canvas` is a generated view. Method in `35-Corkboard/PROTOCOL.md`; commands: `/sticky`, `/board`, `/weave`.
 - `40-Mechanics/` — systems (camera, ruler, persona law, day loop, night phase, festering…). `Clauses/` holds one note per House Rule; `Flags/` holds one note per permanent "the Building remembers" flag.
 - `50-Moodboards/` — `.canvas` boards. Binary images live only in `50-Moodboards/_assets/`; never modify binaries.
 - `60-Production/` — scope ledger, art/audio/localization specs, schedule, positioning, and 🔧 workshop agendas.
@@ -24,6 +25,10 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - `_Index.md` in each top-level folder is a generated map of content. Regenerate on request; don't hand-curate.
 - Flag notes list `set-by` and `read-by` as wikilinks to screens/beats, so the graph shows the permutation web.
 - You may create and edit `.canvas` files directly (JSON Canvas format). Group mood images with text nodes for register labels (lawful weird / sick weird / banned).
+- Sticky prose (**What happens** / **Vibe**) is Coda's verbatim text: file it, link it, never rewrite it.
+- Sticky lifecycle: `loose → pinned → placed`, side exits `cut` / `canon-pressure` / `parked`. Only Coda promotes or places; tooling may set `canon-pressure` and `parked` on detection. Nothing is ever deleted.
+- The corkboard holds scenes, not systems. System pitches get `status: parked` (systems freeze).
+- Stickies never count against the 15,000-word budget.
 
 ## Scope guard
 
