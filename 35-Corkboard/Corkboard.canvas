@@ -1,6 +1,6 @@
 {
-	"nodes":[
-		{"id":"seed","type":"text","text":"# THE BOARD\nThis canvas is a generated view — run `/board register` (or `day`, `cast`, `motif`, `status`) in Claude Code to lay it out from 35-Corkboard/Notes/.\n\nThe notes are the truth; the board is a lens.","x":-220,"y":-100,"width":440,"height":200,"color":"2"}
-	],
-	"edges":[]
+  "nodes": [
+    {"id":"seed","type":"text","text":"# THE BOARD\nThis canvas is a generated view — run `/board register` (or `day`, `cast`, `motif`, `status`) in Claude Code to lay it out from 35-Corkboard/Notes/.\n\nThe notes are the truth; the board is a lens.","x":-220,"y":-100,"width":440,"height":200,"color":"2"}
+  ],
+  "edges": []
 }
