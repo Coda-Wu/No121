@@ -5,3 +5,38 @@ status: seed
 # 30-Narrative — index
 
 Generated map of content. Ask Claude Code to regenerate.
+
+## Chapters (9) — day = chapter = autosave at wake
+
+| Card | Day | Owns | Critical beat |
+|---|---|---|---|
+| [[№121 — Arrival]] | Cold Open | Arrival | Sleep — Dream 0, Renner's Calling |
+| [[SPOOL — The Job]] | 1 | The job | The 3:00 AM ring — demo ends |
+| [[LIVED — The Name]] | 2 | The name | Mr. Vacancy named |
+| [[RADAR — Detection]] | 3 | Detection | First Administration notice |
+| [[REPAPER — The Twins]] | 4 | The twins | The room-swap twist |
+| [[ANNA — The Wound]] | 5 | The wound | The evening call |
+| [[DEED — The Past]] | 6 | The past | The exit found through the past |
+| [[ROTOR — Renner]] | 7 | Renner | Fuse-swap puzzle → the Master Fuse |
+| [[REDIVIDER — The Door]] | Final Night | The door | The triptych |
+
+Filenames carry card + what the card owns, so the ANNA card cannot collide with [[Anna]] under Obsidian's case-insensitive link resolution.
+
+## Endings (3)
+
+- [[True Ending — Informed Breach]] — *un-take* a photograph.
+- [[Neutral Ending — Stay]] — *take* the last photograph.
+- [[Bad Ending — Ignorant Breach]] — no photograph; the tear.
+
+## Canon
+
+- [[Logline and Thesis]]
+- [[The Ontology]] — top-secret layer.
+- [[Tapes to Anna]]
+- [[The Corkboard Thread]] — the in-world case board (not the vault's `35-Corkboard/`).
+
+## Anecdotes (10 locked gags)
+
+[[Anecdote Bank]] · [[The Cigarette Gag]] · [[The Doorknob]] · [[Noir Corrections]] · [[The Crooked Frame]] · [[Tie Continuity]] · [[Bob's Mug]] · [[Pip's Ratings]] · [[Nan's Biscuits]] · [[The Polite Pause]] · [[The Spirit Level]]
+
+Quota: 2–3 microbeats per chapter. 🔧 The placement pass is workshop business — [[Workshop Agendas]].
