@@ -1,0 +1,7 @@
+# Per-machine Obsidian UI state — never version
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+# Churns on casual UI interaction
+.obsidian/core-plugins.json
+.trash/
+.DS_Store

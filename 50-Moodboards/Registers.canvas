@@ -1,0 +1,8 @@
+{
+  "nodes": [
+    {"id":"lawful","type":"text","text":"# LAWFUL WEIRD\nThe Building's metabolism. Clean, rule-bound, deterministic, almost polite.\n\nDrop refs below.","x":-460,"y":-200,"width":400,"height":220,"color":"4"},
+    {"id":"sick","type":"text","text":"# SICK WEIRD\nThe Vacancy's intrusions. Rot-dark, asymmetric, imperfect mimicry (696 over 666).\n\nDrop refs below.","x":60,"y":-200,"width":400,"height":220,"color":"1"},
+    {"id":"banned","type":"text","text":"## BANNED\nGlitch shaders · datamosh · scanlines · digital-sim clichés.\nWrongness is analog, architectural, bureaucratic.","x":-200,"y":120,"width":400,"height":140,"color":"2"}
+  ],
+  "edges": []
+}
