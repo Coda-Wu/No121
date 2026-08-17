@@ -1,6 +1,387 @@
 {
-  "nodes": [
-    {"id":"seed","type":"text","text":"# THE BOARD\nThis canvas is a generated view — run `/board register` (or `day`, `cast`, `motif`, `status`) in Claude Code to lay it out from 35-Corkboard/Notes/.\n\nThe notes are the truth; the board is a lens.","x":-220,"y":-100,"width":440,"height":200,"color":"2"}
-  ],
-  "edges": []
+	"nodes": [
+		{
+			"id": "hdr-lawful-weird",
+			"type": "text",
+			"text": "# LAWFUL WEIRD\n6 stickies",
+			"x": 0,
+			"y": -160,
+			"width": 280,
+			"height": 120,
+			"color": "4"
+		},
+		{
+			"id": "s4",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S004 Floor Two To Floor Two.md",
+			"x": 0,
+			"y": 0,
+			"width": 280,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "s5",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S005 The Tape Keeps Paying Out.md",
+			"x": 0,
+			"y": 240,
+			"width": 280,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "s6",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S006 The Corridor Behind 242.md",
+			"x": 0,
+			"y": 480,
+			"width": 280,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "s20",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S020 It Was Him In Every Radio.md",
+			"x": 0,
+			"y": 720,
+			"width": 280,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "s21",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S021 The Fuse That Runs The Building.md",
+			"x": 0,
+			"y": 960,
+			"width": 280,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "s32",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S032 It Knows What You Need.md",
+			"x": 0,
+			"y": 1200,
+			"width": 280,
+			"height": 200,
+			"color": "4"
+		},
+		{
+			"id": "hdr-sick-weird",
+			"type": "text",
+			"text": "# SICK WEIRD\n4 stickies",
+			"x": 340,
+			"y": -160,
+			"width": 280,
+			"height": 120,
+			"color": "1"
+		},
+		{
+			"id": "s7",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S007 He Wears The Suit You Left.md",
+			"x": 340,
+			"y": 0,
+			"width": 280,
+			"height": 200,
+			"color": "1"
+		},
+		{
+			"id": "s9",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S009 The Reflection Holds A Beat Too Long.md",
+			"x": 340,
+			"y": 240,
+			"width": 280,
+			"height": 200,
+			"color": "1"
+		},
+		{
+			"id": "s10",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S010 Naming It.md",
+			"x": 340,
+			"y": 480,
+			"width": 280,
+			"height": 200,
+			"color": "1"
+		},
+		{
+			"id": "s22",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S022 The Usher At The Door.md",
+			"x": 340,
+			"y": 720,
+			"width": 280,
+			"height": 200,
+			"color": "1"
+		},
+		{
+			"id": "hdr-domestic",
+			"type": "text",
+			"text": "# DOMESTIC\n7 stickies",
+			"x": 680,
+			"y": -160,
+			"width": 280,
+			"height": 120,
+			"color": "6"
+		},
+		{
+			"id": "s12",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S012 The Man Who Has Never Seen It Change.md",
+			"x": 680,
+			"y": 0,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "s17",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S017 The Paper That Says Who Owns It.md",
+			"x": 680,
+			"y": 240,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "s26",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S026 The Frame He Straightens Nightly.md",
+			"x": 680,
+			"y": 480,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "s28",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S028 World's Best Tenant.md",
+			"x": 680,
+			"y": 720,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "s29",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S029 Four Blurry.md",
+			"x": 680,
+			"y": 960,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "s30",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S030 Best Before 1999.md",
+			"x": 680,
+			"y": 1200,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "s31",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S031 They Pause As He Passes.md",
+			"x": 680,
+			"y": 1440,
+			"width": 280,
+			"height": 200,
+			"color": "6"
+		},
+		{
+			"id": "hdr-clinical",
+			"type": "text",
+			"text": "# CLINICAL\n2 stickies",
+			"x": 1020,
+			"y": -160,
+			"width": 280,
+			"height": 120,
+			"color": "2"
+		},
+		{
+			"id": "s11",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S011 The First Notice.md",
+			"x": 1020,
+			"y": 0,
+			"width": 280,
+			"height": 200,
+			"color": "2"
+		},
+		{
+			"id": "s27",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S027 Which Brother's Tie.md",
+			"x": 1020,
+			"y": 240,
+			"width": 280,
+			"height": 200,
+			"color": "2"
+		},
+		{
+			"id": "hdr-dream",
+			"type": "text",
+			"text": "# DREAM\n2 stickies",
+			"x": 1360,
+			"y": -160,
+			"width": 280,
+			"height": 120,
+			"color": "3"
+		},
+		{
+			"id": "s3",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S003 The Calling.md",
+			"x": 1360,
+			"y": 0,
+			"width": 280,
+			"height": 200,
+			"color": "3"
+		},
+		{
+			"id": "s13",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S013 Waking In The Ward As 202.md",
+			"x": 1360,
+			"y": 240,
+			"width": 280,
+			"height": 200,
+			"color": "3"
+		},
+		{
+			"id": "hdr-mundane",
+			"type": "text",
+			"text": "# MUNDANE\n4 stickies",
+			"x": 1700,
+			"y": -160,
+			"width": 280,
+			"height": 120,
+			"color": "5"
+		},
+		{
+			"id": "s1",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S001 Dusk At Number 121.md",
+			"x": 1700,
+			"y": 0,
+			"width": 280,
+			"height": 200,
+			"color": "5"
+		},
+		{
+			"id": "s23",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S023 The Pack That Empties Itself.md",
+			"x": 1700,
+			"y": 240,
+			"width": 280,
+			"height": 200,
+			"color": "5"
+		},
+		{
+			"id": "s24",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S024 One Set Of Prints Mine.md",
+			"x": 1700,
+			"y": 480,
+			"width": 280,
+			"height": 200,
+			"color": "5"
+		},
+		{
+			"id": "s25",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S025 Strike That From The Record.md",
+			"x": 1700,
+			"y": 720,
+			"width": 280,
+			"height": 200,
+			"color": "5"
+		},
+		{
+			"id": "hdr-unassigned",
+			"type": "text",
+			"text": "# UNASSIGNED\n7 stickies",
+			"x": 2040,
+			"y": -160,
+			"width": 280,
+			"height": 120
+		},
+		{
+			"id": "s2",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S002 The Sealed Envelope Marked A.md",
+			"x": 2040,
+			"y": 0,
+			"width": 280,
+			"height": 200
+		},
+		{
+			"id": "s8",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S008 Three O'Clock Ring.md",
+			"x": 2040,
+			"y": 240,
+			"width": 280,
+			"height": 200
+		},
+		{
+			"id": "s14",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S014 The Envelope Opens.md",
+			"x": 2040,
+			"y": 480,
+			"width": 280,
+			"height": 200
+		},
+		{
+			"id": "s15",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S015 A Room On No Plan.md",
+			"x": 2040,
+			"y": 720,
+			"width": 280,
+			"height": 200
+		},
+		{
+			"id": "s16",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S016 The Evening Call.md",
+			"x": 2040,
+			"y": 960,
+			"width": 280,
+			"height": 200
+		},
+		{
+			"id": "s18",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S018 The Exit Through The Past.md",
+			"x": 2040,
+			"y": 1200,
+			"width": 280,
+			"height": 200
+		},
+		{
+			"id": "s19",
+			"type": "file",
+			"file": "35-Corkboard/Notes/S019 Wires And Warmth.md",
+			"x": 2040,
+			"y": 1440,
+			"width": 280,
+			"height": 200
+		}
+	],
+	"edges": []
 }
