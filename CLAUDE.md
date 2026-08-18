@@ -15,6 +15,8 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - `50-Moodboards/` — `.canvas` boards. Binary images live only in `50-Moodboards/_assets/`; never modify binaries.
 - `60-Production/` — scope ledger, art/audio/localization specs, schedule, positioning, and 🔧 workshop agendas.
 - `90-Templates/` — frontmatter schemas (used by the core Templates plugin). These are the source of truth for properties; keep existing notes conforming.
+- `tools/` — optional helper scripts (currently the experimental translate watcher; off by default).
+- `60-Production/Glossary.md` — binding EN↔zh-Hans terminology for `/translate`; rows graduate seed → ratified by Coda only.
 
 ## Conventions
 
@@ -29,6 +31,10 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - Sticky lifecycle: `loose → pinned → placed`, side exits `cut` / `canon-pressure` / `parked`. Only Coda promotes or places; tooling may set `canon-pressure` and `parked` on detection. Nothing is ever deleted.
 - The corkboard holds scenes, not systems. System pitches get `status: parked` (systems freeze).
 - Stickies never count against the 15,000-word budget.
+- Notes may carry a bilingual layer: the human source text is everything OUTSIDE `<!-- lang:… -->` marker blocks; the block inside is machine-maintained by `/translate` and may be regenerated wholesale. Nothing outside a marker block is ever modified by tooling — this extends the sticky verbatim law vault-wide.
+- Which language is "source" is decided per note by where Coda wrote: outside the markers. Either language is legitimate; the system is direction-agnostic.
+- Loop-names, №121, and room numbers stay in Latin script/numerals in Chinese text (palindrome canon is visual).
+- `/translate` runs at session seams, commits as `meta: lang sync (…)`.
 
 ## Scope guard
 
