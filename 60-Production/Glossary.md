@@ -39,3 +39,20 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 | MISSING notice | 寻人启事 | exact real-world genre term | seed |
 | work order | 工单 | exact facilities term | seed |
 | the Overrun | 超程 | ruler scare 1 | seed |
+| the Ruler | 量尺 | the instrument; the tape itself 卷尺 | seed |
+| the Schedule | 排程表 | the Administration's official plan — the one that lies | seed |
+| blueprint | 蓝图 | Pip's, the true one | seed |
+| persona (Agent / Handyman) | 人格 | the Shift swaps 人格, not costumes | seed |
+| doppelganger | 分身 | always wearing the 人格 Otto is not | seed |
+| the usher | 引路人 | Mr. Vacancy's endgame role | seed |
+| Master Fuse | 总保险丝 | | seed |
+| the Calling | 召唤 | Dream 0, Renner's | seed |
+| ring corridor / lap | 环形走廊 / 绕行 | four faces, one base scene | seed |
+| cold open | 冷开场 | | seed |
+| title card / end-card | 标题卡 / 尾卡 | end-card LOOPS stays Latin | seed |
+| the ledger | 账簿 | the predecessor's | seed |
+| property deed | 房契 | | seed |
+| deadpan | 冷面 | the tone dial, 15–25% light | seed |
+
+<!-- Rows below the Overrun were appended by /translate on the 35-Corkboard/Notes run. All seed — none ratified. -->
+

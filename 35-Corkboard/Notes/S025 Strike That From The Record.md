@@ -23,3 +23,14 @@ He reaches for a hardboiled line on the tape, hears it, and corrects himself.
 Noir as a costume he keeps catching himself in. Carried by the demo.
 
 <!-- Canon extract: locked anecdote [[Noir Corrections]]. Claude's wording, free to rewrite. -->
+
+<!-- lang:zh source-hash:5f98d193 machine -->
+> [!quote]- 中文（机器译稿）
+> **这句划掉**
+>
+> **发生了什么：**
+> 他在录音里伸手去够一句硬汉台词，听见了，然后自己更正。
+>
+> **氛围 / 梦境逻辑：**
+> 黑色电影是一件他总被自己抓到正穿在身上的戏服。试玩版收录。
+<!-- /lang:zh -->

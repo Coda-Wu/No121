@@ -23,3 +23,14 @@ Arrival at dusk. A TV-style title sequence. [[Leon]] meets him, a cigarette vani
 Mundane register, deadpan. The building shows five floors from the street — the standing lie.
 
 <!-- Canon extract from the world bible, card №121. Claude's wording, not Coda's — free to rewrite. -->
+
+<!-- lang:zh source-hash:dfc22bc9 machine -->
+> [!quote]- 中文（机器译稿）
+> **№121 的黄昏**
+>
+> **发生了什么：**
+> 黄昏时抵达。电视剧式的片头字幕。[[Leon]] 来迎他，一支烟凭空消失，[[Room 202]] 的钥匙易了手。
+>
+> **氛围 / 梦境逻辑：**
+> 平常调性，冷面。从街上看，大楼只有五层——这是它一直在说的谎。
+<!-- /lang:zh -->
