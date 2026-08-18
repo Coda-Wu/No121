@@ -6,7 +6,7 @@ status: locked
 
 The Agent's old case board, arrived wrapped in [[Otto]]'s luggage — [[Anna]]'s thread already strung in his own years-old handwriting. Second beat of [[Night Phase]]: develop → **pin** → tape → alarm → sleep.
 
-Day 0 shows ritual pins plus **one sealed aged envelope marked "A."**, opened cold-open in [[ANNA — The Wound]].
+Day 0 shows ritual pins plus **one sealed aged envelope marked "A."**, opened cold-open in [[06 ANNA — The Wound]].
 
 ## How it works
 - **~30 nodes** total — a scope lock, see [[Scope Ledger]].

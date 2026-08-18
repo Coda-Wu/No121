@@ -13,7 +13,7 @@ An artificial **vessel** — analog, administered, artisanal. **Not** a computer
 
 ## Anna is the Maker
 
-The world is [[Anna]]'s, or entangled with her. Evidence accumulates — handwriting in blueprint margins, ledger gaps, the deed in [[DEED — The Past]] — but full confirmation is withheld until the endings, and each ending shades it differently.
+The world is [[Anna]]'s, or entangled with her. Evidence accumulates — handwriting in blueprint margins, ledger gaps, the deed in [[07 DEED — The Past]] — but full confirmation is withheld until the endings, and each ending shades it differently.
 
 ## The two accounts of leaving
 
@@ -24,4 +24,4 @@ The player can **never cleanly verify** which story is true — the danger of le
 
 ## The Administration is triage, not tyranny
 
-Sealed floors ([[The Sealed Fifth Floor]]) and midnight hammering are desperate patching, misdirected as menace — siege logistics against [[Mr. Vacancy]]. Work crews are only ever heard through walls. Management is never seen. Revealed in [[REPAPER — The Twins]].
+Sealed floors ([[The Sealed Fifth Floor]]) and midnight hammering are desperate patching, misdirected as menace — siege logistics against [[Mr. Vacancy]]. Work crews are only ever heard through walls. Management is never seen. Revealed in [[05 REPAPER — The Twins]].

@@ -25,5 +25,5 @@ Sends the master blueprint under the door on night 0, mid-tape; refined copies e
 - [[Clause 2]] — shown in the demo as Pip's crayon map.
 
 ## Appears in
-- [[№121 — Arrival]] — the blueprint under the door.
-- [[RADAR — Detection]] — Bob and Pip deepened.
+- [[01 №121 — Arrival]] — the blueprint under the door.
+- [[04 RADAR — Detection]] — Bob and Pip deepened.

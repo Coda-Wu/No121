@@ -14,7 +14,7 @@ Dream 0 is [[Renner]]'s Calling on night 0, which issues the camera.
 
 ## Idle escalation
 
-Each fruitless night adds **exactly one** new detail — never more. See [[The Day Loop]]. Likely first fires around [[RADAR — Detection]].
+Each fruitless night adds **exactly one** new detail — never more. See [[The Day Loop]]. Likely first fires around [[04 RADAR — Detection]].
 
 ## Hint ladder
 1. Dream escalation.
@@ -23,4 +23,4 @@ Each fruitless night adds **exactly one** new detail — never more. See [[The D
 
 ## Leak
 
-[[REPAPER — The Twins]]: Otto wakes in the Ward *as* [[Room 202]], awake. The dream stops staying in its half.
+[[05 REPAPER — The Twins]]: Otto wakes in the Ward *as* [[Room 202]], awake. The dream stops staying in its half.

@@ -24,4 +24,4 @@ Voice and tape only; "her" tape voice is achievable with gibberish synth, withou
 
 ## Appears in
 - **Endings only**, staged differently per ending: at the tram stop in [[True Ending — Informed Breach]]; never met in [[Neutral Ending — Stay]]; conspicuously absent from the crowd in [[Bad Ending — Ignorant Breach]].
-- The sealed envelope marked "A." is pinned on day 0 and opened cold-open in [[ANNA — The Wound]].
+- The sealed envelope marked "A." is pinned on day 0 and opened cold-open in [[06 ANNA — The Wound]].

@@ -22,4 +22,4 @@ Warm, unhurried, 1998. Serves [[Nan's Biscuits]] — mint condition, best before
 - [[Neutral Ending — Stay]] — her argument is the ending's emotional ground.
 
 ## Appears in
-- [[DEED — The Past]] — Nan, 1998, the property deed; the exit found through the past.
+- [[07 DEED — The Past]] — Nan, 1998, the property deed; the exit found through the past.

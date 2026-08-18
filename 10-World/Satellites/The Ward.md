@@ -21,7 +21,7 @@ Ships as an LUT re-grade of existing screens, per the [[Art Spec]].
 Dream register; sharpens as idle sleeps escalate — see [[The Dream and Hint Ladder]].
 
 ## Anomalies & cases hosted
-- [[№121 — Arrival]] — Dream 0, [[Renner]]'s Calling, and the camera requisition.
-- [[SPOOL — The Job]] — Dream 1, "Visiting hours end at three."
-- [[REPAPER — The Twins]] — waking in the Ward *as* [[Room 202]]: the dream leaking.
+- [[01 №121 — Arrival]] — Dream 0, [[Renner]]'s Calling, and the camera requisition.
+- [[02 SPOOL — The Job]] — Dream 1, "Visiting hours end at three."
+- [[05 REPAPER — The Twins]] — waking in the Ward *as* [[Room 202]]: the dream leaking.
 - [[Reverse Film]] — Eve's grant is made here.

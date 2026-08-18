@@ -22,4 +22,4 @@ Muffled through the wall. Daily drift means their lines are authored as a series
 - One authored knock-beat.
 
 ## Appears in
-- Every evening from [[№121 — Arrival]] onward; the drift is the calendar.
+- Every evening from [[01 №121 — Arrival]] onward; the drift is the calendar.

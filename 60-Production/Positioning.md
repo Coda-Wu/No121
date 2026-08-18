@@ -18,7 +18,7 @@ Short-description formula: fantasy → verb → stakes. The internal pitch is in
 
 ## Trailer and capsule (R9 brief, standing as working draft)
 - Facade capsule; the **№121 plate legible at thumbnail size**.
-- 60–75s trailer, cut for sound, ending on the 3 AM ring and the title card — see [[SPOOL — The Job]].
+- 60–75s trailer, cut for sound, ending on the 3 AM ring and the title card — see [[02 SPOOL — The Job]].
 - Production waits for the vertical slice; capsule art is commissioned Nov for the December page. See [[Schedule]].
 
 🔧 Steam page copy is workshop business — [[Workshop Agendas]].

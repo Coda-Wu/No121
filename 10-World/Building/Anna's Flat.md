@@ -17,5 +17,5 @@ A room on no plan, which the Building **grows** for [[Anna]] on D5 — furnished
 Assembled from remembered furniture; the performance and the truth are the same room, which is the horror.
 
 ## Anomalies & cases hosted
-- [[ANNA — The Wound]] — the dig; her undeveloped roll, found and developed on [[Renner]]'s rig; the evening call.
+- [[06 ANNA — The Wound]] — the dig; her undeveloped roll, found and developed on [[Renner]]'s rig; the evening call.
 - Evidence toward [[The Ontology]] — handwriting in blueprint margins, ledger gaps, the deed.

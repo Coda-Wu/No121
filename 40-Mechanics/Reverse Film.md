@@ -15,7 +15,7 @@ Tracked as [[Reverse Film Granted]].
 
 ## Window
 
-Opens in [[ANNA — The Wound]] (D5). The grace window **closes at the D6 dream** in [[DEED — The Past]].
+Opens in [[06 ANNA — The Wound]] (D5). The grace window **closes at the D6 dream** in [[07 DEED — The Past]].
 
 ## Why it lands
 

@@ -29,7 +29,7 @@ Bodied form: [[Otto]]'s doppelganger, always wearing the persona Otto is **not**
 - [[True Ending — Informed Breach]] — burning the usher in the final purge is a gate.
 
 ## Appears in
-- [[LIVED — The Name]] — named.
+- [[03 LIVED — The Name]] — named.
 - [[Mirror Maze]] — at C2, facing east, always; wearing the suit.
 - [[Maze Family]] — the D4 and D6 windows.
-- [[REDIVIDER — The Door]] — the usher.
+- [[09 REDIVIDER — The Door]] — the usher.

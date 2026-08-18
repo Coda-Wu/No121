@@ -1,7 +1,7 @@
 ---
 type: flag
 set-by:
-  - "[[REDIVIDER — The Door]]"
+  - "[[09 REDIVIDER — The Door]]"
   - "[[Purge and Light]]"
 read-by:
   - "[[True Ending — Informed Breach]]"
@@ -14,5 +14,5 @@ status: seed
 That [[Mr. Vacancy]] was burned in the final purge, **before** the door was opened. The usher wants an ignorant Breach; the true ending requires burning it first, then opening properly.
 
 ## Surfaces where it shows
-- [[REDIVIDER — The Door]] — the last night.
+- [[09 REDIVIDER — The Door]] — the last night.
 - **Unloseable:** arriving unprepared throws you back, never kills you.

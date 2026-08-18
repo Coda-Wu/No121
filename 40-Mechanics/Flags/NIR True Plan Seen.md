@@ -2,7 +2,7 @@
 type: flag
 set-by:
   - "[[Filters]]"
-  - "[[DEED — The Past]]"
+  - "[[07 DEED — The Past]]"
 read-by:
   - "[[True Ending — Informed Breach]]"
 status: seed

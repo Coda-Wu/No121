@@ -18,4 +18,4 @@ The uniform sees the corridor that shouldn't fit; the suit is not routed here.
 
 ## Anomalies & cases hosted
 - [[Teaching Pocket]] — the scripted pacing-count overrun, the nest, the torch purge, [[Clause 1]]; the exit is three steps away.
-- [[SPOOL — The Job]] — first lap, first captures.
+- [[02 SPOOL — The Job]] — first lap, first captures.

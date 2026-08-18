@@ -12,7 +12,7 @@ status: locked
 
 ## Teaching order
 
-Torch purge in the [[Teaching Pocket]] (D1, demo) → flashgun prescribed by [[Eve]] and the first *played* purge in [[LIVED — The Name]] (D2) → the system under pressure in [[Flash-Survival Room]].
+Torch purge in the [[Teaching Pocket]] (D1, demo) → flashgun prescribed by [[Eve]] and the first *played* purge in [[03 LIVED — The Name]] (D2) → the system under pressure in [[Flash-Survival Room]].
 
 ## Purge-pinning
 

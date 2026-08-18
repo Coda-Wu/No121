@@ -24,6 +24,6 @@ Deadpan continuity gags run across the pair — see [[Tie Continuity]].
 - [[Otto]] — hands over the key to [[Room 202]] on arrival.
 
 ## Appears in
-- [[№121 — Arrival]] — the cigarette vanish, the key, the lift line.
-- [[REPAPER — The Twins]] — the twins formally; renovation notices.
-- [[REDIVIDER — The Door]] — one of the three disposition receipt conversations.
+- [[01 №121 — Arrival]] — the cigarette vanish, the key, the lift line.
+- [[05 REPAPER — The Twins]] — the twins formally; renovation notices.
+- [[09 REDIVIDER — The Door]] — one of the three disposition receipt conversations.

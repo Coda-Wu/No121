@@ -29,5 +29,5 @@ Costume: blue tee, blue trousers, yellow tool belt (Handyman); black suit, white
 - [[Leon]] & [[Noel]] — the Superintendent who hands him the key.
 
 ## Appears in
-- Every chapter, [[№121 — Arrival]] through [[REDIVIDER — The Door]].
+- Every chapter, [[01 №121 — Arrival]] through [[09 REDIVIDER — The Door]].
 - Memory model: [[Persona Law]] (the Haze). Photographs and work orders are how his two selves leave each other evidence.

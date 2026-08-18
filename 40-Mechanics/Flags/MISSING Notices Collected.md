@@ -1,7 +1,7 @@
 ---
 type: flag
 set-by:
-  - "[[SPOOL — The Job]]"
+  - "[[02 SPOOL — The Job]]"
   - "[[Corridor Ring]]"
 read-by:
   - "[[Reverse Film]]"
@@ -17,6 +17,6 @@ How many of the **7** MISSING notices [[Otto]] has pocketed. Seven exactly — a
 **≥5 of 7** is half the [[Reverse Film]] grant.
 
 ## Surfaces where it shows
-- The first is pocketed in [[SPOOL — The Job]], inside the demo.
+- The first is pocketed in [[02 SPOOL — The Job]], inside the demo.
 - Pinned to [[The Corkboard Thread]]; they feed the Anna-thread.
 - [[Eve]]'s grant in [[The Ward]].

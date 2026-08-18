@@ -18,4 +18,4 @@ status: locked
 
 Saves everyone. Purges the antagonist. The vessel is reborn open-skied. [[Anna]] at the tram stop on [[Street and Tram]].
 
-Reached from [[REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].
+Reached from [[09 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].

@@ -18,4 +18,4 @@ The Building performs normalcy for the Agent: same tilemap, composed dressing. T
 
 ## Anomalies & cases hosted
 - The mailbox grid as a reading puzzle (palindrome names).
-- [[№121 — Arrival]] — [[Leon]], the cigarette vanish, the key to [[Room 202]].
+- [[01 №121 — Arrival]] — [[Leon]], the cigarette vanish, the key to [[Room 202]].

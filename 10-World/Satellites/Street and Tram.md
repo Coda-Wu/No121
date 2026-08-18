@@ -19,5 +19,5 @@ The tram bell is one of the diegetic crossfade sources in the [[Audio Spec]].
 Dusk on arrival; re-graded per era and ending via LUT, per the [[Art Spec]].
 
 ## Anomalies & cases hosted
-- [[№121 — Arrival]] — dusk, the TV-style title sequence, [[Leon]], the cigarette vanish.
+- [[01 №121 — Arrival]] — dusk, the TV-style title sequence, [[Leon]], the cigarette vanish.
 - [[True Ending — Informed Breach]] — [[Anna]] at the tram stop.

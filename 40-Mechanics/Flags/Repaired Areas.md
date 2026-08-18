@@ -16,4 +16,4 @@ Every filed report — every passive sick distortion photographed **and develope
 ## Surfaces where it shows
 - Muffled construction the next day; work crews heard only through walls.
 - Morning blueprint updates mark repaired areas — [[Night Phase]], [[Pip]].
-- The mid-game realization: the hammering has been following your own reports all along. [[REPAPER — The Twins]], [[The Ontology]].
+- The mid-game realization: the hammering has been following your own reports all along. [[05 REPAPER — The Twins]], [[The Ontology]].

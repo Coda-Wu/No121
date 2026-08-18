@@ -23,4 +23,4 @@ Handyman only; the Agent is never routed here.
 ## Anomalies & cases hosted
 - [[Clause 1]] — taught fully in the demo.
 - Tool-belt torch as mundane, demo-tier light — see [[Purge and Light]].
-- [[SPOOL — The Job]].
+- [[02 SPOOL — The Job]].

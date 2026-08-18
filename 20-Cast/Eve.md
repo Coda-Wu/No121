@@ -25,7 +25,7 @@ Oblique prescriptions — tier 3 of the hint ladder in [[The Dream and Hint Ladd
 - [[The Camera]] — prescribes the detachable flashgun on D2.
 
 ## Appears in
-- [[SPOOL — The Job]] — Dream 1, her debut, inside the demo.
-- [[LIVED — The Name]] — the flashgun prescription.
-- [[REPAPER — The Twins]] — Otto wakes in the Ward *as* [[Room 202]], awake.
-- [[REDIVIDER — The Door]] — one of the three disposition receipt conversations.
+- [[02 SPOOL — The Job]] — Dream 1, her debut, inside the demo.
+- [[03 LIVED — The Name]] — the flashgun prescription.
+- [[05 REPAPER — The Twins]] — Otto wakes in the Ward *as* [[Room 202]], awake.
+- [[09 REDIVIDER — The Door]] — one of the three disposition receipt conversations.

@@ -19,5 +19,5 @@ Counted inside the ≤30 base-scene ledger in the [[Art Spec]].
 The car itself is the neutral ground between the two dressings — what changes is who walks out.
 
 ## Anomalies & cases hosted
-- [[SPOOL — The Job]] — the service-lift Shift (floor 2 → floor 2), the demo's teaching moment for the persona system.
+- [[02 SPOOL — The Job]] — the service-lift Shift (floor 2 → floor 2), the demo's teaching moment for the persona system.
 - [[Leon]]'s lift line, carried by the demo (see [[Anecdote Bank]]).

@@ -18,4 +18,4 @@ Domestic register, warm and unremarkable in both — Bob's normalcy is the joke 
 
 ## Anomalies & cases hosted
 - [[Bob's Mug]] — WORLD'S BEST TENANT.
-- [[RADAR — Detection]] — Bob deepened.
+- [[04 RADAR — Detection]] — Bob deepened.

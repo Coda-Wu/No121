@@ -12,7 +12,7 @@ The Building rearranges deterministically, from what [[Otto]] did last night.
 - Alarm-clock state.
 - Last conversation (advanced; includes **which twin**, [[Leon]] or [[Noel]] — see [[Tie Continuity]]).
 
-Authored beats override cleanly. The steering epiphany — the first *deliberate* permutation — lands in [[LIVED — The Name]].
+Authored beats override cleanly. The steering epiphany — the first *deliberate* permutation — lands in [[03 LIVED — The Name]].
 
 ## Persistence
 - Satchel: 3–5 slots.

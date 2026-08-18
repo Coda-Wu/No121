@@ -18,4 +18,4 @@ The album mounted, the fuse seated, one final flash — his own last exposure. S
 
 **Must be written warm and whole, or the triptych collapses.** [[Nan]] is its best argument.
 
-Can trigger as early as the branch point in [[ROTOR — Renner]]; otherwise reached from [[REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].
+Can trigger as early as the branch point in [[08 ROTOR — Renner]]; otherwise reached from [[09 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].
