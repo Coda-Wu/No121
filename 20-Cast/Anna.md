@@ -10,7 +10,11 @@ status: locked
 
 ## Role
 
-The addressee. Missing or dead for years; [[Otto]] reports to her nightly anyway. **The Maker** — the world is hers, or entangled with her (see [[The Ontology]]). Evidence accumulates all game — handwriting in blueprint margins, ledger gaps, the deed — but full confirmation is withheld until the endings, and each ending shades it differently.
+[[Otto]]'s partner. She went missing in **1998** and she is dead — see [[Timeline]] and [[The Death of Anna]].
+
+**She is the Building.** Not its maker and not its occupant: №121 is the shape her last consciousness took as it faded. Her intent was survival, a lifeboat; the player is meant to read it as a tomb, and does. See [[The Ontology]] and [[The Tomb Reading]].
+
+Keeping the Building intact keeps her last fragment alive, which keeps open the chance of bringing her back. She called [[Otto]] five years after she died, and he is the only living thing inside her.
 
 ## Voice
 <!-- formant preset, diction, word-budget notes -->
@@ -18,10 +22,17 @@ The addressee. Missing or dead for years; [[Otto]] reports to her nightly anyway
 Voice and tape only; "her" tape voice is achievable with gibberish synth, without casting. Never has a portrait or sprite until the endings.
 
 ## Relations
-- [[Otto]] — every tape is addressed to her.
-- [[Anna's Flat]] — the Building grows her a room on no plan, furnished from Otto's memories (D5).
+- [[Otto]] — her partner; every tape is addressed to her. She chose him as the anchor.
+- [[Eve]] — her mother, and the only character who tells the truth about her death. See [[The Hidden Family]].
+- [[Renner]] — her father, merged into the [[Electrical Room]] junction keeping her lit.
+- [[Anna's Flat]] — on D5 she grows herself a room out of Otto's memories, because she no longer has enough of her own.
+- [[Mr. Vacancy]] — the volume she can no longer occupy.
 - [[Reverse Film]] — the completed Anna-thread on [[The Corkboard Thread]] is the gate.
 
 ## Appears in
 - **Endings only**, staged differently per ending: at the tram stop in [[True Ending — Informed Breach]]; never met in [[Neutral Ending — Stay]]; conspicuously absent from the crowd in [[Bad Ending — Ignorant Breach]].
 - The sealed envelope marked "A." is pinned on day 0 and opened cold-open in [[06 ANNA — The Wound]].
+- Her undeveloped roll — her last exposure, shot before she died — is found on D5 and developed on her father's rig.
+
+## 🔧 Open
+- How and why she died; why the call took five years; whether she wants to live. All of it in [[The Death of Anna]].

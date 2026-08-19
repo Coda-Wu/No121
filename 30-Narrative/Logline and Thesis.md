@@ -6,13 +6,15 @@ status: locked
 
 ## Logline
 
-A handyman returns to the apartment building where he grew up and is quietly conscripted as its caretaker — measuring corridors that lie, photographing things that were never there, and reporting nightly to a woman who has been missing for years.
+An investigator takes a five-year-old cold case back to the building where it started — and the building puts him to work: measuring corridors that lie, photographing things that were never there, and reporting nightly to the woman he is looking for.
+
+> [!note] Ratified as **C1**, Round 1. The previous logline — *"A handyman returns to the apartment building where he grew up…"* — is retired. [[Otto]] is an investigator by trade, the handyman post is [[Anna]]'s empowerment, and he did not grow up in this building: he grew up in the real №121, and this one is her memory of his stories about it. See [[Timeline]].
 
 ## Thesis
 
 > *Leaving isn't wrong; leaving carelessly is.*
 
-The world is artificial and someone made it. The question is never whether to escape, but whether you understand what you'd be tearing open. The triptych of endings is the thesis argued three ways — see [[True Ending — Informed Breach]], [[Neutral Ending — Stay]], [[Bad Ending — Ignorant Breach]].
+The world is not merely artificial — it is a person. The question is never whether to escape, but whether you understand what you'd be tearing open. See [[The Ontology]]. The triptych of endings is the thesis argued three ways — see [[True Ending — Informed Breach]], [[Neutral Ending — Stay]], [[Bad Ending — Ignorant Breach]].
 
 Every dominant motif that surfaces on the corkboard gets checked against this thesis — the census rule in `35-Corkboard/PROTOCOL.md`.
 

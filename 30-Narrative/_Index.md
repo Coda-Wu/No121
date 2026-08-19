@@ -31,9 +31,18 @@ Filenames carry card + what the card owns, so the ANNA card cannot collide with 
 ## Canon
 
 - [[Logline and Thesis]]
-- [[The Ontology]] — top-secret layer.
 - [[Tapes to Anna]]
 - [[The Corkboard Thread]] — the in-world case board (not the vault's `35-Corkboard/`).
+
+## Top-secret layer
+
+Never stated plainly in-game. Assembled by the player from evidence; confirmed only at the endings.
+
+- [[The Ontology]] — the vessel *is* [[Anna]]; the lifeboat misread as a tomb.
+- [[Timeline]] — 1998 founding and death, 2003 present; the real №121; the dead who staff the Building.
+- [[The Death of Anna]] — 🔧 `seed`. The open spine: how, why, why five years, and whether she wants to live.
+- [[The Tomb Reading]] — 🔧 `seed`. The authored false conclusion and its planted evidence.
+- [[The Hidden Family]] — 🔧 `draft`. [[Eve]] and [[Renner]] as her parents, and how it stays hidden.
 
 ## Anecdotes (10 locked gags)
 

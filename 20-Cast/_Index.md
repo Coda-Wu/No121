@@ -24,9 +24,11 @@ Generated map of content. Ask Claude Code to regenerate. The binding constraint 
 
 ## Canon
 
-- [[Naming Canon]] — the palindrome rule, its violations, and the R9 restraint amendment.
+- [[Naming Canon]] — the palindrome rule, its violations, the R9 restraint amendment, and the secret layer.
+- [[The Hidden Family]] — top-secret. [[Eve]] is [[Anna]]'s mother, [[Renner]] her father; both dead before [[Otto]] met her. Never disclosed plainly.
 
 ## Open
 
 - 🔧 [[Mr. Vacancy]] is `draft`: the final name is Coda's call. See [[Workshop Agendas]].
+- 🔧 Real-world originals for [[Nan]], [[Bob]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
 - 🔧 [[Otto]]'s surname, if any.

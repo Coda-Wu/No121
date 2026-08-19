@@ -14,14 +14,20 @@ The Nurse — the Building's self-purging manifestation. Once a tenant; chose to
 
 Two surfaces: mundane ground-floor infirmary [[Room 101]], and [[The Ward]], the dream hub. Her room is untouched by permutation.
 
+> [!warning] Top-secret: **Eve is [[Anna]]'s mother**, dead before [[Otto]] ever met Anna, and built from Anna's memory rather than his. She guards her daughter psychologically. She is the one character who **tells the truth about the death**, and the player is set up to disbelieve her. Never disclosed plainly — see [[The Hidden Family]].
+
+"Visiting hours end at three" is a mother running a hospice, telling him how long her daughter has.
+
 ## Voice
 <!-- formant preset, diction, word-budget notes -->
 
-Oblique prescriptions — tier 3 of the hint ladder in [[The Dream and Hint Ladder]]. "Visiting hours end at three."
+Oblique prescriptions — tier 3 of the hint ladder in [[The Dream and Hint Ladder]].
 
 ## Relations
-- [[Otto]] — administers every scripted blackout; each "death" ends with her having put him to bed.
-- [[Reverse Film]] — she grants it, after ≥5 of 7 MISSING notices and the completed Anna-thread.
+- [[Anna]] — her daughter, and the building she is standing in.
+- [[Renner]] — the other parent; physical guardianship to her psychological one. They never acknowledge each other as such.
+- [[Otto]] — administers every scripted blackout; each "death" ends with her having put him to bed. A mother caring for her daughter's partner.
+- [[Reverse Film]] — she grants it, after ≥5 of 7 MISSING notices and the completed Anna-thread. She knows exactly what staying costs, and grants the alternative.
 - [[The Camera]] — prescribes the detachable flashgun on D2.
 
 ## Appears in
