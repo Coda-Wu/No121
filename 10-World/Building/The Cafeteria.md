@@ -16,6 +16,10 @@ The apartment building's cafeteria and restaurant, on floor 1. **The gut** in [[
 
 This is the **social hub** — the room where most of the cast crosses paths, and where a large share of the anecdote-bank microbeats land. See [[Anecdote Bank]].
 
+**No alcohol is served.** Coffee, soft drinks, mocktails, and whatever food [[Leon]] and [[Noel]] know how to make. It opens at mealtimes and it is the day loop's one pressure-free room: the chill moment each night.
+
+🔧 The menu is designed night by night — what is served on which day is part of the calendar.
+
 ## Dressing A (performance) / Dressing B (truth)
 
 🔧 Unwritten.

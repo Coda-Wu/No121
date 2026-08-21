@@ -16,7 +16,7 @@ status: locked
 
 Nursery furniture, municipal drafting.
 
-Under [[The Organ Map]], floor 3 is the **eye**. Hosts the cataract operation on [[Pip]] — 🔧 designed in Round 5.
+Under [[The Organ Map]], floor 3 is the **eye**. Hosts both of [[The Cataract Operations]] on [[Pip]] — mid D3 and mid D6.
 
 ## Anomalies & cases hosted
 - The blueprint under the door on night 0, and a refined copy every morning.

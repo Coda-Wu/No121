@@ -23,7 +23,7 @@ The player is meant to read it as a **grave**. Evidence is planted that way on p
 
 Every scope lock in the [[Scope Ledger]] now has a fictional cause. She can hold roughly thirty rooms. [[The Sealed Fifth Floor]] is a floor she has already lost. The sixth floor that isn't there is where the loss shows, and [[Room 696]] is what moved into it. The "no vacancies" policy is her holding on with both hands.
 
-[[Mr. Vacancy]] is therefore not an invader. It has three layered sources: entropy caused the birth of the dying wish, the dying wish strengthens as she loses hope of being answered, and [[Otto]]'s guilt and heartbreak mix into it.
+[[Mr. Vacancy]] **existed before she died** and took her family one at a time — see [[The Curse]]. Inside the vessel it is additionally fed by three sources: entropy caused the birth of the dying wish, the dying wish strengthens as she loses hope of being answered, and [[Otto]]'s guilt and heartbreak mix into it.
 
 **The Building is mind and body both.** Each floor corresponds to an organ, and anomalies are generated from it — see [[The Organ Map]] and [[The Body]].
 

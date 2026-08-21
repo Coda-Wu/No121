@@ -14,6 +14,8 @@ The predecessor handyman. Merged into the [[Electrical Room]] junction — wires
 
 > [!warning] Top-secret: **Renner is [[Anna]]'s father**, dead before [[Otto]] ever met Anna, and built from Anna's memory rather than his. He guards her **physically** — he held the handyman's post until he could no longer and spent himself doing it. Love carried beyond death. Never disclosed plainly — see [[The Hidden Family]].
 
+He was taken by [[Mr. Vacancy]] before Otto met Anna — see [[The Curse]].
+
 He is comfortable in the junction because he is keeping the lights on for his daughter. The horror is that it isn't horrible.
 
 ## Voice

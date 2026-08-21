@@ -12,11 +12,13 @@ status: draft
 
 The Child Cartographer of [[Room 313]]. An infant who crawls the corridors and drafts like a municipal architect.
 
-**Pip is blind** — cataracts — and **too young to speak**. He makes noise; he does not talk, comment, rate or judge. His only channel is his drawings, and even those carry very little text.
+> [!warning] Top-secret: **Pip is [[Anna]]'s younger brother.** He died in infancy, before he learned to speak, taken by [[Mr. Vacancy]] along with the rest of the family — see [[The Curse]] and [[The Hidden Family]]. He is the one she could not protect, and the one thing she gave him is the ability she wished he had had.
+
+**Pip is blind** — congenital cataracts — and **too young to speak**. He makes noise; he does not talk, comment, rate or judge. His only channel is his drawings, and even those carry very little text.
 
 Sends the master blueprint under the door on night 0, mid-tape; refined copies every morning. The blueprint is the map surface — see [[Night Phase]].
 
-Under [[The Organ Map]], floor 3 is the **eye**. The floor-3 chapter requires [[Otto]] to perform cataract surgery on Pip, which restores [[Anna]]'s vision. 🔧 The operation is designed in Round 6.
+Under [[The Organ Map]], floor 3 is the **eye**. [[Otto]] performs **two cataract operations** on him, one per eye, mid D3 and mid D6 — see [[The Cataract Operations]]. Each implants a shard of a camera filter and unlocks that filter's capability; see [[Filters]].
 
 ## Voice
 <!-- formant preset, diction, word-budget notes -->
@@ -35,4 +37,4 @@ Hint tier 2 in [[The Dream and Hint Ladder]], delivered entirely through the dra
 - [[04 RADAR — Detection]] — Bob and Pip deepened.
 
 ## 🔧 Open
-- His real-world original, required by the secret layer of [[Naming Canon]] — and why a child standing for [[Anna]]'s eye is a boy. Round 6.
+- Whether his morning blueprints carry what each implanted eye can see.

@@ -12,7 +12,7 @@ Generated map of content. Ask Claude Code to regenerate. **Systems freeze in eff
 - [[The Day Loop]] — five beats, day-advance rules, day math.
 - [[Persona Law]] — the Shift, the Haze, the doppelganger rule.
 - [[The Camera]] — the hero object: capacitor, snap tiers, film economy.
-- [[Purge and Light]] · [[Filters]] · [[Develop-to-Heal]]
+- [[Purge and Light]] · [[Filters]] · [[The Cataract Operations]] · [[Develop-to-Heal]]
 - [[The Ruler]] — three scares.
 - [[Night Phase]] — develop → pin → tape → alarm → sleep.
 - [[The Dream and Hint Ladder]]

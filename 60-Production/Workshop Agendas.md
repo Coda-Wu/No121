@@ -12,17 +12,18 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 
 - **The exact cause of death** — [[The Death of Anna]]. She drowned at sea in 1998 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
 - **The evening call** — [[06 ANNA — The Wound]]'s critical beat. The 3 AM call now ends the demo in [[02 SPOOL — The Job]]; whether D5's evening call is a separate, later beat or was relocated is 🔧 open.
-- **The cataract operation** — floor 3, [[Pip]], [[Room 313]]. The minigame steps, the horror escalation, and what the implant is. Soft-fail with instant restart, per Round 5. **Round 6.**
-- **[[Pip]]'s real-world original**, and why a child standing for [[Anna]]'s eye is a boy.
 - **[[The Cafeteria]]** — floor 1, the social hub. Dressing, anecdote placement, and the twins' split shift.
-- **[[Mr. Vacancy]]'s approach arc** — day by day, what form Otto's consent takes, and the puzzle design.
-- **The circumstances of the drowning** — [[The Death of Anna]]. Occasion, location, and what Anna's account contains.
+- **[[Mr. Vacancy]]'s delusion slate** — the remaining delusions, one per chapter, each built from something [[Otto]] fears. Three are settled (the ravens, the D6 phantom, the D7 camera offer). **Round 7.**
+- **[[The Curse]]** — how [[Renner]] and [[Eve]] were taken, and why this family.
+- **[[The Cataract Operations]]** — the step-by-step minigame verbs, and what escalates on operation two.
+- **[[The Cafeteria]] menu** — night by night.
 - **The four corkboard conclusions** — the individual threads, how combinations produce new threads, and which key threads derive each conclusion. See [[The Tomb Reading]].
 - **[[Key Items]]** — the physical form of each of the seven faculties and its discovery scene.
 - **[[The Tomb Reading]] evidence slate** — the planted misdirection, and whether the in-game corkboard supports competing conclusions at all. Draws on the word budget; a deletion will need naming under the scope-tax rule in the [[Scope Ledger]].
 - **[[The Hidden Family]] concealment channels** — placement of the paperwork, articles, voice messages and description-patterns that carry [[Eve]] and [[Renner]]'s parentage without ever stating it.
 - **Real-world originals** for [[Nan]], [[Bob]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
-- **Anomaly catalogue** — the generative law and the organ map are now settled in [[The Organ Map]]; the floor-by-floor list is not written. **Round 5 business.**
+- **Anomaly catalogue** — the generative law and the organ map are settled in [[The Organ Map]]. Each floor entry needs: lawful (the organ working), sick (the organ failing), [[Mr. Vacancy]]'s invasions, and what UV and NIR reveal. Vacancy influence increases with the chapter number. Floors 1–3 drafted first. **Round 8.**
+- **House Rules clause pass** — 9–11 clauses, 3 seeds. They read as property law and derive from the organ map behind the scenes.
 
 ## 🔧 Open
 - **House Rules clause-by-clause pass** — `40-Mechanics/Clauses/`, currently 3 seeds against a 9–11 lock.

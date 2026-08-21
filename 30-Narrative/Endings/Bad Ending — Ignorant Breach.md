@@ -9,7 +9,9 @@ The camera verb is ***none***: the door is torn.
 
 ## Gates
 
-**None.** Choosable in ignorance, always — this is the point. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
+**None.** Choosable in ignorance, always — this is the point.
+
+**Second route:** if the player hands the camera back to [[Mr. Vacancy]] on D7, before the final maze, [[Otto]] has no weapon against the shadows and arrives here with no further choice offered. See [[08 ROTOR — Renner]]. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
 
 ## What it means
 

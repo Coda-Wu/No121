@@ -1,0 +1,49 @@
+---
+type: system
+status: draft
+---
+# The Cataract Operations
+
+Two operations, one per eye, performed by [[Otto]] on [[Pip]]. They are how [[Filters]] are unlocked.
+
+## Why
+
+[[Eve]] hands Otto the filter and tells him that to see the truth, **the camera and Pip must share the same view**. Floor 3 is the eye in [[The Organ Map]]; restoring Pip's sight restores [[Anna]]'s.
+
+The camera does not ship with filters. Filter capability is unlocked by the operations and not before.
+
+| Operation | When | Unlocks |
+|---|---|---|
+| Eye 1 | mid D3 | **UV** |
+| Eye 2 | mid D6 | **NIR** |
+
+The second operation is optional in the sense that the player must choose to go through it again. They will, because it is the only route to NIR — and NIR is a gate on [[True Ending — Informed Breach]].
+
+## The implant
+
+A real intraocular lens is flexible polymer. A camera filter is coated glass and does not flex. **So the implant is a glass shard**, broken from the filter — edged, unpolished, and inserted almost brutally.
+
+Putting a piece of broken glass into an infant's eye is the body horror, and it is what activates the camera.
+
+## The procedure
+
+Real phacoemulsification order, kept: speculum → corneal incision → viscoelastic → **capsulorhexis** → hydrodissection → **phacoemulsification** → cortex removal → implant → seal.
+
+What the player must feel:
+- the tipping points, where the hand can still be wrong;
+- the sharp edges of the instruments;
+- the sound of the phaco machine;
+- the pain of a sharp object entering a body.
+
+## Failure
+
+**Soft-fail with instant restart** — the vault's standard, and the same rule as the darkroom. The player is never punished with a permanently worse blueprint. Pip is never harmed permanently.
+
+## Pip during it
+
+Pip is blind, pre-verbal, and cannot object. He makes noise. He does not speak, rate or judge — see [[Pip]].
+
+## 🔧 Open
+- The step-by-step minigame verbs and their inputs.
+- What the escalation is on operation two, given the player already knows the procedure.
+- Whether the discarded natural lens is an object.

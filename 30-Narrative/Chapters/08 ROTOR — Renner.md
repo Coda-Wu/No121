@@ -18,6 +18,7 @@ status: locked
 - **The fuse-swap room puzzle (critical path) → [[Master Fuse Seated]].**
 - The basement darkroom station, found.
 - The branch point: [[Neutral Ending — Stay]] can trigger here.
+- **[[Mr. Vacancy]] asks for the camera back**, in the wording of the requisition slip: RETURN UPON TERMINATION OF TENANCY. Handing it over before the final maze removes Otto's only weapon and sends him to [[Bad Ending — Ignorant Breach]] with no further choice.
 - Floor-5 material becomes placeable from here — [[The Sealed Fifth Floor]].
 
 ## Microbeats (anecdote bank)

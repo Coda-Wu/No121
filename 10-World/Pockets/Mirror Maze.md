@@ -22,6 +22,6 @@ Glass and reflection; the west-face shot develops, once and by authoring, as the
 
 ## Anomalies & cases hosted
 - **The Concession** (skip valve, ratified R9): past ~2:30 on one layer, or 5:00 across the maze, the Vacancy steps into a clear line of sight and permits the shot. Never announced, no prompt; the game never admits the valve exists. Earned captures develop **neutral**, conceded captures develop **smiling**.
-- **The contact sheet**: the three prints escalate within one darkroom session — L1 neutral, L2 the eyes have moved since the shutter, L3 closer than the glass allows.
+- **The contact sheet — the game's first delusion.** The three prints develop, in one darkroom session, as: **standing** · **rushing the camera** · **a raven**. Otto then drops into a mind-space: a beach, the sound of ravens, and far off a group of them feeding on a body. This is [[Mr. Vacancy]]'s first attempt to make him believe [[Anna]] is dead and her body was consumed. Earned captures develop neutral and conceded captures develop smiling, per the Concession above; the raven is the third print either way.
 - A dead work-order bulb hangs at centre; changed after capture, the order reads COMPLETE.
 - 🔧 Solver-validation of all three layers is Claude's job — see [[Workshop Agendas]].

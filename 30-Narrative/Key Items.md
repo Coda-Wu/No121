@@ -13,16 +13,20 @@ Eight items, one per chapter card after the cold open. Each is awarded for compl
 
 The eight are **mixed in kind — every item is a different sort of object**. Sources are: a developed print, pocket-puzzle rooms, and key NPCs.
 
-**Exactly one** of the eight is a photograph. 🔧 Which one, and the source of each of the other seven, is Round 6.
+**Exactly one** of the eight is a photograph: **her love**, developed on D5 from her own undeveloped roll on her father's rig.
+
+**Nothing in this table is locked.** Each item carries a story, and that story is the main act of its chapter — the items and the plot are written together, not separately. The faculty names are placeholders until the real-world objects they attach to are chosen.
+
+Two provisional reassignments made in Round 6: **her childhood** moves to D3 with [[Pip]], and **her fear** moves to D6 with [[Nan]] — [[Room 434]] marks the moment Nan was physically dead, and what she is afraid of is being spiritually dead with nobody left to remember her.
 
 | Card | Day | Item |
 |---|---|---|
 | SPOOL | 1 | her voice |
 | LIVED | 2 | her name |
-| RADAR | 3 | her fear |
+| RADAR | 3 | her childhood — [[Pip]] |
 | REPAPER | 4 | her doubt |
 | ANNA | 5 | her love |
-| DEED | 6 | her childhood |
+| DEED | 6 | her fear — [[Nan]] |
 | ROTOR | 7 | her courage |
 | REDIVIDER | Final Night | **her breath** |
 

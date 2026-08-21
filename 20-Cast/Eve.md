@@ -16,6 +16,10 @@ Two surfaces: mundane ground-floor infirmary [[Room 101]], and [[The Ward]], the
 
 > [!warning] Top-secret: **Eve is [[Anna]]'s mother**, dead before [[Otto]] ever met Anna, and built from Anna's memory rather than his. She guards her daughter psychologically. Never disclosed plainly — see [[The Hidden Family]].
 
+She was taken by [[Mr. Vacancy]] before Otto met Anna — see [[The Curse]].
+
+She supplies the filters and the reason for [[The Cataract Operations]]: for the truth to be visible, the camera and [[Pip]] must share the same view.
+
 She **tells Otto, in a dream, that Anna is dead**. She does not tell him how she died, and she does not tell him why the Building feels like Anna. The player is set up to disbelieve her. She does not tell [[Anna]] anything: Anna does not know she is dead, and Eve keeps it that way.
 
 ## Voice
