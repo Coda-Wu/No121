@@ -13,7 +13,6 @@ status: locked
 - [[The Crooked Frame]]
 - [[Tie Continuity]]
 - [[Bob's Mug]]
-- [[Pip's Ratings]]
 - [[Nan's Biscuits]]
 - [[The Polite Pause]]
 - [[The Spirit Level]]

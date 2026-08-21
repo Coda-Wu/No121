@@ -40,7 +40,9 @@ Settled in Round 4: the board supports **four terminal conclusions**, reached by
 3. *This is her.*
 4. *He was there.*
 
-🔧 Round 5: the individual threads, how combinations produce new threads, and which key threads derive each conclusion.
+**Reaching a conclusion unlocks what [[Eve]] will discuss**, and Eve gates the [[Key Items]]. The board therefore does real work without ever telling the player they are wrong. *This is her* and *he was there* are both required for [[True Ending — Informed Breach]]; *this is her tomb* is a complete and satisfying dead end.
+
+🔧 Round 6: the individual threads, how combinations produce new threads, and which key threads derive each conclusion.
 
 ## Depends on
 - [[The Death of Anna]] — the misdirection cannot be finished before the truth is.

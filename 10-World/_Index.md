@@ -12,6 +12,7 @@ Generated map of content. Ask Claude Code to regenerate. Screen-ledger lock: **�
 |---|---|---|
 | [[Lobby]] | G | ✓ |
 | [[Corridor Ring]] | 2 (base; all floors share) | ✓ |
+| [[The Cafeteria]] | 1 | | *the gut; the social hub*
 | [[Elevator]] | all | ✓ |
 | [[Stairwell]] | all | ✓ |
 | [[Room 101]] | G | |

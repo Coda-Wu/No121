@@ -19,6 +19,6 @@ Nursery furniture, municipal drafting.
 Under [[The Organ Map]], floor 3 is the **eye**. Hosts the cataract operation on [[Pip]] — 🔧 designed in Round 5.
 
 ## Anomalies & cases hosted
-- Lollipop signatures; photographs rated out of ten — see [[Pip's Ratings]].
+- The blueprint under the door on night 0, and a refined copy every morning.
 - [[Clause 2]], shown (not taught) in the demo as Pip's crayon map.
 - Floor 3 is the one to be walked against the clock — see [[Clause — Against the Clock]].

@@ -10,9 +10,9 @@ status: locked
 
 ## Role
 
-Protagonist. **An investigator by trade** — the Agent is his real life, not a costume. [[Anna]], his partner, drowned at sea in 1998. **He was there and could not reach her.** Her body was never recovered and he searched for five years.
+Protagonist. **An investigator by trade** — the Agent is his real life, not a costume. [[Anna]], his partner, drowned at sea in 1998. **He was on the beach and asleep**, and woke too late; by then everyone else had gone and nobody had noticed she was missing. He does not know what happened. Her body was never recovered and he searched for five years.
 
-His recall of that day is complete and unblurred, and it does not match hers. See [[The Death of Anna]].
+His recall of that day is complete and unblurred and contains no event, and it does not match hers. See [[The Death of Anna]].
 
 The Building makes him its handyman — **HANDYMAN (ACTING)**. The uniform is [[Anna]]'s empowerment and it is a weapon, not a job: the other tenants can maintain her, and only Otto can repair her and fight the corruption in her. See [[The Ontology]], [[Persona Law]].
 

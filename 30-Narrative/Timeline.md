@@ -11,7 +11,7 @@ secret: true
 
 | Year | What |
 |---|---|
-| **1998** | [[Anna]] drowns at sea, with [[Otto]] present and unable to reach her. Her body is never recovered. The vessel is created in the same year. See [[The Death of Anna]] and [[The Body]]. |
+| **1998** | [[Anna]] drowns at sea in a rip current, while [[Otto]] is asleep on the beach. He wakes too late to an empty beach. Her body is never recovered. The vessel is created in the same year. See [[The Death of Anna]] and [[The Body]]. |
 | **2003** | The present. [[Otto]] arrives at dusk in [[01 №121 — Arrival]], five years after she vanished. |
 
 Five years is the interval Coda ratified in Round 1: she vanished five years ago, and it took her consciousness that long to reach him. Everything in the vault dates from these two anchors.

@@ -1,3 +1,5 @@
+> [!warning] **SUPERSEDED — historical record only.** Grill Rounds 1–5 (Aug 2026) reopened the fiction beneath the closed systems tree. The ontology, the cast's hidden relationships, the death, the endings and the anomaly law in this document are all out of date. The atomized notes in `10-World/`, `20-Cast/`, `30-Narrative/`, `40-Mechanics/` are the source of truth. Do not cite this file as canon.
+
 # №121 — WORLD BIBLE & DESIGN CANON v1.1
 *(№121 is the official working title; the final title is Coda's development-time call, same standing as "Mr. Vacancy." Compiled from Grill Rounds 1–9, August 2026 — the design tree is complete. Items marked 🔧 belong to the post-tree workshops.)*
 

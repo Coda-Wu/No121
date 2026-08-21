@@ -18,5 +18,4 @@ Detection.
 - UV filter window opens (D3–4) — [[Filters]].
 
 ## Microbeats (anecdote bank)
-- [[Pip's Ratings]].
 - [[The Polite Pause]].

@@ -16,7 +16,7 @@ The wound.
 - The dig.
 - The Building grows [[Anna's Flat]] — a room on no plan, furnished from [[Otto]]'s memories.
 - Her undeveloped roll found, and developed on [[Renner]]'s rig.
-- **The evening call — the real horror.**
+- **The evening call — the real horror.** The second call. It opens with **the same sentence** [[Anna]] used at 3 AM on D1, and then she says something only a living person would say — something in the future tense — and [[Otto]] does not correct her. Cut with flashbacks to the day she went missing. See [[Tapes to Anna]] and [[The Death of Anna]].
 - [[Reverse Film]] window opens.
 
 ## Microbeats (anecdote bank)

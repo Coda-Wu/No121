@@ -18,7 +18,7 @@ Each fruitless night adds **exactly one** new detail — never more. See [[The D
 
 ## Hint ladder
 1. Dream escalation.
-2. [[Pip]]'s maps — and [[Pip's Ratings]] on the prints.
+2. [[Pip]]'s maps. Pip is non-verbal; the whole tier is delivered through the drawings.
 3. [[Eve]]'s oblique prescriptions in [[Room 101]].
 
 ## Leak

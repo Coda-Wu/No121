@@ -10,7 +10,8 @@ secret: true
 ## What is settled
 
 - [[Anna]] **drowned at sea in 1998**. It was a natural event, not a crime and not negligence. There is no culprit.
-- **[[Otto]] was there. He saw it happen and could not reach her.**
+- The mechanism is a **rip current** plus the **instinctive drowning response**: a drowning person cannot call out, because the respiratory system is committed to breathing, and cannot wave, because the arms press down on the water. They stay upright and silent for twenty to sixty seconds and then go under. It does not look like distress.
+- **[[Otto]] was on the beach and asleep.** He woke too late. By then everyone else had left and nobody had noticed she was missing. **He does not know what happened.**
 - Her body was never recovered. It lies in deep water — see [[The Body]].
 - She is genuinely dead. What survives is a fading fragment of consciousness, and that fragment is the Building.
 - **She does not know she is dead.** A lost soul continues to believe it is living until someone it loves says otherwise. Nobody has.
@@ -21,17 +22,15 @@ secret: true
 
 Neither Otto nor Anna has lost or blurred any part of that day. Both accounts are detailed and both are held with certainty, and **they do not match**. The game never adjudicates between them.
 
+Otto's account contains no event: he lay down, he slept, he woke to an empty beach. Anna's account contains him.
+
 Design-side fact, never confirmed in-game: **Anna's memory is the correct one.**
 
-## 🔧 The open question
+## 🔧 Open
 
-**The exact cause of death.** It must be:
-- natural, and outside anyone's expectation;
-- witnessed by Otto, close enough to see and too far to help;
-- consistent with both people remembering the event clearly and remembering it differently;
-- consistent with the body going into deep water and not being found.
+**The circumstances of that day.** Whether they lived near the coast or travelled to it, whether the day was an occasion or an ordinary one, and how strong a swimmer Anna was. Round 6.
 
-Round 5 business. Candidate slate is in [[Workshop Agendas]].
+**What exactly Anna's account contains** — the specific thing she remembers about Otto that he cannot verify. Round 6.
 
 ## Depends on this note
 - [[The Tomb Reading]] — the misdirection is finished once the truth is.

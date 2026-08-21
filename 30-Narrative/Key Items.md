@@ -9,6 +9,12 @@ Eight items, one per chapter card after the cold open. Each is awarded for compl
 
 **Reverse Film restores the body. The key items restore the person.** Reverse Film without the full set produces [[Do I Know You — The Hollow Return]].
 
+## Sources
+
+The eight are **mixed in kind — every item is a different sort of object**. Sources are: a developed print, pocket-puzzle rooms, and key NPCs.
+
+**Exactly one** of the eight is a photograph. 🔧 Which one, and the source of each of the other seven, is Round 6.
+
 | Card | Day | Item |
 |---|---|---|
 | SPOOL | 1 | her voice |
@@ -32,5 +38,5 @@ She gives it to him in the heart, in [[09 REDIVIDER — The Door]], as the revea
 
 ## 🔧 Open
 - Whether the seven shade the restored Anna or hard-gate. Current call: shade — a missing faculty shows in the epilogue.
-- The physical form of each of the seven, and its discovery scene.
+- The physical form of each of the seven, its source, and its discovery scene. Round 6.
 - Placement against the [[Scope Ledger]] word budget.

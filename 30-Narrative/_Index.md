@@ -54,6 +54,6 @@ Never stated plainly in-game. Assembled by the player from evidence; confirmed o
 
 ## Anecdotes (10 locked gags)
 
-[[Anecdote Bank]] · [[The Cigarette Gag]] · [[The Doorknob]] · [[Noir Corrections]] · [[The Crooked Frame]] · [[Tie Continuity]] · [[Bob's Mug]] · [[Pip's Ratings]] · [[Nan's Biscuits]] · [[The Polite Pause]] · [[The Spirit Level]]
+[[Anecdote Bank]] · [[The Cigarette Gag]] · [[The Doorknob]] · [[Noir Corrections]] · [[The Crooked Frame]] · [[Tie Continuity]] · [[Bob's Mug]] · [[Nan's Biscuits]] · [[The Polite Pause]] · [[The Spirit Level]]
 
 Quota: 2–3 microbeats per chapter. 🔧 The placement pass is workshop business — [[Workshop Agendas]].

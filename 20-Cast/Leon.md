@@ -14,6 +14,8 @@ One half of the Superintendent — twins, one role, alternating nights, with [[N
 
 A sincere believer in the forms.
 
+**The split shift:** on any given night one twin runs [[The Cafeteria]] on floor 1, serving [[Otto]] meals and coffee, while the other guards the ground floor. Which twin is where is part of the permutation axis.
+
 ## Voice
 <!-- formant preset, diction, word-budget notes -->
 

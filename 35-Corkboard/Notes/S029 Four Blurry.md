@@ -6,7 +6,7 @@ where: "[[Room 313]]"
 cast: ["[[Pip]]", "[[Otto]]"]
 register: domestic
 motifs: []
-status: pinned
+status: cut
 day: ""
 slot: ""
 thread: ""
@@ -24,7 +24,7 @@ source: canon
 
 The harshest critic in the building drafts like a municipal architect and signs in lollipops.
 
-<!-- Canon extract: locked anecdote [[Pip's Ratings]]. Quoted line is bible-verbatim. -->
+<!-- CUT in Grill Round 5: Pip is non-verbal and does not rate anything. The Pip's Ratings anecdote note was retired. Kept per PROTOCOL — nothing is ever deleted. -->
 
 <!-- lang:zh source-hash:5e20e787 machine -->
 > [!quote]- 中文（机器译稿）

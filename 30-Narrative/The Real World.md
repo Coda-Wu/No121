@@ -20,6 +20,11 @@ The 2003 layer outside the Building. See [[Timeline]].
 - One rose cast into the ocean each year — see [[Key Items]].
 - The declaration of death in absentia, 2003. The night after it is issued, Otto sees the Building standing in mist on the water by moonlight, lit from within. It is the building he had been dreaming.
 
+## The three interstitials
+
+1. **The coast, 1998**, immediately after the drowning — the search that first night. This is the game's **only** visit to 1998, and it lands before the player knows what they are looking at. Placed after D2.
+2. **Otto's flat, 2003** — the case wall, and the declaration letter arriving. Placed after D4.
+3. **The coast, 2003** — the fifth rose going into the water. Placed after D6.
+
 ## 🔧 Open
-- Which three interstitials, and where they sit between chapters.
-- Whether Otto's real-world flat is one of them.
+- Whether each interstitial is playable or a held shot.

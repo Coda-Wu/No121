@@ -10,7 +10,9 @@ status: locked
 
 ## Function
 
-[[Mr. Vacancy]]'s residence. The doorsign's middle 6 hangs from a fallen nail and reads **666** — the imperfect mimicry that is the antagonist's signature under [[The Two-Grammar Rule]], and the violation that proves [[Naming Canon]].
+[[Mr. Vacancy]]'s residence, and the **brain** in [[The Organ Map]] — the death wish sits in [[Anna]]'s mind. There is no tumour in this game; she does not have cancer.
+
+The doorsign's middle 6 hangs from a fallen nail and reads **666** — the imperfect mimicry that is the antagonist's signature under [[The Two-Grammar Rule]], and the violation that proves [[Naming Canon]].
 
 The Building shows five floors from outside. 696 waits on the sixth that isn't there.
 

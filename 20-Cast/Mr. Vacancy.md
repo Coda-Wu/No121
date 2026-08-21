@@ -16,7 +16,22 @@ The antagonist: the pollution that causes sick-weird anomalies and spatial rot. 
 
 > [!warning] Top-secret: **three sources, layered.** ① **Entropy** caused the birth of the dying wish. ② **The dying wish** grows stronger over the five years as [[Anna]] loses hope of being answered. ③ **[[Otto]]'s influence** — his own guilt and heartbreak, mixed into her dying wish. It is not an invader. It is co-authored by both of them, which is why it wears his face. See [[The Ontology]] and [[The Death of Anna]].
 
-It is the source of **illusion horror and unknown horror**. The body-horror anomalies come from the decaying body instead — see [[The Two-Grammar Rule]] and [[The Body]]. 🔧 Its puzzles and tricks are Round 5 business.
+It is the source of **illusion horror and unknown horror**. The body-horror anomalies come from the decaying body instead — see [[The Two-Grammar Rule]] and [[The Body]].
+
+## The consent rule
+
+A death wish cannot act without being let in. Both [[Anna]] and [[Otto]] are still holding their last measure of will toward life, and while they hold it the Vacancy cannot take either of them.
+
+Its plan is to **delude Otto into giving up first**. If he lets go, Anna is available immediately.
+
+## Two tiers
+
+- **The Vacancy itself never attacks and never threatens. It offers.** Illusion horror: it shows Otto what he wants — Anna, restored and correct in every detail — and offers her, early and for free. Every offer is a preview of [[Do I Know You — The Hollow Return]]: the Anna it renders does not recognise him. The horror is the fear that he will say yes.
+- **The lesser shadows and hatched [[Festering]]s do attack**, and do try to drive him mad. They are the death wish's lower expressions, and their function is to exhaust him until an offer looks reasonable. This is why [[Purge and Light]] exists.
+
+Design note: death is supposed to feel peaceful. It does not feel peaceful to a soul that is unwilling.
+
+🔧 Round 6: the approach arc day by day, what form Otto's consent takes, and the puzzle design.
 
 Deliberately **not** a palindrome — the inhuman thing doesn't get a loop-name, because under the secret layer of [[Naming Canon]] a palindrome marks someone Anna knew in life, and it knew nobody. A failed or near-palindrome is its typographic signature; [[Room 696]]'s doorsign reads 666 where the middle 6's nail has fallen.
 
