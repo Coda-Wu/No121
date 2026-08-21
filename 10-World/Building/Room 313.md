@@ -16,6 +16,8 @@ status: locked
 
 Nursery furniture, municipal drafting.
 
+Under [[The Organ Map]], floor 3 is the **eye**. Hosts the cataract operation on [[Pip]] — 🔧 designed in Round 5.
+
 ## Anomalies & cases hosted
 - Lollipop signatures; photographs rated out of ten — see [[Pip's Ratings]].
 - [[Clause 2]], shown (not taught) in the demo as Pip's crayon map.

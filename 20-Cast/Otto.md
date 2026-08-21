@@ -10,9 +10,15 @@ status: locked
 
 ## Role
 
-Protagonist. **An investigator by trade** — the Agent is his real life, not a costume. He brings a five-year-old cold case back to the building where it started: [[Anna]], his partner, missing since 1998.
+Protagonist. **An investigator by trade** — the Agent is his real life, not a costume. [[Anna]], his partner, drowned at sea in 1998. **He was there and could not reach her.** Her body was never recovered and he searched for five years.
+
+His recall of that day is complete and unblurred, and it does not match hers. See [[The Death of Anna]].
 
 The Building makes him its handyman — **HANDYMAN (ACTING)**. The uniform is [[Anna]]'s empowerment and it is a weapon, not a job: the other tenants can maintain her, and only Otto can repair her and fight the corruption in her. See [[The Ontology]], [[Persona Law]].
+
+He posted the MISSING notices himself, in the real world, and cast one rose into the ocean each year — see [[The Real World]] and [[Key Items]].
+
+**Day 0 state:** heartbroken by the declaration of death in absentia, and still convinced she is alive. He had been dreaming the Building; the night after the declaration his ability to sense her is boosted by the heartbreak and he sees it standing in mist on the water, lit from within, and the street number is legible. He goes on intuition, takes the handyman post as cover to search, and says on tape that he can smell her presence the moment he enters. Nothing confirms it.
 
 He believes he grew up in this building. **He is wrong** — the real №121 is elsewhere, and this one is her memory of his stories about it. See [[Timeline]]. He is the only living thing inside her.
 

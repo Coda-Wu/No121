@@ -11,10 +11,20 @@ secret: true
 
 | Year | What |
 |---|---|
-| **1998** | [[Anna]] goes missing and dies. The vessel is created in the same year — the death and the founding are one event. See [[The Death of Anna]]. |
+| **1998** | [[Anna]] drowns at sea, with [[Otto]] present and unable to reach her. Her body is never recovered. The vessel is created in the same year. See [[The Death of Anna]] and [[The Body]]. |
 | **2003** | The present. [[Otto]] arrives at dusk in [[01 №121 — Arrival]], five years after she vanished. |
 
 Five years is the interval Coda ratified in Round 1: she vanished five years ago, and it took her consciousness that long to reach him. Everything in the vault dates from these two anchors.
+
+## Why five years — three clocks
+
+Three processes complete in 2003. None is sufficient alone.
+
+1. **The body converts.** Adipocere forms over months and stabilises over years. The vessel accretes at the rate the body does — see [[The Body]].
+2. **The search accumulates.** [[Otto]] posts MISSING notices and casts one rose into the ocean each year. The notices are the wall between the two worlds, and his relentless searching is what keeps the connection possible at all. See [[MISSING Notices Collected]] and [[Key Items]].
+3. **The declaration completes.** Death in absentia is issued in 2003.
+
+**Anna does not get stronger.** She tries to reach Otto every night and a lost soul is weak. What changes in 2003 is **Otto's ability to sense her**, boosted by heartbreak on the day of the declaration. That night he sees the Building on the water. Entropy only makes things worse across the five years; both the death wish and the means by which Anna reaches him are harmful.
 
 ## What the dates buy
 

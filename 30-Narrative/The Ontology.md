@@ -23,7 +23,9 @@ The player is meant to read it as a **grave**. Evidence is planted that way on p
 
 Every scope lock in the [[Scope Ledger]] now has a fictional cause. She can hold roughly thirty rooms. [[The Sealed Fifth Floor]] is a floor she has already lost. The sixth floor that isn't there is where the loss shows, and [[Room 696]] is what moved into it. The "no vacancies" policy is her holding on with both hands.
 
-[[Mr. Vacancy]] is therefore not an invader. It is the volume she can no longer occupy, wearing entropy as a cover story.
+[[Mr. Vacancy]] is therefore not an invader. It has three layered sources: entropy caused the birth of the dying wish, the dying wish strengthens as she loses hope of being answered, and [[Otto]]'s guilt and heartbreak mix into it.
+
+**The Building is mind and body both.** Each floor corresponds to an organ, and anomalies are generated from it — see [[The Organ Map]] and [[The Body]].
 
 ## The two accounts of leaving
 
@@ -42,7 +44,7 @@ By her choice. She called him. The rival explanations are authored misdirection 
 
 Only he can repair her and fight the corruption. The other tenants can maintain the Building; none of them can fight back. See [[Otto]].
 
-🔧 **Open:** why the call took five years, and why she could not reach him first. See [[The Death of Anna]].
+**Settled in Round 4:** the five years are three clocks completing at once — the body's conversion, the accumulation of Otto's search, and the declaration of death in absentia. **Anna does not get stronger**; she reaches for him every night and a lost soul is weak. What changes in 2003 is Otto's ability to sense her, boosted by heartbreak on the day of the declaration. See [[Timeline]].
 
 ## The Administration is triage, not tyranny
 

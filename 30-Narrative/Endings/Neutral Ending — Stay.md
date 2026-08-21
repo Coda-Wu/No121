@@ -9,7 +9,7 @@ status: locked
 
 ## What it means
 
-**Accepting that [[Anna]] is dead**, and choosing to become the guardian of what is left of her. He takes the post, keeps her memory and her last fragment lit, and **never returns to the real world**.
+**Accepting that [[Anna]] is dead — and never telling her.** She does not know, and in this ending she never learns. Otto keeps the secret, takes the post, and lives inside her belief. He **never returns to the real world**.
 
 The socket is [[Renner]]'s. Staying is taking the father's post — joining her family. See [[The Hidden Family]].
 
@@ -28,4 +28,4 @@ Can trigger as early as the branch point in [[08 ROTOR — Renner]]; otherwise r
 
 ## 🔧 Open
 
-Whether this is a surrender or a kindness depends on whether the fragment wants to live — see [[The Death of Anna]]. If it does not, this is the honest ending and the True ending is an imposition.
+Settled in Round 3: [[Anna]] wants not to die alone, and does not distinguish between being returned to a body and Otto staying with her here. Both this ending and [[True Ending — Informed Breach]] give her what she asked for.

@@ -8,7 +8,7 @@ status: locked
 - **Platforms:** Steam (primary), itch.io (demo). Controller and Steam Deck support from day one; the design is cursorless — see [[The Camera]]'s deck mapping.
 - **Length / price:** 3–4 hours at **$14.99**, 10% launch-week discount, Valve regional matrix. Day math in [[The Day Loop]].
 - **Demo:** Cold Open + Day 1 — [[01 №121 — Arrival]] and [[02 SPOOL — The Job]] — 35–50 minutes, ending on the 3 AM ring. Free on itch and Steam, and **it stays live permanently post-launch**.
-- **Endings:** 3, disposition-shaded, knowledge- and diligence-gated. See `30-Narrative/Endings/` and [[Disposition Tracker]].
+- **Endings:** **4**, disposition-shaded, knowledge- and diligence-gated — True, Neutral (Stay), Bad (Ignorant Breach), and [[Do I Know You — The Hollow Return]]. Amended from 3 by Coda's ratification in Round 4. See `30-Narrative/Endings/` and [[Disposition Tracker]].
 - **Budget reserves:** music/SFX commission (composer engaged ~M2–3) and capsule/key art commission (~M3–4). See [[Schedule]].
 
 Scope discipline lives in the [[Scope Ledger]]; outward-facing framing in [[Positioning]].

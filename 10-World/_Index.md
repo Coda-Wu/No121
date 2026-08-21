@@ -23,7 +23,8 @@ Generated map of content. Ask Claude Code to regenerate. Screen-ledger lock: **�
 | [[Room 434]] | 4 | |
 | [[Room 696]] | 6 (the floor that isn't there) | |
 | [[Electrical Room]] | basement | |
-| [[The Sealed Fifth Floor]] | 5 | |
+| [[The Sealed Fifth Floor]] | 5 | | *the lung; flooded*
+| [[The Lightwell]] | centre / G | ✓ | *the heart; the chain-locked well*
 | [[Anna's Flat]] | unplotted | |
 
 ## Pockets (5) — ≤6 bespoke, teaching pocket exempt

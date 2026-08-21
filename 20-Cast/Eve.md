@@ -14,9 +14,9 @@ The Nurse — the Building's self-purging manifestation. Once a tenant; chose to
 
 Two surfaces: mundane ground-floor infirmary [[Room 101]], and [[The Ward]], the dream hub. Her room is untouched by permutation.
 
-> [!warning] Top-secret: **Eve is [[Anna]]'s mother**, dead before [[Otto]] ever met Anna, and built from Anna's memory rather than his. She guards her daughter psychologically. She is the one character who **tells the truth about the death**, and the player is set up to disbelieve her. Never disclosed plainly — see [[The Hidden Family]].
+> [!warning] Top-secret: **Eve is [[Anna]]'s mother**, dead before [[Otto]] ever met Anna, and built from Anna's memory rather than his. She guards her daughter psychologically. Never disclosed plainly — see [[The Hidden Family]].
 
-"Visiting hours end at three" is a mother running a hospice, telling him how long her daughter has.
+She **tells Otto, in a dream, that Anna is dead**. She does not tell him how she died, and she does not tell him why the Building feels like Anna. The player is set up to disbelieve her. She does not tell [[Anna]] anything: Anna does not know she is dead, and Eve keeps it that way.
 
 ## Voice
 <!-- formant preset, diction, word-budget notes -->

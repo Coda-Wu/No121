@@ -12,6 +12,8 @@ status: locked
 
 The Child Cartographer of [[Room 313]]. A baby who crawls the corridors, speaks in ≤5-word sentences, signs in lollipops — and drafts like a municipal architect.
 
+**Floor 3 is the eye** in [[The Organ Map]]. Pip has cataracts: a blind child who draws the building. The floor-3 chapter traps [[Otto]] in a room and requires him to perform **cataract surgery on Pip**, which restores [[Anna]]'s vision. 🔧 The minigame, the escalation, and what the replacement lens is are Round 5 business.
+
 Sends the master blueprint under the door on night 0, mid-tape; refined copies every morning. The blueprint is the map surface — see [[Night Phase]].
 
 ## Voice

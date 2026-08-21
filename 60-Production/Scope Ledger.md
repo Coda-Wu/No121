@@ -29,6 +29,12 @@ Standing pressure: the [[Maze Family]] takes **3 of the 6** pocket slots.
 
 New systems file to the post-launch parking lot. New pitches route to [[Workshop Agendas]], not the tree. On the vault's Lynch board, a sticky that pitches a system gets `status: parked` rather than a slot.
 
+## Amendments
+
+- **Endings 3 → 4** (Round 4, Coda's call). [[Do I Know You — The Hollow Return]] reuses the True ending's cutscene with a changed final beat. The lock was **amended, not paid for**; [[Penrose Stair]] is retained and will be designed further.
+- 🔧 **Pending against ≤30 base scenes:** the underwater heart at the base of [[The Lightwell]] is one new scene. The lightwell seen from the corridor faces costs nothing.
+- 🔧 **Pending against ≤15,000 words:** the [[The Tomb Reading]] misdirection slate, [[The Hidden Family]] concealment channels, and [[Key Items]] discovery scenes.
+
 ## Paid ledger to date
 - Portrait cut → funded the purge verb.
 - Meter cut + chart absorption → funded [[Festering]].

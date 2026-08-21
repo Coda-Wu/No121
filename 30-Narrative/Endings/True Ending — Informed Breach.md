@@ -14,16 +14,19 @@ status: draft
 - [[Master Fuse Seated]] (critical path).
 - [[Clauses Known]] — ≥8 House Rules.
 - [[NIR True Plan Seen]] — the original architecture under the wallpaper, via [[Filters]].
-- [[Usher Burned]] — burning [[Mr. Vacancy]] in the final purge. **Unloseable:** arriving unprepared throws you back, never kills you.
+- [[Usher Burned]] — burning [[Mr. Vacancy]] in the final purge, which yields the eighth key item, **her breath**. **Unloseable:** arriving unprepared throws you back, never kills you.
+- **All eight [[Key Items]].** Reverse Film restores the body; the key items restore the person. Reverse Film without them gives [[Do I Know You — The Hollow Return]].
 
 ## What it means
 
 An **informed** breach: the Building's integrity is understood before the door is opened, so opening it does not tear her. The antagonist — her own decline, wearing a face — is purged first. The vessel is reborn open-skied, and [[Anna]] is at the tram stop on [[Street and Tram]].
 
-## 🔧 The open question
+## Settled in Round 3
 
-Does the un-taken photograph **bring her back**, or does Reverse Film assemble a copy out of her memory and her fragment — a woman who is entirely her and is not her?
+Reverse Film gives [[Anna]] a physical form. It is not a copy and not a release: with the full set of [[Key Items]] it is her. Without them it is [[Do I Know You — The Hollow Return]].
 
-Both readings are currently supportable and the ending plays differently under each. This is not a mood question: it decides whether the True ending is a rescue or an act of authorship, and therefore whether it is actually the *best* of the three. It is unanswerable until [[The Death of Anna]] resolves whether she wants to live.
+## 🔧 Open
+
+Whether the seven faculty items hard-gate or merely shade the restored Anna. Current call: shade, with a missing faculty visible in the epilogue; **her breath** is the only hard gate.
 
 Reached from [[09 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].

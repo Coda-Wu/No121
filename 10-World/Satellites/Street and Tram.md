@@ -10,9 +10,13 @@ status: locked
 
 ## Function
 
-Outside №121 — the arrival screen, and the only exterior. The building shows **five floors** from here, which is the standing lie [[Room 696]] contradicts.
+The arrival screen, and the only exterior. **One screen, two dressings, joined by the bell** — the bell is the transition from the real world into the mind-world.
 
-The tram bell is one of the diegetic crossfade sources in the [[Audio Spec]].
+**The transition:** night at the beach, fog. Close shot on [[Otto]]'s face. Camera zooms in on the face; background and lighting change behind it; camera zooms out, and he is inside a moist tram. See [[01 №121 — Arrival]] and [[The Real World]]. The building shows **five floors** from here, which is the standing lie [[Room 696]] contradicts.
+
+The tram bell is one of the diegetic crossfade sources in the [[Audio Spec]], and it is the hinge of the transition above.
+
+Under [[The Organ Map]] the facade is the **skin**.
 
 ## Dressing A (performance) / Dressing B (truth)
 

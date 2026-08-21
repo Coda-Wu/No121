@@ -14,7 +14,9 @@ status: draft
 
 The antagonist: the pollution that causes sick-weird anomalies and spatial rot. A building's natural predator — **emptiness**. [[The Sealed Fifth Floor]], the "no vacancies" policy, and the Administration's triage are all siege logistics against it.
 
-> [!warning] Top-secret: entropy is the **surface reading**, and it is a true one — this is genuinely what happens to a made place left alone. The **cause** is that [[Anna]]'s consciousness is fading. The Vacancy is the volume she can no longer occupy. It is not an invader; it is her measured decline, and the player can photograph the rate of it. See [[The Ontology]].
+> [!warning] Top-secret: **three sources, layered.** ① **Entropy** caused the birth of the dying wish. ② **The dying wish** grows stronger over the five years as [[Anna]] loses hope of being answered. ③ **[[Otto]]'s influence** — his own guilt and heartbreak, mixed into her dying wish. It is not an invader. It is co-authored by both of them, which is why it wears his face. See [[The Ontology]] and [[The Death of Anna]].
+
+It is the source of **illusion horror and unknown horror**. The body-horror anomalies come from the decaying body instead — see [[The Two-Grammar Rule]] and [[The Body]]. 🔧 Its puzzles and tricks are Round 5 business.
 
 Deliberately **not** a palindrome — the inhuman thing doesn't get a loop-name, because under the secret layer of [[Naming Canon]] a palindrome marks someone Anna knew in life, and it knew nobody. A failed or near-palindrome is its typographic signature; [[Room 696]]'s doorsign reads 666 where the middle 6's nail has fallen.
 

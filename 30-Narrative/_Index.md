@@ -22,11 +22,12 @@ Generated map of content. Ask Claude Code to regenerate.
 
 Filenames carry card + what the card owns, so the ANNA card cannot collide with [[Anna]] under Obsidian's case-insensitive link resolution.
 
-## Endings (3)
+## Endings (4)
 
-- [[True Ending — Informed Breach]] — *un-take* a photograph.
-- [[Neutral Ending — Stay]] — *take* the last photograph.
-- [[Bad Ending — Ignorant Breach]] — no photograph; the tear.
+- [[True Ending — Informed Breach]] — *un-take* a photograph, with all eight [[Key Items]].
+- [[Neutral Ending — Stay]] — *take* the last photograph; keep the secret.
+- [[Bad Ending — Ignorant Breach]] — no photograph; the tear, and the water.
+- [[Do I Know You — The Hollow Return]] — the body without the person.
 
 ## Canon
 
@@ -40,9 +41,16 @@ Never stated plainly in-game. Assembled by the player from evidence; confirmed o
 
 - [[The Ontology]] — the vessel *is* [[Anna]]; the lifeboat misread as a tomb.
 - [[Timeline]] — 1998 founding and death, 2003 present; the real №121; the dead who staff the Building.
-- [[The Death of Anna]] — 🔧 `seed`. The open spine: how, why, why five years, and whether she wants to live.
+- [[The Death of Anna]] — she drowned at sea in 1998 with [[Otto]] present. 🔧 The exact cause is open.
+- [[The Body]] — where she lies, and how she is restored.
+- [[The Organ Map]] — the Building as mind and body; the anomaly generation law.
+- [[Key Items]] — the eight faculties and the rose.
 - [[The Tomb Reading]] — 🔧 `seed`. The authored false conclusion and its planted evidence.
 - [[The Hidden Family]] — 🔧 `draft`. [[Eve]] and [[Renner]] as her parents, and how it stays hidden.
+
+## Canon (world layer)
+
+- [[The Real World]] — the 2003 layer: framing plus three interstitials.
 
 ## Anecdotes (10 locked gags)
 
