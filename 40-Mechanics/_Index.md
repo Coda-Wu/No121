@@ -12,7 +12,7 @@ Generated map of content. Ask Claude Code to regenerate. **Systems freeze in eff
 - [[The Day Loop]] — five beats, day-advance rules, day math.
 - [[Persona Law]] — the Shift, the Haze, the doppelganger rule.
 - [[The Camera]] — the hero object: capacitor, snap tiers, film economy.
-- [[Purge and Light]] · [[Filters]] · [[The Cataract Operations]] · [[Develop-to-Heal]]
+- [[Purge and Light]] · [[Filters]] · [[The Cataract Operations]] · [[The Three Hums]] · [[Develop-to-Heal]]
 - [[The Ruler]] — three scares.
 - [[Night Phase]] — develop → pin → tape → alarm → sleep.
 - [[The Dream and Hint Ladder]]
@@ -35,4 +35,4 @@ Generated map of content. Ask Claude Code to regenerate. **Systems freeze in eff
 
 All `seed`: the bible states these as gates and rules, not as named flags. Each lists `set-by` / `read-by` so the permutation web shows in the graph.
 
-**True-ending gate set:** [[Reverse Film Granted]] + 🔧 the chain release ([[Master Fuse Seated]] retired, replacement undesigned) + [[Clauses Known]] (≥8) + [[NIR True Plan Seen]] + [[Usher Burned]] + the full set of [[Key Items]] + an intact camera.
+**True-ending gate set:** [[Reverse Film Granted]] + [[The Three Hums]] + [[Clauses Known]] (≥8) + [[NIR True Plan Seen]] + [[Usher Burned]] + the full set of [[Key Items]] + an intact camera.

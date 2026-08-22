@@ -12,7 +12,7 @@ status: draft
 
 The hollow centre of the ring. Visible across from every corridor face, on every floor, from the first lap onward. It is not enterable during the seven days.
 
-At its base, on the ground floor, is a **chain-locked well** that [[Otto]] walks past repeatedly. It stays locked all game.
+At its base, on the ground floor, is a **chain-locked well** that [[Otto]] walks past repeatedly. It stays locked all game, and **the lock has no keyhole** — see [[The Three Hums]].
 
 The lightwell is the **heart** in [[The Organ Map]].
 
@@ -22,7 +22,7 @@ Otto climbs to the top floor and **jumps into the well**, carrying every key ite
 
 The jump happens at the end of [[07 DEED — The Family]] (D6), not during the final night. [[08 REDIVIDER — The Door]] takes place in the heart.
 
-Two ways down. **Deceived:** the bridge in [[The Delusions]] makes him step off the unfenced edge believing he is walking to [[Anna]]; the camera glass cracks in the fall. **Decided:** he sees through it, reaches [[Renner]] in the basement, and [[Nan]], [[Eve]] and Renner unlock the chain at the heart-well so he jumps safely with the camera intact.
+Two ways down. **Deceived:** the bridge in [[The Delusions]] makes him step off the unfenced edge believing he is walking to [[Anna]]; the camera glass cracks in the fall. **Decided:** he sees through it, reaches [[Renner]] in the basement, and opens the chain with [[The Three Hums]], jumping safely with the camera intact.
 
 [[Anna]]'s corpse is there — see [[The Body]]. The rose is given here.
 

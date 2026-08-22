@@ -15,9 +15,10 @@ Its method is not force. It creates a **mismatch in information** — a gap betw
 
 ## The deaths
 
+**Two, not three.** [[Pip]] and [[Nan]] are states of [[Anna]] rather than people, and were never taken — see [[The Hidden Family]].
+
 | Who | Relation | Taken |
 |---|---|---|
-| [[Pip]] | Anna's younger brother | In infancy, blind from congenital cataracts, before he learned to speak. |
 | [[Renner]] | Anna's father | Before [[Otto]] met Anna. Fell down a hill, recorded as an accident. **Revealed only through newspaper documentation in-game** — Renner never tells Otto himself. The reason is revealed in the chapter that holds the family truth. |
 | [[Eve]] | Anna's mother | Before Otto met Anna. She fell into the demon's trap and died inside a delusion. **Documented as a suicide**; the player works out that she was trapped. Never confirmed. |
 | [[Anna]] | the last one it wanted | 1998, at sea. See [[The Death of Anna]]. |

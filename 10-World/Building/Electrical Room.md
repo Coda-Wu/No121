@@ -14,7 +14,7 @@ status: locked
 
 The junction [[Renner]] is merged into — wires and warmth, no gore; he still hums. The D7 descent ends here, and the intercom retcon lands: every radio and every crackle under a door has been him all game.
 
-🔧 The fuse-swap puzzle and the Master Fuse are **retired** — see [[Master Fuse Seated]]. What replaces them releases the chain at the heart-well and is undesigned. The basement darkroom station survives here as a [[07 DEED — The Family]] discovery, alongside the main rig in [[Room 202]].
+The fuse-swap puzzle and the Master Fuse are **retired** — see [[Master Fuse Seated]]. What replaces them is **[[The Three Hums]]**; 🔧 the maze that produces the tape is undesigned. The basement darkroom station survives here as a [[07 DEED — The Family]] discovery, alongside the main rig in [[Room 202]].
 
 ## Dressing A (performance) / Dressing B (truth)
 

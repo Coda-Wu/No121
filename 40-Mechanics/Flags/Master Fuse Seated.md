@@ -10,6 +10,4 @@ status: retired
 
 ## What replaces it
 
-Something that **releases the chain at the heart-well** — carrying a key's function without being a key. It comes out of [[07 DEED — The Family]], whose organ is now the **brain and nervous system**, and the maze there is redesigned around it.
-
-🔧 Undesigned. Blocking the gate lists in [[I See You — The True Ending]] and [[Neutral Ending — Stay]], and the puzzle in [[Electrical Room]]. See [[Workshop Agendas]].
+**[[The Three Hums]]** — Renner's, Eve's and Otto's, mixed onto one tape and played at a chain whose lock has no keyhole.

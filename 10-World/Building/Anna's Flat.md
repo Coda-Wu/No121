@@ -14,7 +14,9 @@ A room on no plan, which the Building **grows** for [[Anna]] on D5 — furnished
 
 It sits on **floor 5**, the flooded lung, and it is the one dry space in [[06 ANNA — The Wound]].
 
-**Rendered in first person.** The flat is the game's only perspective-rendered space, a deliberate break from the side-view style everywhere else, so the player registers immediately that something is wrong here. Partly after *The Shining*. 🔧 This needs a ruling against [[Art Spec]] — 640×360, nearest-neighbour, side-view — before it is costed.
+**Rendered in first person.** The flat is the game's only perspective space, a deliberate break from the side-view style everywhere else, so the player registers immediately that something is wrong here. Partly after *The Shining*.
+
+**It is not real 3D.** Hand-drawn 2D pixel art in single-point perspective, in the manner of DOOM (1993) — the same pipeline and the same palette as [[Art Spec]], no second renderer.
 
 ## Dressing A (performance) / Dressing B (truth)
 

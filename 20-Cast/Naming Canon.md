@@ -14,9 +14,9 @@ Room numbers are floor-unit-floor palindromes: [[Room 202]], [[Room 212]], [[Roo
 
 ## Family names
 
-**Only the Salas family carries one.** *Salas* — Spanish for rooms, and a palindrome — belongs to [[Anna]], [[Renner]] and [[Eve]]. 🔧 [[Pip]] is Anna's brother and would carry it too; whether it is ever written down is open, as is whether [[Nan]] belongs to the family.
+**Only the Salas family carries one.** *Salas* — Spanish for rooms, and a palindrome — belongs to [[Anna]], [[Renner]] and [[Eve]].
 
-Every other resident is a part of Anna rather than a person she knew as an adult, and has no family name. [[Otto]] has no surname yet.
+**[[Pip]] and [[Nan]] are never given surnames and the question is never raised in game.** No deed, contract or register names them; giving either a family name would close down the reading that they are states of Anna rather than relatives. [[Otto]] has no surname yet.
 
 Anna's full name is first written on [[Bob's Mug]] in [[03 LIVED — The Name]].
 
@@ -26,10 +26,11 @@ Anna's full name is first written on [[Bob's Mug]] in [[03 LIVED — The Name]].
 
 ## The secret layer
 
-> [!warning] Top-secret. A palindrome name marks someone [[Anna]] **knew in life** — the Building is populated by her dead, rendered from her memory. See [[The Hidden Family]], [[The Ontology]].
+> [!warning] Top-secret. A palindrome name marks something **of [[Anna]]** — either a person she knew in life, or one of her own states. See [[The Hidden Family]], [[The Ontology]].
 
-- [[Otto]] ✓ her partner · [[Eve]] ✓ her mother · [[Renner]] ✓ her father · [[Anna]] ✓ herself.
-- [[Nan]], [[Bob]], [[Pip]] ✓ — each therefore had a real-world original. 🔧 Unassigned.
+- **People she knew:** [[Otto]] ✓ her partner · [[Eve]] ✓ her mother · [[Renner]] ✓ her father.
+- **States of herself:** [[Pip]] ✓ her childhood · [[Anna]] ✓ the present · [[Nan]] ✓ the age she never reached.
+- [[Bob]] ✓ — 🔧 unassigned, and the last one.
 - [[Leon]] and [[Noel]] carry no palindrome individually because they are not drawn from anyone: they are Anna's own institutional register, the Administration wearing two bodies. Their loop is a form, not a person.
 - [[The Couple]] carry none: wall-voices, not originals.
 - [[Mr. Vacancy]] carries none because it knew nobody. That is the real reason the inhuman thing doesn't get a loop-name, and why it keeps trying to fake one.

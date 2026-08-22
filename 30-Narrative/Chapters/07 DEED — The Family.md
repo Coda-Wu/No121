@@ -26,7 +26,7 @@ Playtime varies by player, by design — see the branch below.
 
 **④ [[Electrical Room]], basement — the brain and the nerves.** Only on the undeceived path. The descent; the junction reveal, wires and warmth, no gore, he still hums; the intercom retcon lands. [[Eve]] stands with Renner here. **The family truth.** The basement is clean of [[Mr. Vacancy]]'s influence — there is no delusion at the chapter's end. The basement darkroom station is found.
 
-**⑤ The decided jump.** [[Nan]], [[Eve]] and [[Renner]] unlock the chain at the heart-well. Otto jumps carrying every key item, and the camera is intact.
+**⑤ The decided jump.** The tape is played at the chain — see [[The Three Hums]] — and it opens. Otto jumps carrying every key item, and the camera is intact.
 
 ## Consequences
 
@@ -39,7 +39,7 @@ Playtime varies by player, by design — see the branch below.
 - Two mazes in this chapter — [[Maze Family]] variants, which is permitted.
 - [[Reverse Film]] grace window closes at the D6 dream.
 - [[Neutral Ending — Stay]] can trigger from the descent.
-- 🔧 **The chain release.** The fuse-swap puzzle and the Master Fuse are retired ([[Master Fuse Seated]]). What replaces them carries a key's function without being a key, and comes out of the brain-and-nerves maze in the basement. Undesigned.
+- **[[The Three Hums]].** The basement maze yields a tape carrying Renner's, Eve's and Otto's hums mixed together. The chain's lock has no keyhole; the tape is what opens it.
 
 ## Microbeats (anecdote bank)
 - [[Nan's Biscuits]].

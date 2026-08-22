@@ -13,10 +13,9 @@ secret: true
 |---|---|---|
 | [[Eve]] — the Nurse, [[Room 101]] and [[The Ward]] | [[Anna]]'s **mother** | **Psychologically.** She tells the truth about the death and is disbelieved. |
 | [[Renner]] — the predecessor handyman, merged into the [[Electrical Room]] junction | [[Anna]]'s **father** | **Physically.** He held the post until he could no longer, and spent himself doing it. Love carried beyond death. |
-| [[Pip]] — the Child Cartographer, [[Room 313]] | [[Anna]]'s **younger brother**, who died in infancy, blind from congenital cataracts, before he learned to speak | Not at all. He is the one she could not protect. |
 | [[Otto]] | Her partner — the only living thing in the Building | Both, badly, and by her invitation. |
 
-Both parents, and the brother, died before Otto ever met Anna (ratified as C2). She built them from **her** memory rather than his, which is why they match nothing he knows, why they hold the deepest posts, and why their care for him has no explanation he can reach.
+Both parents died before Otto ever met Anna (ratified as C2). She built them from **her** memory rather than his, which is why they match nothing he knows, why they hold the deepest posts, and why their care for him has no explanation he can reach.
 
 **They were all taken by [[Mr. Vacancy]].** The family was cursed and Anna was the last one it wanted — see [[The Curse]].
 
@@ -27,6 +26,18 @@ Both parents, and the brother, died before Otto ever met Anna (ratified as C2). 
 - [[Renner]] still hums in the junction because he is comfortable — a father keeping the lights on for her. The horror is that it isn't horrible.
 - The socket in [[Neutral Ending — Stay]] is **Otto taking the father's post**. Staying is joining her family.
 - The camera's requisition slip, RETURN UPON TERMINATION OF TENANCY, is her father's tool handed down.
+
+## The three states
+
+[[Pip]] and [[Nan]] are **not people Anna knew.** They are Anna herself at other ages, after the Buddhist figure of the past, the present and the future:
+
+| | |
+|---|---|
+| [[Pip]] | her childhood — a gender-neutral infant, blind with her cataracts, who nonetheless draws the true map, because only the child's eye sees clearly |
+| [[Anna]] | the present |
+| [[Nan]] | the age she never reached, still living in 1998 |
+
+**Neither is ever confirmed.** A player who reads them as family members is not wrong in any way the game will contradict, and a player who reads them as states is not wrong either. Nothing names them, and there is deliberately **no document** — no deed, no contract, no register — that would settle it.
 
 ## Concealment method
 
@@ -42,6 +53,6 @@ Nothing above is placed yet. 🔧 Placement pass, and it draws on the word budge
 
 ## 🔧 Open
 
-- The real-world referents of [[Nan]] and [[Bob]]. Under [[Naming Canon]]'s secret layer, a palindrome marks someone Anna knew in life, so each had an original. [[Pip]] is assigned; these two are not.
+- [[Bob]] is the last unassigned palindrome: neither a known parent nor an obvious state of Anna.
 - [[Leon]] and [[Noel]], [[The Couple]] and [[Mr. Vacancy]] carry no palindrome and therefore no original: the Administration is Anna's own institutional register, the Couple are wall-voices, and the Vacancy is not hers at all.
 - Whether Otto ever half-recognises them, and whether the game ever lets him say so.

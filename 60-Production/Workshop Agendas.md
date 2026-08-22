@@ -13,12 +13,13 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 - **The exact cause of death** — [[The Death of Anna]]. She drowned at sea in 1998 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
 - **The evening call** — [[06 ANNA — The Wound]]'s critical beat. The 3 AM call now ends the demo in [[02 SPOOL — The Job]]; whether D5's evening call is a separate, later beat or was relocated is 🔧 open.
 - **[[The Cafeteria]]** — floor 1, the social hub. Dressing, anecdote placement, and the twins' split shift.
-- **⚠️ THE CHAIN RELEASE** — the fuse and [[Master Fuse Seated]] are retired. What comes out of [[07 DEED — The Family]] to open the heart-well is undesigned, and it gates [[I See You — The True Ending]] and [[Neutral Ending — Stay]]. It must carry a key's function without being a key, and it must speak to the Salas family's tragedy. **Blocking.**
+- **[[The Three Hums]]** — settled as the chain release. 🔧 How the player finds three chances to record, how the mixdown works, and the basement maze's verbs.
 - **The basement maze** — redesigned around the brain and the nervous system, and it produces the chain release.
 - **The sleep maze**, D2 — fake being asleep while moving so the nightmare does not find you awake. Appearance and mechanism.
 - **The twin maze**, D4 — after the paired antagonist in *Sayonara Wild Hearts*, never in the same place at the same time. Optical and mechanical design.
-- **[[Anna's Flat]] in first person** — needs a ruling against [[Art Spec]] before it can be costed.
-- **[[Pip]] and [[Nan]] in the Salas family** — whether either surname is ever written down. See [[Naming Canon]].
+- **[[Anna's Flat]]** — single-point perspective in hand-drawn pixel art, DOOM-style, same pipeline. 🔧 Costing and tooling.
+- **[[Bob]]** — the last unassigned palindrome. Neither a known parent nor an obvious state of [[Anna]].
+- **The demo's teaching load** — with the torch gone, D1 no longer teaches purging. 🔧 Confirm the nest is left unresolved as a second hook.
 - **[[Otto]]'s surname**, still open.
 - **[[The Delusions]]** — the slate is drafted; the bridge's placement waits on the structure decision.
 - **[[The Curse]]** — how [[Renner]] and [[Eve]] were taken, and why this family.
