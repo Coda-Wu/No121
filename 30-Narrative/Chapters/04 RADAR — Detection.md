@@ -2,7 +2,7 @@
 type: chapter
 card: "RADAR"
 day: "3"
-critical-beat: "First Administration notice"
+critical-beat: "The bedroom under UV"
 status: locked
 ---
 # RADAR — Detection
@@ -13,9 +13,10 @@ Detection.
 
 ## Beats
 - [[Bob]] and [[Pip]] deepened — the two testimonies the player learns to weigh.
-- The first Administration notice; the clinical register asserts itself.
+- **Operation one on [[Pip]]**, mid-chapter — UV is unlocked. See [[The Cataract Operations]].
+- **The bedroom under UV.** He wakes at midnight; the camera glares purple; raising it paints the room in fluorescent text — *she's dead*, *I killed her*. See [[The Delusions]].
 - Idle-escalation likely fires here — see [[The Dream and Hint Ladder]].
-- UV filter window opens (D3–4) — [[Filters]].
+- Key item: **her childhood**, with [[Pip]] — see [[Key Items]].
 
 ## Microbeats (anecdote bank)
 - [[The Polite Pause]].

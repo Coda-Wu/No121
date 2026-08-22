@@ -26,11 +26,11 @@ It is the source of **illusion horror and unknown horror**. The body-horror anom
 
 A death wish cannot act without being let in. Both [[Anna]] and [[Otto]] are still holding their last measure of will toward life, and while they hold it the Vacancy cannot take either of them.
 
-Its plan is to **delude Otto into giving up first**. If he lets go, Anna is available immediately.
+Its plan is to **delude Otto into giving up first**. If he lets go, Anna is available immediately. It works on her too, telling her Otto is not coming and that the man in the Building is not really him; that side is not shown until the final scene, where the Vacancy is revealed as **her death wish**.
 
 ## Two tiers
 
-- **The Vacancy itself never attacks and never threatens. It offers.** Illusion horror: it shows Otto what he wants — Anna, restored and correct in every detail — and offers her, early and for free. Every offer is a preview of [[Do I Know You — The Hollow Return]]: the Anna it renders does not recognise him. The horror is the fear that he will say yes.
+- **The Vacancy itself never attacks and never threatens. It offers an account.** Illusion horror, built on information mismatch — see [[The Delusions]] for the rule and the slate. The horror is the fear that he will believe it.
 - **The lesser shadows and hatched [[Festering]]s do attack**, and do try to drive him mad. They are the death wish's lower expressions, and their function is to exhaust him until an offer looks reasonable. This is why [[Purge and Light]] exists.
 
 Design note: death is supposed to feel peaceful. It does not feel peaceful to a soul that is unwilling.
@@ -39,12 +39,7 @@ Design note: death is supposed to feel peaceful. It does not feel peaceful to a 
 
 Each delusion is built from **something Otto fears or worries about**, and delivered through a gap he cannot close. The demon is death; it is not bound by the Building's rules and can approach from any direction.
 
-**Settled:**
-- **Demo, [[Mirror Maze]].** The three prints develop as: standing · rushing the camera · **a raven**. Otto then drops into a mind-space: a beach, the sound of ravens, and far off a group of them feeding on a body. The fear worked: that Anna is dead and her body was consumed.
-- **D6, the phantom.** A delusion of Anna appears, convincing enough that the player believes the search is over. Something is wrong with her; **NIR** shows Otto she is not there. 🔧 The tell must be analog, not a digital glitch — see the banned list in [[The Two-Grammar Rule]].
-- **D7, the offer of the post.** It asks Otto to hand back the camera, in the wording of the requisition slip: RETURN UPON TERMINATION OF TENANCY. If the player gives it up before the final maze, Otto has no weapon against the shadows and goes to [[Bad Ending — Ignorant Breach]] with no further choice.
-
-🔧 The remaining delusions are Round 7 business.
+The full slate, the rule that generates them, the bridge, and the raven all live in **[[The Delusions]]**.
 
 ## The consent rule
 

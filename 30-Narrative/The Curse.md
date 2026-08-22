@@ -18,8 +18,8 @@ Its method is not force. It creates a **mismatch in information** — a gap betw
 | Who | Relation | Taken |
 |---|---|---|
 | [[Pip]] | Anna's younger brother | In infancy, blind from congenital cataracts, before he learned to speak. |
-| [[Renner]] | Anna's father | Before [[Otto]] met Anna. 🔧 Method unwritten. |
-| [[Eve]] | Anna's mother | Before Otto met Anna. 🔧 Method unwritten. |
+| [[Renner]] | Anna's father | Before [[Otto]] met Anna. Fell down a hill, recorded as an accident. **Revealed only through newspaper documentation in-game** — Renner never tells Otto himself. The reason is revealed in the chapter that holds the family truth. |
+| [[Eve]] | Anna's mother | Before Otto met Anna. She fell into the demon's trap and died inside a delusion. **Documented as a suicide**; the player works out that she was trapped. Never confirmed. |
 | [[Anna]] | the last one it wanted | 1998, at sea. See [[The Death of Anna]]. |
 
 See [[The Hidden Family]].
@@ -37,7 +37,17 @@ The wind was the demon's. The blindness was the demon's. The mismatch it opened 
 
 Both accounts are complete. Neither can be checked from inside the Building.
 
+## Why Anna
+
+**She has strong spiritual sensing.** That is what the demon wanted, and it is why she was taken last and wanted most. It is never explained further.
+
+## What the player gets
+
+Tiered by attention:
+- **The attentive player** reaches the point of knowing the deaths are connected, and never learns what did it.
+- **Everyone else** assembles only that it happened, through the *he was there* conclusion on [[The Corkboard Thread]].
+
+[[Otto]] himself gets far enough to know it was not chance and not his fault. That is all he needs to walk into the heart.
+
 ## 🔧 Open
-- How Renner and Eve were taken, and whether the player can reconstruct either.
-- Why this family, and why Anna was the one it wanted.
 - Whether the curse is discoverable in the real-world layer — see [[The Real World]].

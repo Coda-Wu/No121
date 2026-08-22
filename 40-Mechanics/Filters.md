@@ -19,7 +19,11 @@ Screw-on filters for [[The Camera]]. Cheap revisit content: each one re-reads sc
 
 ## UV
 
-The fluorescent residue of the Settling-pollution, and **hidden marginalia on documents already read**.
+The fluorescent residue of the Settling-pollution, on **the building and on objects**.
+
+**UV does not scan files or documents**, except inside specific authored minigames. Revised in Round 7: the player has to be able to trust what the filter is for.
+
+Its first use is turned against Otto — see [[The Delusions]], D3.
 
 ## NIR
 

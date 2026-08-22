@@ -45,6 +45,7 @@ Never stated plainly in-game. Assembled by the player from evidence; confirmed o
 - [[The Body]] — where she lies, and how she is restored.
 - [[The Organ Map]] — the Building as mind and body; the anomaly generation law.
 - [[The Curse]] — the demon took the family one at a time; Anna was the last one it wanted.
+- [[The Delusions]] — the rule, the slate, the bridge, and the raven.
 - [[Key Items]] — the eight faculties and the rose.
 - [[The Tomb Reading]] — 🔧 `seed`. The authored false conclusion and its planted evidence.
 - [[The Hidden Family]] — 🔧 `draft`. [[Eve]] and [[Renner]] as her parents, and how it stays hidden.

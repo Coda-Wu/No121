@@ -46,8 +46,10 @@ Only he can repair her and fight the corruption. The other tenants can maintain 
 
 **Settled in Round 4:** the five years are three clocks completing at once — the body's conversion, the accumulation of Otto's search, and the declaration of death in absentia. **Anna does not get stronger**; she reaches for him every night and a lost soul is weak. What changes in 2003 is Otto's ability to sense her, boosted by heartbreak on the day of the declaration. See [[Timeline]].
 
-## The Administration is triage, not tyranny
+## The Administration
 
-Sealed floors and midnight hammering are desperate patching, misread as menace — siege logistics against [[Mr. Vacancy]]. Work crews are only ever heard through walls. Management is never seen. Revealed in [[05 REPAPER — The Twins]].
+**Paper-only** (revised Round 7). It is notices and the tenancy agreement behind the House Rules, and nothing more. It does not appear, does not explain, and does not assert itself as a character; it surfaces only where a beat explicitly calls for it.
+
+What it does is triage rather than tyranny: sealed floors and midnight hammering are patching, misread as menace. Work crews are only ever heard through walls. Management is never seen.
 
 The Building has intent and no vocabulary. It can issue a work order, grow a room, seal a floor and walk you counter-clockwise; it cannot say *stay*. This is why the House Rules read as an ancient tenancy agreement — legalese is the only language she has left.

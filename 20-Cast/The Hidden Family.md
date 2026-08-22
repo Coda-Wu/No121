@@ -36,7 +36,7 @@ Never stated, never confirmed, never confirmed-by-denial. Discoverable only by a
 - Newspaper articles from 1998.
 - Hidden voice messages and the corridor radio — [[Renner]] is every radio in the game, which is a father's voice under every door for seven days before the player knows whose it is.
 - **Unremarkable patterns in how they describe her.** The likeliest and cheapest channel: two people who use the same specific phrase about the same girl, and neither of them ever says why.
-- Marginalia under UV — [[Filters]].
+- Fluorescent marks under UV, on the building and on objects — [[Filters]] does not read files.
 
 Nothing above is placed yet. 🔧 Placement pass, and it draws on the word budget in the [[Scope Ledger]].
 

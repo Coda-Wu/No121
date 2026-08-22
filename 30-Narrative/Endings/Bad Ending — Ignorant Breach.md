@@ -11,7 +11,7 @@ The camera verb is ***none***: the door is torn.
 
 **None.** Choosable in ignorance, always — this is the point.
 
-**Second route:** if the player hands the camera back to [[Mr. Vacancy]] on D7, before the final maze, [[Otto]] has no weapon against the shadows and arrives here with no further choice offered. See [[08 ROTOR — Renner]]. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
+**Second route:** if the player is taken in by the bridge in [[The Delusions]], Otto steps off the lightwell edge, the camera glass cracks in the fall, and he arrives at the heart without a working weapon. 🔧 Exact consequence pending the chapter-structure decision. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
 
 ## What it means
 

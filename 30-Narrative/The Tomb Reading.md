@@ -26,7 +26,7 @@ Under the twist test in `35-Corkboard/PROTOCOL.md`, the correction recontextuali
 - **The dig** in [[06 ANNA — The Wound]] — already canon, and the single strongest tomb signal. What is dug, and what is found, decides how hard the misdirection bites.
 - **The MISSING notices** — settled in Round 4: all seven are Otto's own, for [[Anna]], posted by him in the real world. See [[MISSING Notices Collected]].
 - **Newspaper coverage** of a 1998 disappearance, surfacing through the document-viewer layer; a death notice is the cheapest tomb signal in the game.
-- **Hidden marginalia under UV** — [[Filters]] already grants a hidden layer on documents already read. Marginalia in her hand that reads as an epitaph on first pass and as a note-to-self on second.
+- **Fluorescent residue under UV** — [[Filters]] reads the building and objects, not files. Marks in her hand on a wall or a fixture, which read as an epitaph on first pass and as a note-to-self on second.
 - **[[Anna's Flat]]** — a room on no plan, furnished from someone else's memories, is either a shrine or a home. Currently reads as a shrine.
 - **The predecessor's ledger** in [[07 DEED — The Past]] — gaps that scan as burial records.
 - **Description patterns** — the way [[Eve]] and [[Renner]] speak about her in the past tense, which is correct, and which the player will hear as confirmation of a grave.

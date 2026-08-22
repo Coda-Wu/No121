@@ -18,7 +18,11 @@ The lightwell is the **heart** in [[The Organ Map]].
 
 ## Entering it
 
-Only in [[09 REDIVIDER — The Door]]. Otto climbs to the top floor and **jumps into the well**, carrying every key item, using the momentum of the fall to break through into the underwater heart.
+Otto climbs to the top floor and **jumps into the well**, carrying every key item, using the momentum of the fall to break through into the underwater heart.
+
+The jump happens at the **end of the last full chapter before the final night**, not during it. 🔧 Which chapter that is depends on the structure decision — see [[Workshop Agendas]].
+
+Two ways down. **Deceived:** the bridge in [[The Delusions]] makes him step off the unfenced edge believing he is walking to [[Anna]]; the camera glass cracks in the fall. **Decided:** he sees through it, and [[Renner]], [[Eve]] and the real Anna unlock the chain at the heart-well so he jumps safely with the camera intact.
 
 [[Anna]]'s corpse is there — see [[The Body]]. The rose is given here.
 

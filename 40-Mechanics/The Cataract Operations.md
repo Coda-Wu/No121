@@ -35,9 +35,19 @@ What the player must feel:
 - the sound of the phaco machine;
 - the pain of a sharp object entering a body.
 
+## No anaesthetic
+
+There is none. On a missed step or a large tear, **Pip cries**.
+
 ## Failure
 
-**Soft-fail with instant restart** — the vault's standard, and the same rule as the darkroom. The player is never punished with a permanently worse blueprint. Pip is never harmed permanently.
+**Soft-fail with instant restart** — the vault's standard, and the same rule as the darkroom. The player is never punished with a permanently worse blueprint, and Pip is never harmed permanently. The crying is the punishment cue, and it is enough.
+
+## Operation two
+
+Two escalations, both cheap:
+- **Something has grown in the second eye.**
+- **Otto's hands are worse.** The instruments now shake against a tolerance that did not exist the first time.
 
 ## Pip during it
 
@@ -45,5 +55,5 @@ Pip is blind, pre-verbal, and cannot object. He makes noise. He does not speak, 
 
 ## 🔧 Open
 - The step-by-step minigame verbs and their inputs.
-- What the escalation is on operation two, given the player already knows the procedure.
 - Whether the discarded natural lens is an object.
+- What has grown in the second eye.

@@ -23,7 +23,7 @@ Design note: blood and gore are not the horror here. The horror is the desperati
 ## The three dread registers, one owner each
 - **Spatial / architectural wrongness (LEAD)** — owned by the Building.
 - **Domestic uncanny (support)** — owned by the residents.
-- **Clinical-institutional (support)** — owned by the Administration.
+- **Clinical-institutional (support)** — carried by [[Eve]] and by paper. **The Administration itself is paper-only** (revised Round 7): it exists as notices and as the tenancy agreement behind the House Rules, and it does not appear, explain, or assert itself as a character. It surfaces in-game only where a beat explicitly calls for it.
 
 `/weave cluster` reports register-ownership violations against this list.
 
