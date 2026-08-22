@@ -30,8 +30,8 @@ The institutional/domestic thesis in paper form ([[Night Phase]]):
 | a maintenance work order with checkboxes and a signature line | [[The Day Loop]] |
 | a page of an ancient tenancy agreement, dense numbered clauses | [[Clause 1]] |
 | a renovation notice from a building administration | [[The Sealed Fifth Floor]] |
-| a property deed with a wax-dry embossed seal | [[07 DEED — The Past]] |
-| the last written page of a caretaker's ledger, entries stopping mid-column | [[08 ROTOR — Renner]] |
+| a property deed with a wax-dry embossed seal | [[07 DEED — The Family]] |
+| the last written page of a caretaker's ledger, entries stopping mid-column | [[07 DEED — The Family]] |
 | an equipment requisition slip, one line typed in capitals | [[The Camera]] |
 | a certified measurement sheet, columns headed MEASURED SCHEDULED DISCREPANCY | [[The Ruler]] |
 
