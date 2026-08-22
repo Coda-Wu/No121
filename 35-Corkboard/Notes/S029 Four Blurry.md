@@ -12,6 +12,10 @@ slot: ""
 thread: ""
 source: canon
 ---
+> [!warning] **FULLY RETIRED, Round 9.** [[Pip]] is blind and pre-verbal: he does not speak, rate or judge anything. The Pip's Ratings anecdote note was deleted and every reference removed. Nothing on this card is canon.
+>
+> The file is kept only because `35-Corkboard/PROTOCOL.md` states that nothing is ever deleted. Say the word and it goes.
+
 # Four. Blurry.
 
 **What happens:**

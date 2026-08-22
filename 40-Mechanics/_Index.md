@@ -35,4 +35,4 @@ Generated map of content. Ask Claude Code to regenerate. **Systems freeze in eff
 
 All `seed`: the bible states these as gates and rules, not as named flags. Each lists `set-by` / `read-by` so the permutation web shows in the graph.
 
-**True-ending gate set:** [[Reverse Film Granted]] + [[Master Fuse Seated]] + [[Clauses Known]] (≥8) + [[NIR True Plan Seen]] + [[Usher Burned]].
+**True-ending gate set:** [[Reverse Film Granted]] + 🔧 the chain release ([[Master Fuse Seated]] retired, replacement undesigned) + [[Clauses Known]] (≥8) + [[NIR True Plan Seen]] + [[Usher Burned]] + the full set of [[Key Items]] + an intact camera.

@@ -12,6 +12,14 @@ Palindrome names mark those who are *of the Building*: [[Otto]], [[Anna]], [[Eve
 
 Room numbers are floor-unit-floor palindromes: [[Room 202]], [[Room 212]], [[Room 232]], [[Room 313]], [[Room 434]]; the infirmary is [[Room 101]]; the street is №121.
 
+## Family names
+
+**Only the Salas family carries one.** *Salas* — Spanish for rooms, and a palindrome — belongs to [[Anna]], [[Renner]] and [[Eve]]. 🔧 [[Pip]] is Anna's brother and would carry it too; whether it is ever written down is open, as is whether [[Nan]] belongs to the family.
+
+Every other resident is a part of Anna rather than a person she knew as an adult, and has no family name. [[Otto]] has no surname yet.
+
+Anna's full name is first written on [[Bob's Mug]] in [[03 LIVED — The Name]].
+
 ## The violations that prove it
 
 [[Mr. Vacancy]]'s non-palindrome, and [[Room 696]] reading 666 where the nail has fallen.

@@ -1,20 +1,15 @@
 ---
 type: flag
-set-by:
-  - "[[07 DEED — The Family]]"
-  - "[[Electrical Room]]"
-read-by:
-  - "[[I See You — The True Ending]]"
-  - "[[Neutral Ending — Stay]]"
-status: seed
+set-by: []
+read-by: []
+status: retired
 ---
 # Master Fuse Seated
 
-## What the Building remembers
+> [!warning] **RETIRED in Round 9.** The Master Fuse and the fuse-swap puzzle are cut. A fuse says nothing about the Salas family's tragedy and the dead-fusebox puzzle is a horror-game cliché.
 
-That the fuse-swap puzzle is solved and the **Master Fuse** is in hand or in its socket. Critical path — every ending except the ignorant tear runs through it.
+## What replaces it
 
-## Surfaces where it shows
-- [[07 DEED — The Family]] — the fuse-swap room puzzle in the [[Electrical Room]].
-- [[Neutral Ending — Stay]] — the fuse seated, one final flash.
-- [[I See You — The True Ending]] — a hard gate.
+Something that **releases the chain at the heart-well** — carrying a key's function without being a key. It comes out of [[07 DEED — The Family]], whose organ is now the **brain and nervous system**, and the maze there is redesigned around it.
+
+🔧 Undesigned. Blocking the gate lists in [[I See You — The True Ending]] and [[Neutral Ending — Stay]], and the puzzle in [[Electrical Room]]. See [[Workshop Agendas]].

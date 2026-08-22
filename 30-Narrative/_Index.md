@@ -14,7 +14,7 @@ DEED and ROTOR merged in Round 8; six days plus the cold open and the final nigh
 |---|---|---|---|
 | [[01 №121 — Arrival]] | Cold Open | Arrival | Sleep — Dream 0, Renner's Calling |
 | [[02 SPOOL — The Job]] | 1 | The job | The 3:00 AM ring — demo ends |
-| [[03 LIVED — The Name]] | 2 | The name | Mr. Vacancy named |
+| [[03 LIVED — The Name]] | 2 | The name (Bob) | Mr. Vacancy named, from Bob |
 | [[04 RADAR — Detection]] | 3 | Detection | The bedroom under UV |
 | [[05 REPAPER — The Twins]] | 4 | The twins | The psychiatric hospital |
 | [[06 ANNA — The Wound]] | 5 | The wound (floor 5, the lung) | The evening call, and the rubbing of the eyes |

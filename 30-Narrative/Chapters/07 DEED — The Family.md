@@ -24,7 +24,7 @@ Playtime varies by player, by design — see the branch below.
 - **Deceived:** Otto walks the bridge, steps off the edge, and the camera glass cracks in the fall. He arrives in the heart with a broken camera and the chapter ends here.
 - **Undeceived:** he raises the camera in time; the white is wiped away and he sees where he actually is — the corrupted lightwell, with the phantom [[Anna]] floating in the middle of it. The chapter continues.
 
-**④ [[Electrical Room]], basement — the nerves.** Only on the undeceived path. The descent; the junction reveal, wires and warmth, no gore, he still hums; the intercom retcon lands. [[Eve]] stands with Renner here. **The family truth.** The basement is clean of [[Mr. Vacancy]]'s influence — there is no delusion at the chapter's end. The basement darkroom station is found.
+**④ [[Electrical Room]], basement — the brain and the nerves.** Only on the undeceived path. The descent; the junction reveal, wires and warmth, no gore, he still hums; the intercom retcon lands. [[Eve]] stands with Renner here. **The family truth.** The basement is clean of [[Mr. Vacancy]]'s influence — there is no delusion at the chapter's end. The basement darkroom station is found.
 
 **⑤ The decided jump.** [[Nan]], [[Eve]] and [[Renner]] unlock the chain at the heart-well. Otto jumps carrying every key item, and the camera is intact.
 
@@ -32,14 +32,14 @@ Playtime varies by player, by design — see the branch below.
 
 | Path | Camera | Endings available at [[08 REDIVIDER — The Door]] |
 |---|---|---|
-| Deceived | **cracked** — no real photographs, no [[Reverse Film]]; only the torch to fight with, and [[Mr. Vacancy]] cannot be fully purged | [[Bad Ending — Ignorant Breach]] · [[Neutral Ending — Stay]] |
+| Deceived | **cracked** — no real photographs, no [[Reverse Film]]; only the flashgun to fight with — it survives the fall, the taking glass does not, and [[Mr. Vacancy]] cannot be fully purged | [[Bad Ending — Ignorant Breach]] · [[Neutral Ending — Stay]] |
 | Undeceived | intact | [[Neutral Ending — Stay]] · [[Do I Know You — The Hollow Return]] · [[I See You — The True Ending]] |
 
 ## Also here
 - Two mazes in this chapter — [[Maze Family]] variants, which is permitted.
 - [[Reverse Film]] grace window closes at the D6 dream.
 - [[Neutral Ending — Stay]] can trigger from the descent.
-- 🔧 [[Master Fuse Seated]] — the fuse-swap puzzle is under review; the Master Fuse reads as too small a reward for this chapter now.
+- 🔧 **The chain release.** The fuse-swap puzzle and the Master Fuse are retired ([[Master Fuse Seated]]). What replaces them carries a key's function without being a key, and comes out of the brain-and-nerves maze in the basement. Undesigned.
 
 ## Microbeats (anecdote bank)
 - [[Nan's Biscuits]].

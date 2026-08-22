@@ -13,7 +13,7 @@ Named in Round 8. It forgives both sides and returns to the origin of the traged
 
 ## Gates
 - [[Reverse Film]] — ≥5 of 7 [[MISSING Notices Collected]], then [[Eve]]'s grant after the Anna-thread completes on [[The Corkboard Thread]]; grace window runs to the D6 dream.
-- [[Master Fuse Seated]] (critical path).
+- 🔧 **The chain released** — whatever comes out of [[07 DEED — The Family]] to open the heart-well. The Master Fuse that used to sit here is retired; see [[Master Fuse Seated]].
 - [[Clauses Known]] — ≥8 House Rules.
 - [[NIR True Plan Seen]] — the original architecture under the wallpaper, via [[Filters]].
 - [[Usher Burned]] — burning [[Mr. Vacancy]] in the final purge, which yields the eighth key item, **her breath**. **Unloseable:** arriving unprepared throws you back, never kills you.

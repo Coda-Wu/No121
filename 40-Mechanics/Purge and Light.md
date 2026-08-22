@@ -12,7 +12,9 @@ status: locked
 
 ## Teaching order
 
-Torch purge in the [[Teaching Pocket]] (D1, demo) → flashgun prescribed by [[Eve]] and the first *played* purge in [[03 LIVED — The Name]] (D2) → the system under pressure in [[Flash-Survival Room]].
+**Revised in Round 9.** There is no torch. D1 has no light verb at all — the camera fires without a flash and the sound is the shutter alone. Instead, D1 ends on a **room sealed behind dark smoke** that Otto cannot enter, with no explanation given: the demo's hook. [[Eve]] hands him the flashgun in that night's dream, and the player knows at once where it is for.
+
+The corridor to [[Room 232]] in [[03 LIVED — The Name]] is where both verbs are taught: **the flashgun disperses, the camera seals permanently.** The system goes under pressure later in [[Flash-Survival Room]].
 
 ## Purge-pinning
 

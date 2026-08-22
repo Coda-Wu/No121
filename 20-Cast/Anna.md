@@ -8,6 +8,8 @@ status: locked
 ---
 # Anna
 
+**Anna Salas.** *Salas* is Spanish for rooms, and it is a palindrome. It is the family name of the [[The Hidden Family|Salas family]] — hers, [[Renner]]'s and [[Eve]]'s. Her full name is written on [[Bob's Mug]] in [[03 LIVED — The Name]] and is the key item for **her name**.
+
 ## Role
 
 [[Otto]]'s partner. She **drowned at sea in 1998**, with Otto present and unable to reach her — see [[The Death of Anna]] and [[The Body]].

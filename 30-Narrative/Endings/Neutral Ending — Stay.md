@@ -20,7 +20,7 @@ The socket is [[Renner]]'s. Staying is taking the father's post — joining her 
 Psychologically this is arguably the *good* ending: it is the only one where grief is accepted rather than negotiated with. It must be written warm and whole, or the triptych collapses. [[Nan]] is its best argument.
 
 ## Gates
-- [[Master Fuse Seated]].
+- 🔧 **The chain released** — see [[Master Fuse Seated]], retired and awaiting a replacement.
 - Going to [[Renner]] in the [[Electrical Room]].
 - Choosing the socket.
 

@@ -27,7 +27,7 @@ Yesterday's prints (the album is haze-proof memory) · the House Rules · [[Otto
 
 **Revised in Round 8.** The target is **25–40 minutes per chapter**, across **8 cards** — the cold open, six days, and the final night. The cold open runs short and [[07 DEED — The Family]] runs long and varies by player, by design.
 
-🔧 The old figure (21–35 min × 8 ≈ 3–4 h) assumed nine cards; the demo's stated 35–50 minutes for the cold open plus D1 needs re-checking against the new per-chapter target. See [[Commercial Frame]].
+That lands the game at **4–5 hours**, raised from 3–4 h in [[Commercial Frame]]. The demo stays at **35–50 minutes** for the cold open plus D1 — deliberately shorter than the per-chapter target, because a demo that overstays is worse than one that leaves people wanting.
 
 ## Certification (ruler framing)
 

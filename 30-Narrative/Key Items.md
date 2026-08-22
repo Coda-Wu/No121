@@ -22,7 +22,7 @@ The eight are **mixed in kind — every item is a different sort of object**. So
 | Card | Day | Item | Source |
 |---|---|---|---|
 | SPOOL | 1 | her voice | the 3 AM call |
-| LIVED | 2 | her name | the naming |
+| LIVED | 2 | her name | [[Bob's Mug]] — Bob writes *Anna Salas* on it |
 | RADAR | 3 | her childhood | [[Pip]] |
 | REPAPER | 4 | her doubt | the twins |
 | ANNA | 5 | her love | **the photograph** — her undeveloped roll, developed on her father's rig |

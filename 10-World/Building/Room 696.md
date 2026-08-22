@@ -10,7 +10,7 @@ status: locked
 
 ## Function
 
-[[Mr. Vacancy]]'s residence, and the **brain** in [[The Organ Map]] — the death wish sits in [[Anna]]'s mind. There is no tumour in this game; she does not have cancer.
+[[Mr. Vacancy]]'s residence. In [[The Organ Map]] it sits **in the heart**: the sixth floor that is not there is reached through the heart, and [[08 REDIVIDER — The Door]] passes through 696 before the heart proper. There is no tumour in this game; [[Anna]] does not have cancer.
 
 The doorsign's middle 6 hangs from a fallen nail and reads **666** — the imperfect mimicry that is the antagonist's signature under [[The Two-Grammar Rule]], and the violation that proves [[Naming Canon]].
 

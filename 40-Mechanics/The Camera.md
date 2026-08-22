@@ -6,7 +6,9 @@ status: locked
 
 The hero object. [[Renner]]'s rig, initials scratched in the plate, issued by dream requisition slip — "RETURN UPON TERMINATION OF TENANCY."
 
-One rig only: detachable flashgun (prescribed by [[Eve]] on D2), screw-on [[Filters]], film. The tool-belt torch is mundane, demo-tier light.
+One rig only: detachable flashgun, screw-on [[Filters]], film. **There is no tool-belt torch** — the flashgun is the game's only light, and [[Eve]] hands it over in the Dream 1 of [[02 SPOOL — The Job]], at the end of the demo.
+
+Before that, in D1, the camera takes photographs with **no flash at all**: the rooms are lit, nothing needs purging, and the sound is the shutter alone. Nobody remarks that a flash is missing.
 
 ## Controls
 

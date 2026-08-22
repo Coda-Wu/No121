@@ -32,10 +32,10 @@ Oblique prescriptions — tier 3 of the hint ladder in [[The Dream and Hint Ladd
 - [[Renner]] — the other parent; physical guardianship to her psychological one. They never acknowledge each other as such.
 - [[Otto]] — administers every scripted blackout; each "death" ends with her having put him to bed. A mother caring for her daughter's partner.
 - [[Reverse Film]] — she grants it, after ≥5 of 7 MISSING notices and the completed Anna-thread. She knows exactly what staying costs, and grants the alternative.
-- [[The Camera]] — prescribes the detachable flashgun on D2.
+- [[The Camera]] — hands Otto the flashgun in Dream 1, at the end of the demo. There is no torch; this is the game's only light.
 
 ## Appears in
 - [[02 SPOOL — The Job]] — Dream 1, her debut, inside the demo.
-- [[03 LIVED — The Name]] — the flashgun prescription.
+- [[02 SPOOL — The Job]] — the flashgun, given in Dream 1.
 - [[05 REPAPER — The Twins]] — Otto wakes in the Ward *as* [[Room 202]], awake.
 - [[08 REDIVIDER — The Door]] — one of the three disposition receipt conversations.

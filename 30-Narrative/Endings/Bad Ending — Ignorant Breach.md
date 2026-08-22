@@ -11,9 +11,9 @@ The camera verb is ***none***: the door is torn.
 
 **None.** Choosable in ignorance, always — this is the point.
 
-**The cracked-camera path:** if the player is taken in by the bridge in [[07 DEED — The Family]], Otto steps off the lightwell edge and the camera glass breaks in the fall. He cannot take a real photograph or run [[Reverse Film]]; he has only the torch to fight with, and [[Mr. Vacancy]] cannot be fully purged. On that path the only endings left are this one and [[Neutral Ending — Stay]].
+**The cracked-camera path:** if the player is taken in by the bridge in [[07 DEED — The Family]], Otto steps off the lightwell edge and the camera glass breaks in the fall. He cannot take a real photograph or run [[Reverse Film]]; he has only the flashgun to fight with, and [[Mr. Vacancy]] cannot be fully purged. On that path the only endings left are this one and [[Neutral Ending — Stay]].
 
-🔧 **Open:** whether this ending also stays choosable with an intact camera. The locked text says it is always available in ignorance, which is the thesis; Round 8's routing lists only Stay, the Hollow Return and [[I See You — The True Ending]] on the intact path. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
+**Settled in Round 9:** it stays choosable on **both** paths. At the door the key items are placed around it; pushing the door open without placing them is offered as an explicit choice, a second safety. The ending is always reachable and always an informed decision. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
 
 ## What it means
 
