@@ -4,7 +4,7 @@ status: locked
 ---
 # The Cigarette Gag
 
-Escalates across all seven days: the pack empties, and nothing is ever smoked.
+Escalates across all six days: the pack empties, and nothing is ever smoked.
 
 Opens with [[Leon]] in the [[Lobby]] on [[01 №121 — Arrival]] — the cigarette vanish. Carried by the demo.
 

@@ -31,5 +31,5 @@ Voice only. The dream Calling on night 0 — and, as the D7 retcon reveals, **ev
 
 ## Appears in
 - [[01 №121 — Arrival]] — Dream 0, the Calling.
-- [[08 ROTOR — Renner]] — the descent, the junction reveal, the intercom retcon, the fuse-swap puzzle.
+- [[07 DEED — The Family]] — the descent, the junction reveal, the intercom retcon, the fuse-swap puzzle.
 - Ambient in every corridor, unrecognised until D7.

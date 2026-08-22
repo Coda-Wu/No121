@@ -1,13 +1,13 @@
 ---
 type: sticky
 id: 22
-when: "8"
+when: "7"
 where: unknown
 cast: ["[[Otto]]", "[[Mr. Vacancy]]"]
 register: sick-weird
 motifs: []
 status: placed
-day: "8"
+day: "7"
 slot: critical
 thread: ""
 source: canon

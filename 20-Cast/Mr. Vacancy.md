@@ -58,13 +58,13 @@ Bodied form: [[Otto]]'s doppelganger, always wearing the persona Otto is **not**
 - [[Anna]] — its cause, not its enemy. The fading is the thing itself.
 - [[The Camera]] — lesser shadows are trapped permanently by a photograph; the Vacancy is only ever photographed **because it permits it**, and every print of it differs slightly from what the shutter saw.
 - [[The Two-Grammar Rule]] — sick anomalies violate a clause the player already knows.
-- [[True Ending — Informed Breach]] — burning the usher in the final purge is a gate.
+- [[I See You — The True Ending]] — burning the usher in the final purge is a gate.
 
 ## Appears in
 - [[03 LIVED — The Name]] — named.
 - [[Mirror Maze]] — at C2, facing east, always; wearing the suit.
 - [[Maze Family]] — the D4 and D6 windows.
-- [[09 REDIVIDER — The Door]] — the usher.
+- [[08 REDIVIDER — The Door]] — the usher.
 
 ## 🔧 Open
 - Its character follows from the manner of the fading, which is unwritten — see [[The Death of Anna]].

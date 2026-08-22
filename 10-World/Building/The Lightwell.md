@@ -20,9 +20,9 @@ The lightwell is the **heart** in [[The Organ Map]].
 
 Otto climbs to the top floor and **jumps into the well**, carrying every key item, using the momentum of the fall to break through into the underwater heart.
 
-The jump happens at the **end of the last full chapter before the final night**, not during it. 🔧 Which chapter that is depends on the structure decision — see [[Workshop Agendas]].
+The jump happens at the end of [[07 DEED — The Family]] (D6), not during the final night. [[08 REDIVIDER — The Door]] takes place in the heart.
 
-Two ways down. **Deceived:** the bridge in [[The Delusions]] makes him step off the unfenced edge believing he is walking to [[Anna]]; the camera glass cracks in the fall. **Decided:** he sees through it, and [[Renner]], [[Eve]] and the real Anna unlock the chain at the heart-well so he jumps safely with the camera intact.
+Two ways down. **Deceived:** the bridge in [[The Delusions]] makes him step off the unfenced edge believing he is walking to [[Anna]]; the camera glass cracks in the fall. **Decided:** he sees through it, reaches [[Renner]] in the basement, and [[Nan]], [[Eve]] and Renner unlock the chain at the heart-well so he jumps safely with the camera intact.
 
 [[Anna]]'s corpse is there — see [[The Body]]. The rose is given here.
 
@@ -32,7 +32,7 @@ Seen from the corridor faces in both dressings, and treated as ordinary architec
 
 ## Anomalies & cases hosted
 - The chain-locked well as a standing, unexplained fixture from the demo onward.
-- [[09 REDIVIDER — The Door]] — the descent, the corpse, the rose, the final purge.
+- [[08 REDIVIDER — The Door]] — the descent, the corpse, the rose, the final purge.
 
 ## Scope note
 

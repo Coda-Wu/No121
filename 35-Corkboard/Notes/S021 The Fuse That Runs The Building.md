@@ -1,13 +1,13 @@
 ---
 type: sticky
 id: 21
-when: "7"
+when: "6"
 where: "[[Electrical Room]]"
 cast: ["[[Otto]]"]
 register: lawful-weird
 motifs: []
 status: placed
-day: "7"
+day: "6"
 slot: critical
 thread: ""
 source: canon

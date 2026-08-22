@@ -1,10 +1,10 @@
 ---
 type: flag
 set-by:
-  - "[[08 ROTOR — Renner]]"
+  - "[[07 DEED — The Family]]"
   - "[[Electrical Room]]"
 read-by:
-  - "[[True Ending — Informed Breach]]"
+  - "[[I See You — The True Ending]]"
   - "[[Neutral Ending — Stay]]"
 status: seed
 ---
@@ -15,6 +15,6 @@ status: seed
 That the fuse-swap puzzle is solved and the **Master Fuse** is in hand or in its socket. Critical path — every ending except the ignorant tear runs through it.
 
 ## Surfaces where it shows
-- [[08 ROTOR — Renner]] — the fuse-swap room puzzle in the [[Electrical Room]].
+- [[07 DEED — The Family]] — the fuse-swap room puzzle in the [[Electrical Room]].
 - [[Neutral Ending — Stay]] — the fuse seated, one final flash.
-- [[True Ending — Informed Breach]] — a hard gate.
+- [[I See You — The True Ending]] — a hard gate.

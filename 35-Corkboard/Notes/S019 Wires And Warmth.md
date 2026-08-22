@@ -1,13 +1,13 @@
 ---
 type: sticky
 id: 19
-when: "7"
+when: "6"
 where: "[[Electrical Room]]"
 cast: ["[[Renner]]", "[[Otto]]"]
 register: unassigned
 motifs: []
 status: placed
-day: "7"
+day: "6"
 slot: microbeat
 thread: ""
 source: canon

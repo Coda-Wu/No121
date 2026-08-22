@@ -18,4 +18,4 @@ Mirrored-tilemap default construction, as with all pockets.
 
 ## Anomalies & cases hosted
 - 🔧 Twist candidates, all workshop business: he parks *you* · a two-Vacancy decoy · a true mirror showing the other persona. See [[Workshop Agendas]].
-- Windows: [[05 REPAPER — The Twins]] (variant #2) and [[07 DEED — The Past]] (variant #3).
+- Windows: [[05 REPAPER — The Twins]] (variant #2) and [[07 DEED — The Family]] (variant #3).

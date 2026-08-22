@@ -34,7 +34,7 @@ Voice and tape only; "her" tape voice is achievable with gibberish synth, withou
 - [[Reverse Film]] — the completed Anna-thread on [[The Corkboard Thread]] is the gate.
 
 ## Appears in
-- **Endings only**, staged differently per ending: at the tram stop in [[True Ending — Informed Breach]]; never met in [[Neutral Ending — Stay]]; conspicuously absent from the crowd in [[Bad Ending — Ignorant Breach]].
+- **Endings only**, staged differently per ending: at the tram stop in [[I See You — The True Ending]]; never met in [[Neutral Ending — Stay]]; conspicuously absent from the crowd in [[Bad Ending — Ignorant Breach]].
 - The sealed envelope marked "A." is pinned on day 0 and opened cold-open in [[06 ANNA — The Wound]].
 - Her undeveloped roll — her last exposure, shot before she died — is found on D5 and developed on her father's rig.
 

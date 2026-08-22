@@ -27,7 +27,7 @@ Its first use is turned against Otto — see [[The Delusions]], D3.
 
 ## NIR
 
-The original architecture under the wallpaper — **the true floor plan**. A gate for [[True Ending — Informed Breach]]; tracked as [[NIR True Plan Seen]].
+The original architecture under the wallpaper — **the true floor plan**. A gate for [[I See You — The True Ending]]; tracked as [[NIR True Plan Seen]].
 
 NIR is also how [[Otto]] can tell a delusion from the thing itself — see [[Mr. Vacancy]].
 

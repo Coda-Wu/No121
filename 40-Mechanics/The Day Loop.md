@@ -25,7 +25,9 @@ Yesterday's prints (the album is haze-proof memory) · the House Rules · [[Otto
 
 ## Day math
 
-Orders 2–3 min + lap/hunt 8–12 + resolution 5–10 + night 5–8 + dream 1–2 ≈ 21–35 min × 8 ≈ 3–4 hours. See [[Commercial Frame]].
+**Revised in Round 8.** The target is **25–40 minutes per chapter**, across **8 cards** — the cold open, six days, and the final night. The cold open runs short and [[07 DEED — The Family]] runs long and varies by player, by design.
+
+🔧 The old figure (21–35 min × 8 ≈ 3–4 h) assumed nine cards; the demo's stated 35–50 minutes for the cold open plus D1 needs re-checking against the new per-chapter target. See [[Commercial Frame]].
 
 ## Certification (ruler framing)
 

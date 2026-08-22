@@ -21,5 +21,5 @@ Work crews are only ever heard through walls. Management is never seen.
 Clinical-institutional: notices, seals, schedules — the register the Administration owns.
 
 ## Anomalies & cases hosted
-- Floor-5 material is D7 and later (placement constraint enforced by `/weave place`).
+- Floor 5 is the setting of [[06 ANNA — The Wound]] (D5). The old constraint that floor-5 material could not be placed before D7 is retired.
 - [[05 REPAPER — The Twins]] — the Administration revealed as triage.

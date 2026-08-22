@@ -14,7 +14,7 @@ An investigator takes a five-year-old cold case back to the building where it st
 
 > *Leaving isn't wrong; leaving carelessly is.*
 
-The world is not merely artificial — it is a person. The question is never whether to escape, but whether you understand what you'd be tearing open. See [[The Ontology]]. The triptych of endings is the thesis argued three ways — see [[True Ending — Informed Breach]], [[Neutral Ending — Stay]], [[Bad Ending — Ignorant Breach]].
+The world is not merely artificial — it is a person. The question is never whether to escape, but whether you understand what you'd be tearing open. See [[The Ontology]]. The triptych of endings is the thesis argued three ways — see [[I See You — The True Ending]], [[Neutral Ending — Stay]], [[Bad Ending — Ignorant Breach]].
 
 Every dominant motif that surfaces on the corkboard gets checked against this thesis — the census rule in `35-Corkboard/PROTOCOL.md`.
 

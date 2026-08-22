@@ -14,14 +14,14 @@ The door.
 ## Beats
 - Disposition receipts in three conversations: [[Eve]], the twins ([[Leon]] / [[Noel]]), and the last tape — see [[Disposition Tracker]], [[Tapes to Anna]].
 - The usher: [[Mr. Vacancy]] *encourages* opening the door. Burning it yields the eighth key item, **her breath** — see [[Key Items]], [[Usher Burned]].
-- **The descent into the heart.** Otto climbs to the top floor and jumps into the chain-locked well carrying every key item, using the momentum of the fall to break through into the underwater heart — see [[The Lightwell]].
+- **The chapter takes place in the underwater heart.** The descent happens at the end of [[07 DEED — The Family]], not here.
 - [[Anna]]'s corpse is found there — see [[The Body]].
 - **The rose.** She gives him the last of the five roses he cast into the ocean, the only one that reached her, preserved fresh with her own blood and sealed in a glass jar. This is the chapter's revealing cutscene.
-- **The endings** — all four reachable from this night's start:
-  - [[True Ending — Informed Breach]]
-  - [[Neutral Ending — Stay]]
-  - [[Bad Ending — Ignorant Breach]]
-  - [[Do I Know You — The Hollow Return]]
+- **The endings.** Which are available depends on whether the camera survived the bridge in [[07 DEED — The Family]]:
+  - [[I See You — The True Ending]] — camera intact only
+  - [[Neutral Ending — Stay]] — always
+  - [[Do I Know You — The Hollow Return]] — camera intact only
+  - [[Bad Ending — Ignorant Breach]] — 🔧 always, or camera-cracked only; see that note
 - [[Anna]] appears only inside the endings.
 
 ## Microbeats (anecdote bank)

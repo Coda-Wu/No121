@@ -20,4 +20,4 @@ The era is an LUT re-grade of an existing screen, per the [[Art Spec]] — the s
 
 ## Anomalies & cases hosted
 - [[Nan's Biscuits]] — mint condition, best before 1999.
-- [[07 DEED — The Past]] — the property deed; the exit found through the past.
+- [[07 DEED — The Family]] — the property deed; the exit found through the past.

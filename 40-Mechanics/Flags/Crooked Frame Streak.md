@@ -4,7 +4,7 @@ set-by:
   - "[[The Crooked Frame]]"
   - "[[Room 202]]"
 read-by:
-  - "[[09 REDIVIDER — The Door]]"
+  - "[[08 REDIVIDER — The Door]]"
 status: seed
 ---
 # Crooked Frame Streak
@@ -15,4 +15,4 @@ Whether [[Otto]] straightened the crooked frame in [[Room 202]] **every** night.
 
 ## Surfaces where it shows
 - The frame itself, each night of [[Night Phase]].
-- Achievement on completion; disposition flavour in [[09 REDIVIDER — The Door]].
+- Achievement on completion; disposition flavour in [[08 REDIVIDER — The Door]].

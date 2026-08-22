@@ -3,11 +3,13 @@ type: ending
 verb: "Un-take a photograph"
 status: draft
 ---
-# True Ending — Informed Breach
+# I See You — The True Ending
 
 **The homecoming.** The camera verb is to ***un-take*** a photograph.
 
-> [!note] 🔧 This note is `draft`, not `locked`: the core question — whether this ending *returns* [[Anna]] or *reconstructs* her — is open. See below and [[The Death of Anna]].
+Named in Round 8. It forgives both sides and returns to the origin of the tragedy: the seeing, and the being seen. It is the answer to [[Do I Know You — The Hollow Return]].
+
+> [!note] Available **only on the undeceived path** — the camera must survive the bridge in [[07 DEED — The Family]]. A cracked camera cannot take a real photograph and cannot run [[Reverse Film]].
 
 ## Gates
 - [[Reverse Film]] — ≥5 of 7 [[MISSING Notices Collected]], then [[Eve]]'s grant after the Anna-thread completes on [[The Corkboard Thread]]; grace window runs to the D6 dream.
@@ -29,4 +31,4 @@ Reverse Film gives [[Anna]] a physical form. It is not a copy and not a release:
 
 Whether the seven faculty items hard-gate or merely shade the restored Anna. Current call: shade, with a missing faculty visible in the epilogue; **her breath** is the only hard gate.
 
-Reached from [[09 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].
+Reached from [[08 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]].

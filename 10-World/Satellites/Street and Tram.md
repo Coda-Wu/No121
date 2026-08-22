@@ -24,4 +24,4 @@ Dusk on arrival; re-graded per era and ending via LUT, per the [[Art Spec]].
 
 ## Anomalies & cases hosted
 - [[01 №121 — Arrival]] — dusk, the TV-style title sequence, [[Leon]], the cigarette vanish.
-- [[True Ending — Informed Breach]] — [[Anna]] at the tram stop.
+- [[I See You — The True Ending]] — [[Anna]] at the tram stop.

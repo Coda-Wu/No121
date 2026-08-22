@@ -9,7 +9,7 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - `00-Inbox/` — raw drops (session notes, new documents). Atomize into the tree, then move the original to `00-Inbox/processed/`.
 - `10-World/` — one note per base screen or place. `Building/` (lobby, rings, rooms 202/212/232/313/434, 101, 242, 696…), `Pockets/` (teaching pocket, maze family, Penrose stair…), `Satellites/` (street/tram, the Ward).
 - `20-Cast/` — one note per voice, including Renner, the Couple, and Mr. Vacancy.
-- `30-Narrative/` — `Chapters/` (one note per day card: №121, SPOOL, LIVED, RADAR, REPAPER, ANNA, DEED, ROTOR, REDIVIDER), `Endings/`, `Anecdotes/`, plus tapes and the corkboard thread.
+- `30-Narrative/` — `Chapters/` (one note per day card: №121, SPOOL, LIVED, RADAR, REPAPER, ANNA, DEED, REDIVIDER), `Endings/`, `Anecdotes/`, plus tapes and the corkboard thread.
 - `35-Corkboard/` — the Lynch board. `Notes/` holds sticky scenes (`S### Evocative Title.md`), `Threads/` holds synthesis outputs, `Corkboard.canvas` is a generated view. Method in `35-Corkboard/PROTOCOL.md`; commands: `/sticky`, `/board`, `/weave`.
 - `40-Mechanics/` — systems (camera, ruler, persona law, day loop, night phase, festering…). `Clauses/` holds one note per House Rule; `Flags/` holds one note per permanent "the Building remembers" flag.
 - `50-Moodboards/` — `.canvas` boards. Binary images live only in `50-Moodboards/_assets/`; never modify binaries.

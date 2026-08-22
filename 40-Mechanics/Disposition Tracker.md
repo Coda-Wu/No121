@@ -10,4 +10,4 @@ Reads satchel habits, door habits, and treatment of residents.
 - the final night's three conversations — [[Eve]], the twins ([[Leon]] / [[Noel]]), and the last tape in [[Tapes to Anna]];
 - the epilogue.
 
-All three endings stay reachable from the start of [[09 REDIVIDER — The Door]], whatever the disposition. Gates are knowledge and diligence, not attitude — see [[True Ending — Informed Breach]].
+All three endings stay reachable from the start of [[08 REDIVIDER — The Door]], whatever the disposition. Gates are knowledge and diligence, not attitude — see [[I See You — The True Ending]].

@@ -2,9 +2,9 @@
 type: flag
 set-by:
   - "[[Filters]]"
-  - "[[07 DEED — The Past]]"
+  - "[[07 DEED — The Family]]"
 read-by:
-  - "[[True Ending — Informed Breach]]"
+  - "[[I See You — The True Ending]]"
 status: seed
 ---
 # NIR True Plan Seen
@@ -16,4 +16,4 @@ That [[Otto]] has read the original architecture under the wallpaper through the
 ## Surfaces where it shows
 - NIR arrives D6; see [[Filters]].
 - Contradicts the Administration's Schedule and confirms [[Pip]]'s blueprint — [[Night Phase]].
-- A hard gate for [[True Ending — Informed Breach]].
+- A hard gate for [[I See You — The True Ending]].

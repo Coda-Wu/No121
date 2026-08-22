@@ -15,9 +15,11 @@ The camera does not ship with filters. Filter capability is unlocked by the oper
 | Operation | When | Unlocks |
 |---|---|---|
 | Eye 1 | mid D3 | **UV** |
-| Eye 2 | mid D6 | **NIR** |
+| Eye 2 | top of D6 | **NIR** |
 
-The second operation is optional in the sense that the player must choose to go through it again. They will, because it is the only route to NIR — and NIR is a gate on [[True Ending — Informed Breach]].
+The second operation is optional in the sense that the player must choose to go through it again. They will, because it is the only route to NIR — and NIR is a gate on [[I See You — The True Ending]].
+
+Operation two opens [[07 DEED — The Family]], before [[Nan]]'s section, because NIR is what lets Otto see through the bridge delusion later in the same chapter.
 
 ## The implant
 

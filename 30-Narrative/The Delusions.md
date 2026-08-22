@@ -30,7 +30,7 @@ The demon is death. It is not bound by the Building's rules and can approach fro
 
 **⑤ D5 (ANNA) — the rubbing of the eyes.** Fear: **that she saw him and he did not come.** The chapter ends by putting the player back on the beach in 1998 to experience the loss directly — the wind, the sand, the hands going to the eyes, and the empty water afterwards.
 
-**⑥ The bridge.** Fear: that what he finds will not be her. See below. Placement depends on the chapter-structure decision — 🔧 open.
+**⑥ D6 (DEED) — the bridge.** Fear: that what he finds will not be her. It sits **mid-chapter**, between [[Nan]]'s section and the descent to [[Renner]], and it is the branch that decides which endings remain. See below and [[07 DEED — The Family]].
 
 **⑦ The offer of the post.** *Retired.* The forged-paperwork trick that asked Otto to hand back the camera is cut: it is not a strong close for a chapter.
 
@@ -44,7 +44,7 @@ A pure-white background. [[Anna]] and Otto stand at either end of a short bridge
 
 **The truth:** Otto is standing on the unfenced edge of the lightwell. Walking the bridge means stepping off the top floor into the heart-well, and the sound is camera glass cracking.
 
-**If the player catches it** and raises the camera, a radial mask expands outward from Otto and reveals the real interior of the Building behind the white — and the Vacancy's devils standing in it.
+**If the player catches it** and raises the camera, a radial mask expands outward from Otto and wipes away the white. What it reveals is where he actually is: the **corrupted lightwell**, with the Vacancy's devils in it and the phantom [[Anna]] floating in the air in the middle of the shaft.
 
 Note: the radial reveal is an optical effect and is fine. Floating noise shaders would brush the banned list in [[The Two-Grammar Rule]]; the missing reflection carries the tell without them.
 

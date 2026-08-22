@@ -17,7 +17,7 @@ She is **decaying slowly, not gone**. The rate of decay is the rate at which the
 
 Through **dimensional distortion** inside the Building. The corpse is visible in-game without [[Otto]] ever leaving to retrieve it — he does not go and get her.
 
-Directly, once: in the heart, at the base of the lightwell, at the end of [[09 REDIVIDER — The Door]].
+Directly, once: in the heart, at the base of the lightwell, at the end of [[08 REDIVIDER — The Door]].
 
 ## How the body is restored
 

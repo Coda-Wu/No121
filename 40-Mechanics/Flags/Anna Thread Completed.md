@@ -5,7 +5,7 @@ set-by:
   - "[[06 ANNA — The Wound]]"
 read-by:
   - "[[Reverse Film]]"
-  - "[[True Ending — Informed Breach]]"
+  - "[[I See You — The True Ending]]"
 status: seed
 ---
 # Anna Thread Completed

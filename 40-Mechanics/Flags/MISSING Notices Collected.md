@@ -5,7 +5,7 @@ set-by:
   - "[[Corridor Ring]]"
 read-by:
   - "[[Reverse Film]]"
-  - "[[True Ending — Informed Breach]]"
+  - "[[I See You — The True Ending]]"
 status: seed
 ---
 # MISSING Notices Collected

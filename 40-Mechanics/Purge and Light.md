@@ -20,4 +20,4 @@ A purged room's geometry stops permuting — a permanent record; see [[Purged Ro
 
 ## The final purge
 
-Burning the usher on the last night is a gate for [[True Ending — Informed Breach]]. Unloseable: arriving unprepared throws you back, never kills you. See [[Usher Burned]].
+Burning the usher on the last night is a gate for [[I See You — The True Ending]]. Unloseable: arriving unprepared throws you back, never kills you. See [[Usher Burned]].

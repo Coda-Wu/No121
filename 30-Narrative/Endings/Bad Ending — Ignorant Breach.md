@@ -11,7 +11,9 @@ The camera verb is ***none***: the door is torn.
 
 **None.** Choosable in ignorance, always — this is the point.
 
-**Second route:** if the player is taken in by the bridge in [[The Delusions]], Otto steps off the lightwell edge, the camera glass cracks in the fall, and he arrives at the heart without a working weapon. 🔧 Exact consequence pending the chapter-structure decision. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
+**The cracked-camera path:** if the player is taken in by the bridge in [[07 DEED — The Family]], Otto steps off the lightwell edge and the camera glass breaks in the fall. He cannot take a real photograph or run [[Reverse Film]]; he has only the torch to fight with, and [[Mr. Vacancy]] cannot be fully purged. On that path the only endings left are this one and [[Neutral Ending — Stay]].
+
+🔧 **Open:** whether this ending also stays choosable with an intact camera. The locked text says it is always available in ignorance, which is the thesis; Round 8's routing lists only Stay, the Hollow Return and [[I See You — The True Ending]] on the intact path. [[Mr. Vacancy]] as usher wants exactly this; an ignorant Breach does its work.
 
 ## What it means
 
@@ -23,4 +25,4 @@ The door is torn and **the water comes in**. The Building floods. **Both [[Otto]
 
 The **scale-shock vista** and the crowd are **superseded**: they were written under the earlier ontology, before the drowning was settled, and no longer apply.
 
-Reached from [[09 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]]. See [[Logline and Thesis]]: leaving isn't wrong; leaving carelessly is.
+Reached from [[08 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]]. See [[Logline and Thesis]]: leaving isn't wrong; leaving carelessly is.

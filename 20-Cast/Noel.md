@@ -27,4 +27,4 @@ Deadpan continuity gags run across the pair — see [[Tie Continuity]].
 
 ## Appears in
 - [[05 REPAPER — The Twins]] — the twins formally; renovation notices.
-- [[09 REDIVIDER — The Door]] — one of the three disposition receipt conversations.
+- [[08 REDIVIDER — The Door]] — one of the three disposition receipt conversations.

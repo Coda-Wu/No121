@@ -4,7 +4,7 @@ status: locked
 ---
 # Reverse Film
 
-The verb of [[True Ending — Informed Breach]]: to ***un-take*** a photograph.
+The verb of [[I See You — The True Ending]]: to ***un-take*** a photograph.
 
 ## Grant
 - ≥5 of 7 collected [[MISSING Notices Collected]], **and**
@@ -15,7 +15,7 @@ Tracked as [[Reverse Film Granted]].
 
 ## Window
 
-Opens in [[06 ANNA — The Wound]] (D5). The grace window **closes at the D6 dream** in [[07 DEED — The Past]].
+Opens in [[06 ANNA — The Wound]] (D5). The grace window **closes at the D6 dream** in [[07 DEED — The Family]].
 
 ## Why it lands
 

@@ -6,28 +6,29 @@ status: seed
 
 Generated map of content. Ask Claude Code to regenerate.
 
-## Chapters (9) — day = chapter = autosave at wake
+## Chapters (8) — day = chapter = autosave at wake
+
+DEED and ROTOR merged in Round 8; six days plus the cold open and the final night.
 
 | Card | Day | Owns | Critical beat |
 |---|---|---|---|
 | [[01 №121 — Arrival]] | Cold Open | Arrival | Sleep — Dream 0, Renner's Calling |
 | [[02 SPOOL — The Job]] | 1 | The job | The 3:00 AM ring — demo ends |
 | [[03 LIVED — The Name]] | 2 | The name | Mr. Vacancy named |
-| [[04 RADAR — Detection]] | 3 | Detection | First Administration notice |
-| [[05 REPAPER — The Twins]] | 4 | The twins | The room-swap twist |
-| [[06 ANNA — The Wound]] | 5 | The wound | The evening call |
-| [[07 DEED — The Past]] | 6 | The past | The exit found through the past |
-| [[08 ROTOR — Renner]] | 7 | Renner | Fuse-swap puzzle → the Master Fuse |
-| [[09 REDIVIDER — The Door]] | Final Night | The door | The triptych |
+| [[04 RADAR — Detection]] | 3 | Detection | The bedroom under UV |
+| [[05 REPAPER — The Twins]] | 4 | The twins | The psychiatric hospital |
+| [[06 ANNA — The Wound]] | 5 | The wound (floor 5, the lung) | The evening call, and the rubbing of the eyes |
+| [[07 DEED — The Family]] | 6 | The family | The bridge, and the jump into the heart-well |
+| [[08 REDIVIDER — The Door]] | Final Night | The door | The endings |
 
 Filenames carry card + what the card owns, so the ANNA card cannot collide with [[Anna]] under Obsidian's case-insensitive link resolution.
 
 ## Endings (4)
 
-- [[True Ending — Informed Breach]] — *un-take* a photograph, with all eight [[Key Items]].
+- [[I See You — The True Ending]] — *un-take* a photograph, with the full set of [[Key Items]]. Camera intact only.
 - [[Neutral Ending — Stay]] — *take* the last photograph; keep the secret.
 - [[Bad Ending — Ignorant Breach]] — no photograph; the tear, and the water.
-- [[Do I Know You — The Hollow Return]] — the body without the person.
+- [[Do I Know You — The Hollow Return]] — the body without the person. Camera intact only.
 
 ## Canon
 

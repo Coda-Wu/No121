@@ -19,6 +19,6 @@ Hosts the **fuse-swap room puzzle** (critical path) and the Master Fuse. The bas
 Utility in both registers; the warmth is the tell.
 
 ## Anomalies & cases hosted
-- [[08 ROTOR — Renner]] — the junction reveal, the fuse-swap puzzle, the branch point where Stay can trigger.
+- [[07 DEED — The Family]] — the junction reveal, the fuse-swap puzzle, the branch point where Stay can trigger.
 - [[Neutral Ending — Stay]] — going to Renner and choosing the socket.
 - Flag: [[Master Fuse Seated]].

@@ -13,7 +13,10 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 - **The exact cause of death** — [[The Death of Anna]]. She drowned at sea in 1998 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
 - **The evening call** — [[06 ANNA — The Wound]]'s critical beat. The 3 AM call now ends the demo in [[02 SPOOL — The Job]]; whether D5's evening call is a separate, later beat or was relocated is 🔧 open.
 - **[[The Cafeteria]]** — floor 1, the social hub. Dressing, anecdote placement, and the twins' split shift.
-- **⚠️ CHAPTER STRUCTURE — the [[07 DEED — The Past]] / [[08 ROTOR — Renner]] merge.** Coda's Round 7 proposal: condense the family tragedy into one chapter immediately before the final night, so no chapter can be skipped and the descent closes it. Consequences for card count, day count, runtime and the eight [[Key Items]] are unresolved. **Blocking — nothing downstream can be placed until this is decided.**
+- **[[Room 696]] placement** — the brain is the only organ with no chapter. See [[The Organ Map]].
+- **Runtime re-check** — 25–40 min per chapter across 8 cards, against the 3–4 h claim in [[Commercial Frame]] and the demo's 35–50 min.
+- **Whether [[Bad Ending — Ignorant Breach]] stays choosable with an intact camera.**
+- **The fuse-swap puzzle and [[Master Fuse Seated]]** — the Master Fuse now reads as too small a reward for [[07 DEED — The Family]].
 - **[[The Delusions]]** — the slate is drafted; the bridge's placement waits on the structure decision.
 - **[[The Curse]]** — how [[Renner]] and [[Eve]] were taken, and why this family.
 - **[[The Cataract Operations]]** — the step-by-step minigame verbs, and what escalates on operation two.

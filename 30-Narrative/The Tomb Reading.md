@@ -28,7 +28,7 @@ Under the twist test in `35-Corkboard/PROTOCOL.md`, the correction recontextuali
 - **Newspaper coverage** of a 1998 disappearance, surfacing through the document-viewer layer; a death notice is the cheapest tomb signal in the game.
 - **Fluorescent residue under UV** — [[Filters]] reads the building and objects, not files. Marks in her hand on a wall or a fixture, which read as an epitaph on first pass and as a note-to-self on second.
 - **[[Anna's Flat]]** — a room on no plan, furnished from someone else's memories, is either a shrine or a home. Currently reads as a shrine.
-- **The predecessor's ledger** in [[07 DEED — The Past]] — gaps that scan as burial records.
+- **The predecessor's ledger** in [[07 DEED — The Family]] — gaps that scan as burial records.
 - **Description patterns** — the way [[Eve]] and [[Renner]] speak about her in the past tense, which is correct, and which the player will hear as confirmation of a grave.
 
 ## The corkboard shape
@@ -40,7 +40,7 @@ Settled in Round 4: the board supports **four terminal conclusions**, reached by
 3. *This is her.*
 4. *He was there.*
 
-**Reaching a conclusion unlocks what [[Eve]] will discuss**, and Eve gates the [[Key Items]]. The board therefore does real work without ever telling the player they are wrong. *This is her* and *he was there* are both required for [[True Ending — Informed Breach]]; *this is her tomb* is a complete and satisfying dead end.
+**Reaching a conclusion unlocks what [[Eve]] will discuss**, and Eve gates the [[Key Items]]. The board therefore does real work without ever telling the player they are wrong. *This is her* and *he was there* are both required for [[I See You — The True Ending]]; *this is her tomb* is a complete and satisfying dead end.
 
 🔧 Round 6: the individual threads, how combinations produce new threads, and which key threads derive each conclusion.
 
