@@ -4,7 +4,9 @@ status: seed
 ---
 # 10-World — index
 
-Generated map of content. Ask Claude Code to regenerate. Screen-ledger lock: **≤30 base scenes**, elevator included — see [[Art Spec]], [[Scope Ledger]]. Current count: **22**.
+Generated map of content. Ask Claude Code to regenerate. Screen-ledger lock: **≤30 base scenes**, elevator included — see [[Art Spec]], [[Scope Ledger]].
+
+**Audit, Round 7 — 27 of 30.** Specified: 24. [[Room 212]] costs nothing (a door, not a space); the lightwell costs nothing seen from the corridor faces, and only the underwater heart is a scene; [[Maze Family]] is 2. Pending from Round 7: the bridge mind-scene (1), the beach mind-space (1), the psychiatric-ward dream (1) — the last two may come in free as LUT re-grades of [[Street and Tram]] and [[The Ward]]. The three real-world interstitials are re-grades and cost nothing. **The lock holds; no change needed.**
 
 ## Building (15)
 

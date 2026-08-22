@@ -32,7 +32,7 @@ New systems file to the post-launch parking lot. New pitches route to [[Workshop
 ## Amendments
 
 - **Endings 3 → 4** (Round 4, Coda's call). [[Do I Know You — The Hollow Return]] reuses the True ending's cutscene with a changed final beat. The lock was **amended, not paid for**; [[Penrose Stair]] is retained and will be designed further.
-- 🔧 **Pending against ≤30 base scenes:** the underwater heart at the base of [[The Lightwell]], and [[The Cafeteria]] on floor 1. Two new scenes. The lightwell seen from the corridor faces costs nothing.
+- **Base scenes audited in Round 7: 27 of 30.** The underwater heart and [[The Cafeteria]] are counted in; three slots remain. **No change to the lock.** Full working in `10-World/_Index.md`.
 - **Anecdote bank 11 → 10:** Pip's Ratings retired in Round 5 (Pip is non-verbal). The demo's carried microbeats are unaffected — it carried the cigarette, the doorknob, the noir-correction, the lift line and the frame.
 - 🔧 **Pending against ≤15,000 words:** the [[The Tomb Reading]] misdirection slate, [[The Hidden Family]] concealment channels, and [[Key Items]] discovery scenes.
 

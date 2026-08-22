@@ -13,10 +13,12 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 - **The exact cause of death** — [[The Death of Anna]]. She drowned at sea in 1998 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
 - **The evening call** — [[06 ANNA — The Wound]]'s critical beat. The 3 AM call now ends the demo in [[02 SPOOL — The Job]]; whether D5's evening call is a separate, later beat or was relocated is 🔧 open.
 - **[[The Cafeteria]]** — floor 1, the social hub. Dressing, anecdote placement, and the twins' split shift.
-- **[[Mr. Vacancy]]'s delusion slate** — the remaining delusions, one per chapter, each built from something [[Otto]] fears. Three are settled (the ravens, the D6 phantom, the D7 camera offer). **Round 7.**
+- **⚠️ CHAPTER STRUCTURE — the [[07 DEED — The Past]] / [[08 ROTOR — Renner]] merge.** Coda's Round 7 proposal: condense the family tragedy into one chapter immediately before the final night, so no chapter can be skipped and the descent closes it. Consequences for card count, day count, runtime and the eight [[Key Items]] are unresolved. **Blocking — nothing downstream can be placed until this is decided.**
+- **[[The Delusions]]** — the slate is drafted; the bridge's placement waits on the structure decision.
 - **[[The Curse]]** — how [[Renner]] and [[Eve]] were taken, and why this family.
 - **[[The Cataract Operations]]** — the step-by-step minigame verbs, and what escalates on operation two.
 - **[[The Cafeteria]] menu** — night by night.
+- **The fifth floor** — the lung and the wound, flooded, and currently owned by no chapter.
 - **The four corkboard conclusions** — the individual threads, how combinations produce new threads, and which key threads derive each conclusion. See [[The Tomb Reading]].
 - **[[Key Items]]** — the physical form of each of the seven faculties and its discovery scene.
 - **[[The Tomb Reading]] evidence slate** — the planted misdirection, and whether the in-game corkboard supports competing conclusions at all. Draws on the word budget; a deletion will need naming under the scope-tax rule in the [[Scope Ledger]].
