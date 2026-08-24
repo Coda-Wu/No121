@@ -17,5 +17,5 @@ The demo flat whose **far door** shouldn't fit what's behind it — the mouth of
 The uniform sees the corridor that shouldn't fit; the suit is not routed here.
 
 ## Anomalies & cases hosted
-- [[Teaching Pocket]] — the scripted pacing-count overrun, the nest, [[Clause 02 — The Measure]]; the exit is three steps away. 🔧 The torch purge is superseded; see that note.
+- [[Teaching Pocket]] — the scripted pacing-count overrun, the nest, [[Clause 02 — The Measure]]; the exit is three steps away. The torch purge is retired; the nest is left unresolved.
 - [[02 SPOOL — The Job]] — first lap, first captures.

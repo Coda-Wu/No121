@@ -16,7 +16,7 @@ One gimmick: a **scripted pacing-count overrun** — gibberish counting, an air 
 
 Beats: the overrun → the nest → [[Clause 02 — The Measure]]. The exit is three steps away.
 
-🔧 **The torch purge here is superseded.** Round 9 removed the tool-belt torch: D1 has **no light verb at all**, and [[Eve]] only hands over the flashgun in that night's dream. What the player does with the nest on D1 is undecided — capture it as evidence, or leave it. See [[Purge and Light]].
+**The torch purge here is retired.** The tool-belt torch is gone and the demo carries no light verb at all; [[Eve]] hands over the flashgun only in that night's dream. **The nest is seen, paced past and left** — the demo's second unpaid promise, alongside the smoke-locked room. See [[Purge and Light]].
 
 ## Dressing A (performance) / Dressing B (truth)
 
