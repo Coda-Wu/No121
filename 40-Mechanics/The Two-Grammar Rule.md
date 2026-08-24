@@ -18,7 +18,7 @@ The Building's own metabolism. **The organ working** — function performed corr
 
 Design note: blood and gore are not the horror here. The horror is the desperation of the death wish itself, and how the player is made to feel it. 🔧 Round 5.
 
-**Diagnosis mechanic:** sick anomalies *violate a clause the player already knows*. This is why [[Clause 1]] is taught fully in the demo.
+**Diagnosis mechanic:** sick anomalies *violate a clause the player already knows*. This is why [[Clause 02 — The Measure]] is taught fully in the demo.
 
 ## The three dread registers, one owner each
 - **Spatial / architectural wrongness (LEAD)** — owned by the Building.

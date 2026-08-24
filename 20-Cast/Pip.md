@@ -35,7 +35,7 @@ Hint tier 2 in [[The Dream and Hint Ladder]], delivered entirely through the dra
 - [[Anna]] — Pip *is* her childhood.
 - [[Otto]] — supplies the true map against the Administration's wrong Schedule.
 - [[Nan]] — the other state of Anna in the Building.
-- [[Clause 2]] — shown in the demo as Pip's crayon map.
+- [[Clause 03 — The Later Plan]] — shown in the demo as Pip's crayon map.
 
 ## Appears in
 - [[01 №121 — Arrival]] — the blueprint under the door.

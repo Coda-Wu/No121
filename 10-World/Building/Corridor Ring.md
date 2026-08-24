@@ -21,7 +21,7 @@ Scope: corridors and palindrome rooms only. Vacant flats are doors, not spaces; 
 Performance for the Agent, truth for the uniform — see [[Persona Law]].
 
 ## Anomalies & cases hosted
-- Lap-anomaly menu: five-corner laps · a face occurring twice · direction-dependence (a lawful clause: "the third floor is to be walked against the clock" — see [[Clause — Against the Clock]]).
+- Lap-anomaly menu: five-corner laps · a face occurring twice · direction-dependence (a lawful clause: "the third floor is to be walked against the clock" — see [[Clause 08 — Against the Clock]]).
 - ≥1 blueprint-comparison anomaly per floor, against [[Pip]]'s map.
 - [[The Ruler]]'s Overrun, certifying corridor 2 in the demo.
 - [[Bob]] watches this corridor all night from [[Room 232]] and has never seen it change.

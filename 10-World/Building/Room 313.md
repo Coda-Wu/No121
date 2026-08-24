@@ -20,5 +20,5 @@ Under [[The Organ Map]], floor 3 is the **eye**. Hosts both of [[The Cataract Op
 
 ## Anomalies & cases hosted
 - The blueprint under the door on night 0, and a refined copy every morning.
-- [[Clause 2]], shown (not taught) in the demo as Pip's crayon map.
-- Floor 3 is the one to be walked against the clock — see [[Clause — Against the Clock]].
+- [[Clause 03 — The Later Plan]], shown (not taught) in the demo as Pip's crayon map.
+- Floor 3 is the one to be walked against the clock — see [[Clause 08 — Against the Clock]].

@@ -1,9 +1,9 @@
 ---
 type: flag
 set-by:
-  - "[[Clause 1]]"
-  - "[[Clause 2]]"
-  - "[[Clause — Against the Clock]]"
+  - "[[Clause 02 — The Measure]]"
+  - "[[Clause 03 — The Later Plan]]"
+  - "[[Clause 08 — Against the Clock]]"
 read-by:
   - "[[I See You — The True Ending]]"
   - "[[The Two-Grammar Rule]]"

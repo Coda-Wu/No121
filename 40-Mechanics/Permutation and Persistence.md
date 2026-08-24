@@ -23,4 +23,6 @@ Authored beats override cleanly. The steering epiphany — the first *deliberate
 
 ## House Rules
 
-9–11 physical, findable clauses from the ancient tenancy agreement — legalese as literature. Finding one = being handed a tool; instruments verify; **exploiting is steering**. The demo teaches [[Clause 1]] fully and shows [[Clause 2]]. Count tracked as [[Clauses Known]]; the 9–11 lock lives in the [[Scope Ledger]].
+Twelve physical, findable clauses from the ancient tenancy agreement — legalese as literature. Finding one = being handed a tool; instruments verify; **exploiting is steering**. The demo teaches [[Clause 02 — The Measure]] fully and shows [[Clause 03 — The Later Plan]]. Count tracked as [[Clauses Known]]; the lock lives in the [[Scope Ledger]].
+
+**[[Clause 01 — Smoking and Alcohol]] is not diagnostic** and does not count: eleven clauses carry an exploit and a violation, which is inside the 9–11 lock.

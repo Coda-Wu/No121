@@ -23,9 +23,18 @@ Generated map of content. Ask Claude Code to regenerate. **Systems freeze in eff
 
 | Note | № | Taught | Status |
 |---|---|---|---|
-| [[Clause 1]] | 1 | D1, demo, fully | seed |
-| [[Clause 2]] | 2 | D1, demo, shown | seed |
-| [[Clause — Against the Clock]] | 🔧 unassigned | — | seed |
+| [[Clause 01 — Smoking and Alcohol]] | 01 | never — not diagnostic | draft |
+| [[Clause 02 — The Measure]] | 02 | D1, demo, fully | draft |
+| [[Clause 03 — The Later Plan]] | 03 | D1, demo, shown | draft |
+| [[Clause 04 — Reception]] | 04 | D2 | draft |
+| [[Clause 05 — The Lift]] | 05 | D2 | draft |
+| [[Clause 06 — Meals]] | 06 | D2 | draft |
+| [[Clause 07 — Refuse]] | 07 | D3 | draft |
+| [[Clause 08 — Against the Clock]] | 08 | D3 | draft |
+| [[Clause 09 — Quiet Hours]] | 09 | D4 | draft |
+| [[Clause 10 — Standing Water]] | 10 | D5 | draft |
+| [[Clause 11 — The Supply]] | 11 | D6 | draft |
+| [[Clause 12 — The Well]] | 12 | D6, last | draft |
 
 🔧 The clause-by-clause pass is the first workshop — text is unwritten.
 

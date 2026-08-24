@@ -13,7 +13,7 @@ The locks. **The scope-tax rule: any mid-project addition must name its deletion
 | Base scenes | ≤30 (elevator included) | [[Art Spec]], `10-World/` |
 | Dressing variants | ~2 average | [[Art Spec]] |
 | Words (all speakers) | ≤15,000 | dialogue + [[Tapes to Anna]] |
-| House Rules clauses | 9–11 | `40-Mechanics/Clauses/` |
+| House Rules clauses | 9–11 **diagnostic** (11 written) | `40-Mechanics/Clauses/` |
 | Bespoke pockets | ≤6 (teaching pocket exempt) | `10-World/Pockets/` |
 | Music loops | 8–10 | [[Audio Spec]] |
 | Scripted blackouts | 3–5 | [[The Day Loop]] |
@@ -30,6 +30,8 @@ Standing pressure: the [[Maze Family]] takes **3 of the 6** pocket slots.
 New systems file to the post-launch parking lot. New pitches route to [[Workshop Agendas]], not the tree. On the vault's Lynch board, a sticky that pitches a system gets `status: parked` rather than a slot.
 
 ## Amendments
+
+- **Clauses: 12 notes, 11 diagnostic.** [[Clause 01 — Smoking and Alcohol]] was added in Round 11 as the document's first rule. It carries no exploit and diagnoses nothing — it is flavour and a twist — so it does not count against the 9–11 lock and does not count toward [[Clauses Known]]. The eleven that do are inside the lock.
 
 - **Endings 3 → 4** (Round 4, Coda's call). [[Do I Know You — The Hollow Return]] reuses the True ending's cutscene with a changed final beat. The lock was **amended, not paid for**; [[Penrose Stair]] is retained and will be designed further.
 - **Base scenes audited in Round 7: 27 of 30.** The underwater heart and [[The Cafeteria]] are counted in; three slots remain. **No change to the lock.** Full working in `10-World/_Index.md`.
