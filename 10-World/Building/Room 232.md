@@ -10,12 +10,12 @@ status: locked
 
 ## Function
 
-[[Bob]]'s flat. He watches the [[Corridor Ring]] all night from here and has never once seen it change — the counter-testimony the player has to weigh.
+[[Elle]]'s flat. She watches the [[Corridor Ring]] all night from here and has never once seen it change — the counter-testimony the player has to weigh.
 
 ## Dressing A (performance) / Dressing B (truth)
 
-Domestic register, warm and unremarkable in both — Bob's normalcy is the joke and the evidence.
+Domestic register, warm and unremarkable in both — Elle's normalcy is the joke and the evidence.
 
 ## Anomalies & cases hosted
-- [[Bob's Mug]] — WORLD'S BEST TENANT.
-- [[04 RADAR — Detection]] — Bob deepened.
+- [[Elle's Mug]] — WORLD'S BEST TENANT.
+- [[04 RADAR — Detection]] — Elle deepened.

@@ -23,7 +23,7 @@ The one prop that must be legible at sprite scale and beautiful at print scale:
 | Prompt phrase | Where it lives |
 |---|---|
 | a self-anchoring tape measure reel, hook extended, fat numeric readout | [[The Ruler]] |
-| a coffee mug reading WORLD'S BEST TENANT | [[Bob's Mug]] |
+| a coffee mug reading WORLD'S BEST TENANT | [[Elle's Mug]] |
 | a tin of biscuits, best-before date 1999, mint condition | [[Nan's Biscuits]] |
 | a cigarette pack, half its contents gone, no ashtray in sight | [[The Cigarette Gag]] |
 | a picture frame hanging slightly crooked on floral wallpaper | [[The Crooked Frame]] |

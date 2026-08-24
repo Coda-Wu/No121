@@ -43,7 +43,7 @@ Shape for every block: build + one garment sentence + posture + one identifying 
 **[LEON-NOEL]** — [[Leon]] / [[Noel]], one role, two bodies
 > a middle-aged man in a caretaker's cardigan over a shirt and tie, keys on a belt clip, patient stance, a tie in a pattern you would not describe twice the same way
 
-**[BOB]** — [[Bob]], the Insomniac
+**[ELLE]** — [[Elle]], the Insomniac
 > a heavyset man in a dressing gown over day clothes, slippers, standing in a doorway, holding a mug in both hands
 
 **[NAN]** — [[Nan]], 1998

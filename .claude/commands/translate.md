@@ -25,7 +25,7 @@ Per note in scope:
 **Translation rules:**
 - This is a literary pass, not a gloss. Preserve register: deadpan stays deadpan; House Rules clauses render as 公文/合同 legalese; sick-weird prose stays wrong in the same way.
 - `60-Production/Glossary.md` is binding for rows marked `ratified` or `locked`. Rows marked `seed` are defaults — use them, but note in the report that they're unratified.
-- Loop-names (Otto, Anna, Eve, Bob, Pip, Nan, Renner, Leon, Noel), №121, and all room numbers stay in Latin script / numerals inside Chinese text. The palindrome canon is visual; transliteration destroys it.
+- Loop-names (Otto, Anna, Eve, Elle, Pip, Nan, Renner, Leon, Noel), №121, and all room numbers stay in Latin script / numerals inside Chinese text. The palindrome canon is visual; transliteration destroys it.
 - Wikilinks pass through untouched (`[[Otto]]` stays `[[Otto]]`).
 - When you must coin a rendering for a recurring canon term not yet in the glossary, choose one, use it consistently in this run, and APPEND it to the glossary as `status: seed` — never leave a new term unglossaried.
 - Never translate inside other tools' marker blocks or HTML comments.

@@ -8,7 +8,7 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 
 ## Policy (treat as ratified)
 
-- **Loop-names stay in Latin script** inside Chinese text: Otto, Anna, Eve, Bob, Pip, Nan, Renner, Leon, Noel. The palindrome canon is *visual* — 奥托 is not a palindrome. Same for №121 and all room numbers (202, 212, 232, 313, 434, 101, 696).
+- **Loop-names stay in Latin script** inside Chinese text: Otto, Anna, Eve, Elle, Pip, Nan, Renner, Leon, Noel. The palindrome canon is *visual* — 奥托 is not a palindrome. Same for №121 and all room numbers (202, 212, 232, 313, 434, 101, 696).
 - Diegetic paper (notices, work orders, the tenancy agreement) renders in 公文/合同 register — legalese as literature must survive translation.
 - 🔧 Parked to the localization workshop: how zh-Hans *players* discover the palindrome rule in-game (mailbox grid / roster are Latin-script diegetic art — likely fine via the document-viewer layer, but confirm when localization starts). Vault policy above is settled regardless.
 

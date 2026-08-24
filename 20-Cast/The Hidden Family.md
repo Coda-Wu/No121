@@ -27,7 +27,7 @@ Both parents died before Otto ever met Anna (ratified as C2). She built them fro
 - The socket in [[Neutral Ending — Stay]] is **Otto taking the father's post**. Staying is joining her family.
 - The camera's requisition slip, RETURN UPON TERMINATION OF TENANCY, is her father's tool handed down.
 
-## The three states
+## The states and the faculty
 
 [[Pip]] and [[Nan]] are **not people Anna knew.** They are Anna herself at other ages, after the Buddhist figure of the past, the present and the future:
 
@@ -37,7 +37,9 @@ Both parents died before Otto ever met Anna (ratified as C2). She built them fro
 | [[Anna]] | the present |
 | [[Nan]] | the age she never reached, still living in 1998 |
 
-**Neither is ever confirmed.** A player who reads them as family members is not wrong in any way the game will contradict, and a player who reads them as states is not wrong either. Nothing names them, and there is deliberately **no document** — no deed, no contract, no register — that would settle it.
+**[[Elle]] is a fourth kind again** — not a life stage but a **faculty**: Anna's dream, personified as an insomniac who cannot sleep and therefore cannot dream. [[Mr. Vacancy]] has been in that dream long enough to be named from her mouth.
+
+**None of it is ever confirmed.** A player who reads them as family members is not wrong in any way the game will contradict, and a player who reads them as states is not wrong either. Nothing names them, and there is deliberately **no document** — no deed, no contract, no register — that would settle it.
 
 ## Concealment method
 
@@ -53,6 +55,6 @@ Nothing above is placed yet. 🔧 Placement pass, and it draws on the word budge
 
 ## 🔧 Open
 
-- [[Bob]] is the last unassigned palindrome: neither a known parent nor an obvious state of Anna.
+- Whether **her dream** joins the [[Key Items]] as a ninth. It fits, and it is not one today.
 - [[Leon]] and [[Noel]], [[The Couple]] and [[Mr. Vacancy]] carry no palindrome and therefore no original: the Administration is Anna's own institutional register, the Couple are wall-voices, and the Vacancy is not hers at all.
 - Whether Otto ever half-recognises them, and whether the game ever lets him say so.

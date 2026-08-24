@@ -15,7 +15,7 @@ Generated map of content. Ask Claude Code to regenerate. The binding constraint 
 | [[Eve]] | The Nurse | 101 | ✓ | clinical |
 | [[Leon]] | The Superintendent (twin) | — | ✗ (loop with Noel) | clinical |
 | [[Noel]] | The Superintendent (twin) | — | ✗ (loop with Leon) | clinical |
-| [[Bob]] | The Insomniac | 232 | ✓ | domestic |
+| [[Elle]] | The Insomniac | 232 | ✓ | domestic |
 | [[Pip]] | The Child Cartographer | 313 | ✓ | domestic |
 | [[Nan]] | The Grandmother, 1998 | 434 | ✓ | domestic |
 | [[The Couple]] | Voices through the wall | 212 | ✗ | domestic |
@@ -30,5 +30,5 @@ Generated map of content. Ask Claude Code to regenerate. The binding constraint 
 ## Open
 
 - 🔧 [[Mr. Vacancy]] is `draft`: the final name is Coda's call. See [[Workshop Agendas]].
-- 🔧 Real-world originals for [[Nan]], [[Bob]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
+- 🔧 Real-world originals for [[Nan]], [[Elle]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
 - 🔧 [[Otto]]'s surname, if any.

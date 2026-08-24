@@ -18,7 +18,7 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 - **The sleep maze**, D2 — fake being asleep while moving so the nightmare does not find you awake. Appearance and mechanism.
 - **The twin maze**, D4 — after the paired antagonist in *Sayonara Wild Hearts*, never in the same place at the same time. Optical and mechanical design.
 - **[[Anna's Flat]]** — single-point perspective in hand-drawn pixel art, DOOM-style, same pipeline. 🔧 Costing and tooling.
-- **[[Bob]]** — the last unassigned palindrome. Neither a known parent nor an obvious state of [[Anna]].
+- **[[Elle]]** — the last unassigned palindrome. Neither a known parent nor an obvious state of [[Anna]].
 - **The demo's teaching load** — with the torch gone, D1 no longer teaches purging. 🔧 Confirm the nest is left unresolved as a second hook.
 - **[[Otto]]'s surname**, still open.
 - **[[The Delusions]]** — the slate is drafted; the bridge's placement waits on the structure decision.
@@ -30,7 +30,7 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 - **[[Key Items]]** — the physical form of each of the seven faculties and its discovery scene.
 - **[[The Tomb Reading]] evidence slate** — the planted misdirection, and whether the in-game corkboard supports competing conclusions at all. Draws on the word budget; a deletion will need naming under the scope-tax rule in the [[Scope Ledger]].
 - **[[The Hidden Family]] concealment channels** — placement of the paperwork, articles, voice messages and description-patterns that carry [[Eve]] and [[Renner]]'s parentage without ever stating it.
-- **Real-world originals** for [[Nan]], [[Bob]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
+- **Real-world originals** for [[Nan]], [[Elle]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
 - **Anomaly catalogue** — the generative law and the organ map are settled in [[The Organ Map]]. Each floor entry needs: lawful (the organ working), sick (the organ failing), [[Mr. Vacancy]]'s invasions, and what UV and NIR reveal. Vacancy influence increases with the chapter number. Floors 1–3 drafted first. **Round 8.**
 - **House Rules clause pass** — 9–11 clauses, 3 seeds. They read as property law and derive from the organ map behind the scenes.
 
