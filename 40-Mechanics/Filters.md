@@ -15,7 +15,9 @@ Screw-on filters for [[The Camera]]. Cheap revisit content: each one re-reads sc
 | **UV** | mid D3 | operation one |
 | **NIR** | mid D6 | operation two |
 
-[[Eve]] supplies the filter and the reason: for the truth to be visible, the camera and Pip must share the same view.
+🔧 **Revised in Round 12, and needs reconciling.** The **UV filter glass is found by [[Otto]]**, hidden in the corridor blind spot on floor 3 — see [[The Eye Maze]]. [[Eve]] no longer supplies it; she tells him what it is for: for the truth to be visible, the camera and Pip must share the same view. Where the NIR glass comes from is unassigned.
+
+**UV and NIR mechanics are postponed** until the lawful anomalies are settled for every floor. Nothing below is designed.
 
 ## UV
 

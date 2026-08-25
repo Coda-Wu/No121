@@ -30,17 +30,19 @@ Generated map of content. Ask Claude Code to regenerate. Screen-ledger lock: **�
 | [[The Lightwell]] | centre / G | ✓ | *the heart; the chain-locked well*
 | [[Anna's Flat]] | unplotted | |
 
-## Pockets (5) — ≤6 bespoke, teaching pocket exempt
+## Pockets (6 of 6) — ≤6 bespoke, teaching pocket exempt
 
 | Note | Status | In demo |
 |---|---|---|
 | [[Teaching Pocket]] | locked (exempt from the cap) | ✓ |
 | [[Mirror Maze]] | locked | ✓ |
 | [[Maze Family]] | seed — 2 further mazes, 🔧 twists | |
-| [[Penrose Stair]] | locked | |
+| [[The Eye Maze]] | draft — floor 3 boss, absorbs Penrose's slot | |
+| [[The Sleep Maze]] | draft — D2, [[Elle]] | |
+| [[Penrose Stair]] | **retired** — slot reassigned, gimmick unplaced | |
 | [[Flash-Survival Room]] | locked | |
 
-The [[Maze Family]] occupies 3 of the 6 slots; one slot remains unassigned.
+**Full.** [[Mirror Maze]] (D1) · [[The Sleep Maze]] (D2) · [[The Eye Maze]] (D3) · [[Maze Family]] variant (D4) · [[Maze Family]] variant (D6) · [[Flash-Survival Room]]. [[Penrose Stair]]'s slot went to the Eye Maze; its persona-duplicate gimmick is unplaced. **No slots remain — the next pocket must name a deletion.**
 
 ## Satellites (2)
 

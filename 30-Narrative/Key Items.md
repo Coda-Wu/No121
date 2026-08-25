@@ -23,7 +23,7 @@ The eight are **mixed in kind — every item is a different sort of object**. So
 |---|---|---|---|
 | SPOOL | 1 | her voice | the 3 AM call |
 | LIVED | 2 | her name | [[Elle's Mug]] — Elle writes *Anna Salas* on it |
-| RADAR | 3 | her childhood | [[Pip]] |
+| RADAR | 3 | her childhood — **a glass marble** | [[The Eye Maze]]'s blind spot |
 | REPAPER | 4 | her doubt | the twins |
 | ANNA | 5 | her love | **the photograph** — her undeveloped roll, developed on her father's rig |
 | DEED | 6 | her fear | [[Nan]] |

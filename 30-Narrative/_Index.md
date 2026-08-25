@@ -30,6 +30,10 @@ Filenames carry card + what the card owns, so the ANNA card cannot collide with 
 - [[Bad Ending — Ignorant Breach]] — no photograph; the tear, and the water.
 - [[Do I Know You — The Hollow Return]] — the body without the person. Camera intact only.
 
+## Flowcharts
+
+One per card, nine fields each — the working surface for the writing pass. See `30-Narrative/Flowcharts/_Index`.
+
 ## Canon
 
 - [[Logline and Thesis]]

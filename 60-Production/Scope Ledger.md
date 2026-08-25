@@ -23,7 +23,7 @@ The locks. **The scope-tax rule: any mid-project addition must name its deletion
 | MISSING notices | 7 | [[MISSING Notices Collected]] |
 | Corkboard nodes | ~30 | [[The Corkboard Thread]] |
 
-Standing pressure: the [[Maze Family]] takes **3 of the 6** pocket slots.
+**Pockets are full: 6 of 6.** [[Mirror Maze]] · [[The Sleep Maze]] · [[The Eye Maze]] · two [[Maze Family]] variants · [[Flash-Survival Room]]. [[Penrose Stair]] is retired and its slot reassigned to the Eye Maze; its gimmick is unplaced and costs nothing. [[Anna's Flat]] is a screen, not a pocket, and is counted in the 27-of-30 scene audit. **The next pocket must name a deletion.**
 
 ## Systems freeze (in effect)
 
