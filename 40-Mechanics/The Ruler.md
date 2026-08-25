@@ -18,4 +18,5 @@ Plus ambient ±0.1 m shivers, rare.
 ## Rules
 - All measurements annotate [[Pip]]'s blueprint — see [[Night Phase]].
 - Certified work orders read MEASURED / SCHEDULED / DISCREPANCY / SIGNED, O — see [[The Day Loop]].
+- **A certificate never unlocks anything.** Certification closes a work-order line and fixes a measure under [[Clause 02 — The Measure]]. It is paperwork, not a key. See [[Locks and Openers]].
 - **Canon: a mismatch that doesn't open a case or a clause doesn't ship.**

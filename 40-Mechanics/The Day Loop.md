@@ -21,7 +21,9 @@ Yesterday's prints (the album is haze-proof memory) · the House Rules · [[Otto
 - **Only the day's critical beat advances the day.**
 - Idle sleeps escalate: each fruitless night adds exactly one new detail — the diegetic hint system, unified with dream sharpening in [[The Dream and Hint Ladder]].
 - Scripted blackouts only, 3–5 game-wide, film-cut style; [[Eve]] puts you to bed.
-- **Zero timers anywhere.** In-world clocks lie.
+- **Timers are permitted where a mechanic needs one.** Revised in Round 12; the old rule was *zero timers anywhere*, and it is retired. There is still no timer on a day, a chapter, an exploration or a conversation — nothing that pressures the player to stop thinking. Timers exist only **inside** a mechanic that is about elapsed time.
+  - Settled example: the **afterimage decay** on floor 3 is timer-based. See [[Locks and Openers]].
+- **In-world clocks still lie.**
 
 ## Day math
 
