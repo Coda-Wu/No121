@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# REDIVIDER — The Door — flow\n\n**Card** REDIVIDER\n**Day** Final Night\n\nChapter note: [[08 REDIVIDER — The Door]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\nNone.",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 268,
+      "text": "## Puzzles\n\n- Through [[Room 696]] first, then the underwater heart.\n- **The usher.** Burning it yields **her breath** — [[Usher Burned]].\n- **The door ritual.** The key items are placed around the door. Pushing it open without placing them is an explicit choice, a second safety, so the Bad ending is always reachable and always informed.",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 538,
+      "width": 460,
+      "height": 150,
+      "text": "## Maze / pocket\n\n🔧 The final maze.",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 216,
+      "text": "## Cutscenes\n\n- Disposition receipts in three conversations: [[Eve]], the twins, and the last tape.\n- **The rose.** Anna gives him the fifth rose — the only one that reached her, preserved with her own blood in a glass jar. The chapter's revealing cutscene.",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 276,
+      "width": 460,
+      "height": 150,
+      "text": "## NPC dialogue\n\n🔧"
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Her breath** — the only item that hard-gates the true ending.",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Photographs\n\n🔧",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Night & dream\n\nThe endings. Which are available was decided at the bridge in [[07 DEED — The Family]].",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

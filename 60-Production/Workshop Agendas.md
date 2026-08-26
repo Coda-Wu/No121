@@ -9,7 +9,6 @@ Round 9 is complete and **the design tree is closed**. Everything here is worksh
 - **[[Sanity]]'s scope tax** — a new system under a standing freeze, ratified by Coda's call and not yet paid for. It touches the day loop, the satchel economy, the art pipeline and the failure rules.
 - **The smoke shader's legibility** at 90–110 px, and smaller still in isometric. Silhouette-level smoke is the recommendation.
 - **What opens [[Room 242]]'s far door**, now that certificates do not unlock and the Overrun is gone.
-- **The anomalous [[The Cafeteria|Cafeteria]]'s work order** — what sends Otto in off-hours on D4. The day is settled; the pretext is not.
 - **The ruler scare's name** — 🔧 *the Payout* is provisional; see [[The Ruler]].
 - **[[Saving]]** — the save-format requirements, and whether chapter select is a launch feature or a patch.
 

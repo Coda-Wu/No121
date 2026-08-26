@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# REPAPER — The Twins — flow\n\n**Card** REPAPER\n**Day** 4\n\nChapter note: [[05 REPAPER — The Twins]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 164,
+      "text": "## Puzzles\n\n- **Floor 4, the ear.** Mirror puzzles and sound puzzles throughout.\n- 🔧 Candidate home for [[Penrose Stair]]'s unplaced persona-duplicate gimmick, at no slot cost.",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 434,
+      "width": 460,
+      "height": 164,
+      "text": "## Maze / pocket\n\n- The **twin maze** — [[Maze Family]] variant, after the paired antagonist in *Sayonara Wild Hearts*: never in the same place at the same time. 🔧 Optical and mechanical design.",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 216,
+      "text": "## Cutscenes\n\n- The room-swap: Otto wakes in [[The Ward]] *as* [[Room 202]], awake.\n- **The psychiatric hospital** — chapter ends with Otto in a gown or straitjacket, locked in a ward. A second-layer dream beneath the dream. The fear is that he is not a detective. See [[The Delusions]].",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 276,
+      "width": 460,
+      "height": 150,
+      "text": "## NPC dialogue\n\n- [[Leon]] and [[Noel]] formally.\n- [[Pip]] becomes visible in [[The Cafeteria]] from here on, with a milkshake or an ice cream."
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Her doubt** — the twins.",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Photographs\n\n🔧",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Night & dream\n\n- [[Stairwell]] WET PAINT lifts around here; persona-routing becomes an earned verb.",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

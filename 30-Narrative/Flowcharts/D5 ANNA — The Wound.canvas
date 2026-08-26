@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# ANNA — The Wound — flow\n\n**Card** ANNA\n**Day** 5\n\nChapter note: [[06 ANNA — The Wound]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 190,
+      "text": "## Puzzles\n\n- **The flooded fifth floor.** Otto works in water — the rehearsal for the descent into the heart. [[Clause 10 — Standing Water]] is in permanent breach here.\n- [[Anna's Flat]], in single-point perspective. 🔧",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 460,
+      "width": 460,
+      "height": 150,
+      "text": "## Maze / pocket\n\nNone.",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 268,
+      "text": "## Cutscenes\n\n- Cold open: the envelope marked \"A.\" is opened.\n- **The evening call.** Opens with the same sentence as the 3 AM call on D1, then she says something only a living person would say, in the future tense, and Otto does not correct her. Cut with flashbacks.\n- **Chapter ending — the rubbing of the eyes.** The player is put on the beach in 1998: the wind, the sand, the hands going to the eyes, the empty water.",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 328,
+      "width": 460,
+      "height": 150,
+      "text": "## NPC dialogue\n\n🔧"
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Her love** — the photograph, developed from her own undeveloped roll on her father's rig. The only photograph among the eight.",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Photographs\n\n- Her undeveloped roll, found and developed.",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Night & dream\n\n- [[Reverse Film]] window opens.",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

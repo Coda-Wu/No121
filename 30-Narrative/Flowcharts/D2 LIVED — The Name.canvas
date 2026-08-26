@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# LIVED — The Name — flow\n\n**Card** LIVED\n**Day** 2\n\nChapter note: [[03 LIVED — The Name]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 242,
+      "text": "## Puzzles\n\n- **Coffee** — the delivery port taught warm and unthreatening. See [[The Cafeteria]].\n- **The corridor to [[Room 232]]** — teaches both light verbs: the flash disperses, film seals permanently.\n- **The Accumulation** — the demo-adjacent monster spawn and the two-verb showcase.",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 512,
+      "width": 460,
+      "height": 150,
+      "text": "## Maze / pocket\n\n- [[The Sleep Maze]]. In through [[Room 232]], out through the smoke-locked door.",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 216,
+      "text": "## Cutscenes\n\n- Opens on a reflection in a coffee mug in [[The Cafeteria]].\n- The mirror holds his reflection one beat too long.\n- Title card in a water reflection, DEVIL semi-visible.",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 276,
+      "width": 460,
+      "height": 190,
+      "text": "## NPC dialogue\n\n- **[[Noel]]**, first meeting, on the cafeteria shift. Opening line is Otto's: \"So... you're saying that you and Leon are twins.\"\n- Noel introduces [[Elle]], [[Nan]] and [[Eve]] in her [[Room 101]] form. [[Pip]] does not appear."
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Her name** — [[Elle's Mug]], with *Anna Salas* written on it.",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Photographs\n\n- The Couple's door as a **latent** — the print shows the room behind it and two chairs. Never bites; tray-only.",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Night & dream\n\n🔧",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

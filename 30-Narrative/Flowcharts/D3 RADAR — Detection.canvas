@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# RADAR — Detection — flow\n\n**Card** RADAR\n**Day** 3\n\nChapter note: [[04 RADAR — Detection]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 294,
+      "text": "## Puzzles\n\n- **The directional rule.** Walking right returns to the [[Elevator]]; left progresses. [[Clause 08 — Against the Clock]].\n- **The afterimage**, in the corridors. RMB flash burns a shape in screen space; align it with a smoking hole elsewhere. **Timer-based decay** — see [[Locks and Openers]].\n- **The corridor blind spot** hides the **UV filter glass**.",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 564,
+      "width": 460,
+      "height": 150,
+      "text": "## Maze / pocket\n\n- [[The Eye Maze]] — the boss. Four stages; the blind spot moves with Otto.",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 242,
+      "text": "## Cutscenes\n\n- **Operation one on [[Pip]]**, mid-chapter — see [[The Cataract Operations]]. No anaesthetic; Pip cries on a miss. Soft-fail, instant restart.\n- **The bedroom under UV.** He wakes at midnight, the camera glares purple, and the room is covered in fluorescent text: *she's dead*, *I killed her*. See [[The Delusions]].",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 302,
+      "width": 460,
+      "height": 150,
+      "text": "## NPC dialogue\n\n- [[Elle]] and [[Pip]] deepened. Pip's identity is revealed here and not before."
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Her childhood — a glass marble**, in the Eye Maze's blind spot.",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Photographs\n\n🔧",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Night & dream\n\n🔧",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

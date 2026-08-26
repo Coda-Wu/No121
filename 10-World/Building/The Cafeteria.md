@@ -40,7 +40,7 @@ The two never overlap, because the rule that separates them is the clock rather 
 
 1. **[[03 LIVED — The Name]], D2 — normal.** He orders coffee; it comes back through the hatch. The coffee-making beat sits here, warm and unthreatening, and it teaches the interface without a puzzle attached.
 2. **D3 — normal, with one wrong note.** He sends something through and the tray returns with an extra item, or with his own item changed. No jump, no music, no comment.
-3. **D4 — anomalous. Ratified in Round 14.** A work order sends him in off-hours. The belt is running. It sits in [[05 REPAPER — The Twins]] because the cafeteria is the twins' room, because that chapter is about things not being what they seem, and because putting the sea on the belt *before* the flooded floor makes D5 land as recognition rather than explanation.
+3. **D4 — anomalous. Ratified in Round 14.** **A fault report on the belt** is the work order that sends him in off-hours. The belt is running. It sits in [[05 REPAPER — The Twins]] because the cafeteria is the twins' room, because that chapter is about things not being what they seem, and because putting the sea on the belt *before* the flooded floor makes D5 land as recognition rather than explanation.
 4. **D5 — the payoff is retroactive.** The flooded fifth floor opens, and the player understands what has been coming up the belt.
 
 ## The belt

@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# DEED — The Family — flow\n\n**Card** DEED\n**Day** 6\n\nChapter note: [[07 DEED — The Family]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 476,
+      "text": "## Puzzles\n\n**Five stages, and playtime varies by player, by design.**\n\n1. [[Room 313]] — operation two, **NIR** unlocked. Something has grown in the second eye; Otto's hands are worse.\n2. [[Room 434]] — [[Nan]], 1998, the property deed; the exit through the past; the ledger's last page; the newspaper record of [[Renner]]'s fall.\n3. **The bridge** — the branch. See below.\n4. [[Electrical Room]] — the brain and nerves. The junction, the intercom retcon, [[Eve]] standing with Renner, the family truth. No delusion here; the basement is clean.\n5. The chain, opened with [[The Three Hums]], and the decided jump.",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 746,
+      "width": 460,
+      "height": 150,
+      "text": "## Maze / pocket\n\n- Two [[Maze Family]] variants. The basement maze is redesigned around signal and produces [[The Three Hums]].",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 346,
+      "text": "## Cutscenes\n\n- **The bridge.** White void, [[Anna]] mid-bridge. Otto's reflection is in the water; hers is not.\n  - **Deceived** → he steps off the unfenced lightwell edge, the camera glass cracks. Endings left: [[Bad Ending — Ignorant Breach]], [[Neutral Ending — Stay]].\n  - **Undeceived** → the camera wipes the white away in a radial reveal: the corrupted lightwell, the Vacancy's devils, the phantom Anna floating in the shaft. Endings left: Stay, [[Do I Know You — The Hollow Return]], [[I See You — The True Ending]].",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 406,
+      "width": 460,
+      "height": 150,
+      "text": "## NPC dialogue\n\n🔧"
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Two.** Her fear ([[Nan]]) and her courage ([[Renner]]).",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Photographs\n\n🔧",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n🔧",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## Night & dream\n\n- [[Reverse Film]] grace window closes at the D6 dream.",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

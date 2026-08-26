@@ -1,0 +1,133 @@
+{
+  "nodes": [
+    {
+      "id": "title",
+      "type": "text",
+      "x": 0,
+      "y": 0,
+      "width": 420,
+      "height": 260,
+      "color": "5",
+      "text": "# SPOOL — The Job — flow\n\n**Card** SPOOL\n**Day** 1\n\nChapter note: [[02 SPOOL — The Job]]\n\n---\n\nWorking surface, not canon. Fill from the chapter note, never the other way round. 🔧 marks nothing settled.\n\nStructure: [[The Day Loop]] · [[Saving]]\nLocks: [[Scope Ledger]]"
+    },
+    {
+      "id": "workorder",
+      "type": "text",
+      "x": 520,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Work order\n\n- Certify corridor 2. 🔧 Plus 1–2 mundane jobs.",
+      "color": "3"
+    },
+    {
+      "id": "puzzles",
+      "type": "text",
+      "x": 520,
+      "y": 210,
+      "width": 460,
+      "height": 398,
+      "text": "## Puzzles\n\n- **The Payout.** NOTICE the tape passing the Schedule's number → VERIFY with [[The Ruler]] → ACT: sign a DISCREPANCY → PAYOFF: the work-order line closes and the measure is fixed under [[Clause 02 — The Measure]]. It opens nothing — certificates never do, see [[Locks and Openers]].\n- 🔧 **What opens 242's far door is still unassigned.**\n- **The teaching pocket.** [[Clause 02 — The Measure]] taught fully. The nest is seen and left — no light verb exists yet.\n- **The smoke-locked door.** Cannot be opened from the corridor, now or ever. See [[The Sleep Maze]].",
+      "color": "4"
+    },
+    {
+      "id": "mazepocket",
+      "type": "text",
+      "x": 520,
+      "y": 668,
+      "width": 460,
+      "height": 150,
+      "text": "## Maze / pocket\n\n- [[Teaching Pocket]] · [[Mirror Maze]], all three layers.",
+      "color": "1"
+    },
+    {
+      "id": "cutscenes",
+      "type": "text",
+      "x": 1100,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Cutscenes\n\n- The service-lift Shift, floor 2 → floor 2.",
+      "color": "6"
+    },
+    {
+      "id": "npcdialogue",
+      "type": "text",
+      "x": 1100,
+      "y": 210,
+      "width": 460,
+      "height": 150,
+      "text": "## NPC dialogue\n\n🔧"
+    },
+    {
+      "id": "keyitem",
+      "type": "text",
+      "x": 1680,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Key item\n\n**Her voice** — the call.",
+      "color": "2"
+    },
+    {
+      "id": "photographs",
+      "type": "text",
+      "x": 1680,
+      "y": 210,
+      "width": 460,
+      "height": 216,
+      "text": "## Photographs\n\n- Mirror maze, one clear frontal per layer. The contact sheet develops **standing · rushing the camera · a raven**, then the beach mind-space. See [[The Delusions]].\n- The west-face shot develops as the back of his own head, once.",
+      "color": "5"
+    },
+    {
+      "id": "corkboard",
+      "type": "text",
+      "x": 2260,
+      "y": 0,
+      "width": 460,
+      "height": 150,
+      "text": "## Corkboard\n\n- First pinning. The MISSING notice is pocketed — see [[MISSING Notices Collected]].",
+      "color": "3"
+    },
+    {
+      "id": "nightdream",
+      "type": "text",
+      "x": 2260,
+      "y": 210,
+      "width": 460,
+      "height": 268,
+      "text": "## Night & dream\n\n- Tape #2. **Dream 1** — [[The Ward]], [[Eve]]: \"Visiting hours end at three.\" She tells him Anna is dead, and not how.\n- **Eve gives the flashgun.** The player knows where it is for and the demo ends before they can go.\n- **3:00 AM ring — [[Anna]] calls.** Her name in the dialogue box for the first time; one ordinary line. **Demo ends.**",
+      "color": "6"
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-title",
+      "fromNode": "title",
+      "fromSide": "right",
+      "toNode": "workorder",
+      "toSide": "left"
+    },
+    {
+      "id": "e0",
+      "fromNode": "workorder",
+      "fromSide": "right",
+      "toNode": "cutscenes",
+      "toSide": "left"
+    },
+    {
+      "id": "e1",
+      "fromNode": "cutscenes",
+      "fromSide": "right",
+      "toNode": "keyitem",
+      "toSide": "left"
+    },
+    {
+      "id": "e2",
+      "fromNode": "keyitem",
+      "fromSide": "right",
+      "toNode": "corkboard",
+      "toSide": "left"
+    }
+  ]
+}

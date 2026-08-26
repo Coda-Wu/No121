@@ -32,7 +32,7 @@ Filenames carry card + what the card owns, so the ANNA card cannot collide with 
 
 ## Flowcharts
 
-One per card, nine fields each — the working surface for the writing pass. See `30-Narrative/Flowcharts/_Index`.
+One **canvas** per card, nine fields each — the working surface for the writing pass. See `30-Narrative/Flowcharts/_Index`.
 
 ## Canon
 
