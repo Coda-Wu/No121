@@ -18,7 +18,7 @@ Two surfaces: mundane ground-floor infirmary [[Room 101]], and [[The Ward]], the
 
 She was taken by [[Mr. Vacancy]] before Otto met Anna — see [[The Curse]].
 
-She supplies the filters and the reason for [[The Cataract Operations]]: for the truth to be visible, the camera and [[Pip]] must share the same view.
+She sends [[Otto]] to **find** the filter, without saying why, and explains the operation only once he has it in his hand — for the truth to be visible, the camera and [[Pip]] must share the same view. See [[Filters]] and [[The Cataract Operations]].
 
 She **tells Otto, in a dream, that Anna is dead**. She does not tell him how she died, and she does not tell him why the Building feels like Anna. The player is set up to disbelieve her. She does not tell [[Anna]] anything: Anna does not know she is dead, and Eve keeps it that way.
 

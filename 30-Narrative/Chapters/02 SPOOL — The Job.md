@@ -15,7 +15,6 @@ The job. The demo's spine; the end-card reads LOOPS.
 - Wake holding [[The Camera]]; the first work order.
 - The service-lift Shift, floor 2 → floor 2 — [[Elevator]], [[Persona Law]].
 - First lap of the [[Corridor Ring]].
-- The Overrun — [[The Ruler]] pays out past the Schedule's number.
 - [[Teaching Pocket]] behind [[Room 242]]'s far door; [[Clause 02 — The Measure]] taught.
 - **The smoke-locked room.** While clearing anomalies Otto finds a room sealed behind dark smoke and cannot enter. No explanation is offered. It is the demo's hook: something is needed that he does not have yet. The room is on the corridor to [[Room 232]] and opens in [[03 LIVED — The Name]].
 - [[Mirror Maze]], all three layers.

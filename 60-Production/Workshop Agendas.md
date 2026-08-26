@@ -6,6 +6,12 @@ status: seed
 
 Round 9 is complete and **the design tree is closed**. Everything here is workshop business, not tree business — the systems freeze in the [[Scope Ledger]] routes new pitches to this note rather than into the tree.
 
+- **[[Sanity]]'s scope tax** — a new system under a standing freeze, ratified by Coda's call and not yet paid for. It touches the day loop, the satchel economy, the art pipeline and the failure rules.
+- **The smoke shader's legibility** at 90–110 px, and smaller still in isometric. Silhouette-level smoke is the recommendation.
+- **The ruler's third scare slot**, open since the Overrun was discarded — and whether the reel appears in the demo at all.
+- **What opens [[Room 242]]'s far door**, now that certificates do not unlock and the Overrun is gone.
+- **The anomalous [[The Cafeteria|Cafeteria]]'s work order** — what sends Otto in off-hours on D4.
+
 ## 🔧 Opened by Grill Round 1 (Aug 2026)
 
 Round 1 of the narrative grill reopened the fiction beneath the closed systems tree. These are writing-pass items, not system pitches.

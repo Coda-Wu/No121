@@ -15,9 +15,9 @@ status: draft
 
 ## Exploit (steering use)
 
-The load-bearing one, and the reason [[The Ruler]] is a system rather than a prop. A corridor is exactly as long as its last certified measure — and where no certification subsists, it is as long as you walk it. **This is why the tape keeps paying out in the Overrun.**
+The load-bearing one, and the reason [[The Ruler]] is a system rather than a prop. A corridor is exactly as long as its last certified measure — and where no certification subsists, it is as long as you walk it.
 
-Certify a corridor and you nail its length down. The demo teaches this fully, in the corridor behind [[Room 242]] that shouldn't fit.
+Certify a corridor and you nail its length down. The demo teaches this fully, in the corridor behind [[Room 242]] that shouldn't fit — by the **scripted pacing count** in the [[Teaching Pocket]], not by the reel. The Overrun is discarded; see [[The Ruler]].
 
 ## Sick-weird violations it diagnoses
 

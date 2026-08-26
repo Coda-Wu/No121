@@ -8,7 +8,7 @@ Two operations, one per eye, performed by [[Otto]] on [[Pip]]. They are how [[Fi
 
 ## Why
 
-[[Eve]] hands Otto the filter and tells him that to see the truth, **the camera and Pip must share the same view**. Floor 3 is the eye in [[The Organ Map]]; restoring Pip's sight restores [[Anna]]'s.
+[[Eve]] sends Otto to **find** the filter first and explains nothing until he has it. Only then does she tell him that to see the truth, **the camera and Pip must share the same view**. See [[Filters]]. Floor 3 is the eye in [[The Organ Map]]; restoring Pip's sight restores [[Anna]]'s.
 
 The camera does not ship with filters. Filter capability is unlocked by the operations and not before.
 

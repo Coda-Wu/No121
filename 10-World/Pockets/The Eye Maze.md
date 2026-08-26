@@ -22,6 +22,22 @@ The floor-3 boss, and the second of two floor-3 puzzles — the corridors run th
 
 Isometric projection carries no depth cue, so **things that align on screen are connected** whether or not they are adjacent in space. That is the trick the whole maze runs on.
 
+## The threat
+
+[[Mr. Vacancy]] does not attack — that rule holds, see [[The Delusions]]. **It controls a monster**, and the monster does.
+
+- **Never seen.** It strikes from the blind spot if it is not located in time.
+- **Audio only.** It signals its approach by humming and by teeth chattering.
+- **One layer: it hides inside Otto's own cast shadow on the wall.**
+
+This is what separates the Eye Maze from [[Mirror Maze]], where the Vacancy is visible, static and passive.
+
+🔧 **Note on the humming.** Humming is [[Renner]]'s signature — he still hums in the junction and has been every radio all game. A humming monster either muddies that or sharpens it. Recommended reading: it hums **badly**, which is imperfect mimicry, the Vacancy's established signature, and the cruellest possible use of a father's voice. Coda's call.
+
+## Damage
+
+Three hits and the player restarts at layer one. Diegetic indicator, no health bar — see [[Sanity]].
+
 ## Stages
 
 Multi-stage, sequential; each stage exposes the blind spot once and then complicates it.

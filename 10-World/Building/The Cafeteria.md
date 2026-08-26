@@ -28,11 +28,32 @@ So the **hatch is the only interface with the kitchen — and there is someone o
 
 **The boundary rule.** Anything carried across the cafeteria threshold is taken out of Otto's hands and returned to the port. The port is the only channel, and it is also **traversal** — it reaches a place he cannot walk to.
 
+## Two states, strictly separate
+
+**Normal.** Service hours. Warm, welcoming, full of NPCs. This is the day loop's one pressure-free room and it must stay that way.
+
+**Anomalous.** Off-hours. Empty, the belt running, nobody behind the hatch. The room is **locked outside service hours** until a work order sends Otto in, so the player cannot stumble into the anomalous state and spoil the warm one.
+
+The two never overlap, because the rule that separates them is the clock rather than the calendar — see the schedule below.
+
 ## The escalation
 
-1. **[[03 LIVED — The Name]], D2.** Entirely ordinary. He orders coffee; it comes back through the hatch. The coffee-making beat sits here, warm and unthreatening, and it teaches the interface without a puzzle attached.
-2. **Later.** He sends something through and something else comes back — the tray returns with an extra item, or with his own item changed. No jump, no music.
-3. **Later still.** Something rides in on the incoming belt. He flashes it ([[Purge and Light]]) and what is left on the tray is a key item.
+1. **[[03 LIVED — The Name]], D2 — normal.** He orders coffee; it comes back through the hatch. The coffee-making beat sits here, warm and unthreatening, and it teaches the interface without a puzzle attached.
+2. **D3 — normal, with one wrong note.** He sends something through and the tray returns with an extra item, or with his own item changed. No jump, no music, no comment.
+3. **D4 — anomalous.** A work order sends him in off-hours. The belt is running. See below.
+4. **D5 — the payoff is retroactive.** The flooded fifth floor opens, and the player understands what has been coming up the belt.
+
+## The belt
+
+What arrives is **tied to [[Anna]]'s life, or to what she and [[Otto]] shared**: an uncooked octopus, strange marine life, things out of the sea she drowned in. The gut receives what the water gave.
+
+The belt yields an **intermediate puzzle item**, never the chapter's key item — see [[Key Items]].
+
+## The recipe
+
+The loop: take anomalous material off the belt → craft a specific drink or dish → send it back through the port to a requester who is never seen.
+
+🔧 **Who is ordering.** Proposal: the order slip comes through the hatch in handwriting Otto recognises — hers. Anna's handwriting is already an evidence thread, so this costs nothing and lands hard. Coda's call.
 
 ## The payoff
 

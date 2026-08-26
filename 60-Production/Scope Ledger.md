@@ -17,7 +17,7 @@ The locks. **The scope-tax rule: any mid-project addition must name its deletion
 | Bespoke pockets | ≤6 (teaching pocket exempt) | `10-World/Pockets/` |
 | Music loops | 8–10 | [[Audio Spec]] |
 | Scripted blackouts | 3–5 | [[The Day Loop]] |
-| Ruler scares | 3 | [[The Ruler]] |
+| Ruler scares | 2 written, third slot open | [[The Ruler]] |
 | Meter beats | ≤3 | [[The Day Loop]] |
 | Festering cap | 2 hatched alive at once | [[Festering]] |
 | MISSING notices | 7 | [[MISSING Notices Collected]] |
