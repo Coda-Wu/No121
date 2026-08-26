@@ -21,7 +21,9 @@ He is comfortable in the junction because he is keeping the lights on for his da
 ## Voice
 <!-- formant preset, diction, word-budget notes -->
 
-Voice only. The dream Calling on night 0 — and, as the D7 retcon reveals, **every corridor radio, intercom crackle, and static under a door, all game**. A father's voice under every door for seven days before the player knows whose it is. Counts against the 15,000-word budget in the [[Scope Ledger]].
+Voice only. The dream Calling on night 0 — and, as the retcon reveals, **every corridor radio, intercom crackle, and static under a door, all game**.
+
+**The hum is ambient.** Never loud, never distinguishable as a voice, and never foregrounded until the reveal. It is absent entirely from [[The Eye Maze]], so that the monster's humming there cannot be mistaken for him — see [[Sanity]]. A father's voice under every door for seven days before the player knows whose it is. Counts against the 15,000-word budget in the [[Scope Ledger]].
 
 ## Relations
 - [[Anna]] — his daughter, and the building he is wired into.

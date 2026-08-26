@@ -27,12 +27,12 @@ Isometric projection carries no depth cue, so **things that align on screen are 
 [[Mr. Vacancy]] does not attack — that rule holds, see [[The Delusions]]. **It controls a monster**, and the monster does.
 
 - **Never seen.** It strikes from the blind spot if it is not located in time.
-- **Audio only.** It signals its approach by humming and by teeth chattering.
+- **Audio only.** It signals its approach by humming and by teeth chattering. **The monster's voice is authored separately** and is not built from [[Renner]]'s.
 - **One layer: it hides inside Otto's own cast shadow on the wall.**
 
 This is what separates the Eye Maze from [[Mirror Maze]], where the Vacancy is visible, static and passive.
 
-🔧 **Note on the humming.** Humming is [[Renner]]'s signature — he still hums in the junction and has been every radio all game. A humming monster either muddies that or sharpens it. Recommended reading: it hums **badly**, which is imperfect mimicry, the Vacancy's established signature, and the cruellest possible use of a father's voice. Coda's call.
+**No collision with [[Renner]].** Ratified in Round 14: Renner's hum is **ambient** throughout the game — never loud, never distinguishable as a voice until the retcon lands in [[07 DEED — The Family]]. **There is no Renner audio inside this maze at all**, so the monster's humming has nothing to be confused with.
 
 ## Damage
 

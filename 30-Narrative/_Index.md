@@ -6,7 +6,7 @@ status: seed
 
 Generated map of content. Ask Claude Code to regenerate.
 
-## Chapters (8) — day = chapter = autosave at wake
+## Chapters (8) — day = chapter
 
 DEED and ROTOR merged in Round 8; six days plus the cold open and the final night.
 

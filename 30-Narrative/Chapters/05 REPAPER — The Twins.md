@@ -21,6 +21,7 @@ The twins.
 - [[Stairwell]] WET PAINT lifts around here; persona-routing becomes an earned verb.
 
 ## Also here
+- **The anomalous [[The Cafeteria|Cafeteria]].** A work order sends Otto in off-hours: the room is empty, the belt is running, and what comes up it is out of the sea. The recipe puzzle yields an intermediate item, never a key item. 🔧 What the work order is.
 - **[[Pip]] becomes visible in [[The Cafeteria]] from this chapter onward**, drinking a milkshake or having an ice cream.
 
 ## Microbeats (anecdote bank)

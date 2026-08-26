@@ -6,7 +6,7 @@ where: "[[Corridor Ring]]"
 cast: ["[[Otto]]"]
 register: lawful-weird
 motifs: []
-status: cut
+status: placed
 day: "1"
 slot: anomaly
 thread: ""
@@ -22,7 +22,7 @@ Certifying corridor 2 with the ruler. The tape passes the Schedule's number — 
 
 The first scare, and it is arithmetic. A nerve ending into offscreen space.
 
-<!-- CUT in Round 13: the Overrun is discarded and is not mentioned in game. Kept per PROTOCOL — nothing is ever deleted. -->
+<!-- Canon extract, card SPOOL. Cut in Round 13 and reinstated in Round 14; the beat is renamed from the Overrun to 🔧 the Payout. Claude's wording, free to rewrite. -->
 
 <!-- lang:zh source-hash:b0e158f3 machine -->
 > [!quote]- 中文（机器译稿）

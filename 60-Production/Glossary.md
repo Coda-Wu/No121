@@ -38,7 +38,7 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 | caretaker | 看守人 | | seed |
 | MISSING notice | 寻人启事 | exact real-world genre term | seed |
 | work order | 工单 | exact facilities term | seed |
-| ~~the Overrun~~ | ~~超程~~ | **discarded Round 13 — do not translate, not in game** | retired |
+| the Payout | 超程 | ruler scare 1; renamed from *the Overrun* in R14, 🔧 name provisional | seed |
 | the Ruler | 量尺 | the instrument; the tape itself 卷尺 | seed |
 | the Schedule | 排程表 | the Administration's official plan — the one that lies | seed |
 | blueprint | 蓝图 | Pip's, the true one | seed |

@@ -23,4 +23,5 @@ Performance for the Agent, truth for the uniform — see [[Persona Law]].
 ## Anomalies & cases hosted
 - Lap-anomaly menu: five-corner laps · a face occurring twice · direction-dependence (a lawful clause: "the third floor is to be walked against the clock" — see [[Clause 08 — Against the Clock]]).
 - ≥1 blueprint-comparison anomaly per floor, against [[Pip]]'s map.
+- [[The Ruler]]'s **Payout**, certifying corridor 2 in the demo.
 - [[Elle]] watches this corridor all night from [[Room 232]] and has never seen it change.

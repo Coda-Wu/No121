@@ -8,14 +8,14 @@ A self-anchoring reel: the hook fires left and bites the far wall itself; live l
 
 **Thesis: a nerve ending into offscreen space.**
 
-## Two scares
+## Three scares (a scope lock — 3, no more)
 
-> [!warning] **The Overrun is discarded** — Round 13, Coda's call. It is not mentioned in game. The lock was 3 scares; **two remain, and the third slot is open** rather than owed.
->
-> 🔧 Consequence: the ruler now has **no beat in the demo**. [[Clause 02 — The Measure]] is still taught fully there, by the scripted pacing count in the [[Teaching Pocket]], which never needed the reel. Whether the ruler appears in the demo at all is an open question.
+1. **The Payout** (demo) — certifying corridor 2, the tape passes the Schedule's number and keeps paying out. [[02 SPOOL — The Job]].
 
-1. **The Countdown** (mid-game) — the number starts decreasing, accelerating: a reading of an approach. Slack at ~3 m.
-2. **The Taut Line** (late) — the extended tape lifts, pulled tight against empty air; the hook is clipped to nothing.
+   > [!note] 🔧 **Name provisional.** Reinstated in Round 14 after being briefly discarded. It was called *the Overrun*, which collided with the [[Teaching Pocket]]'s scripted **pacing-count overrun** — two different things under one word. *The Payout* is what a reel literally does, it is the verb already in the canon prose, and it sits beside *the Countdown* and *the Taut Line* as a description of the tape's behaviour. Alternatives: **the Runout** (film and tape both run out) or **the Unspooling** (which ties to the SPOOL card). Coda's call.
+
+2. **The Countdown** (mid-game) — the number starts decreasing, accelerating: a reading of an approach. Slack at ~3 m.
+3. **The Taut Line** (late) — the extended tape lifts, pulled tight against empty air; the hook is clipped to nothing.
 
 Plus ambient ±0.1 m shivers, rare.
 

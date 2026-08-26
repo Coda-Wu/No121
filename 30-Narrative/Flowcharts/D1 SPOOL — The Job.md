@@ -13,12 +13,13 @@ Chapter note: [[02 SPOOL — The Job]]. Structure and locks: [[The Day Loop]], [
 ### Work order
 *The day's 2–3 mundane jobs. Surfaces on [[The Work Order HUD]].*
 
-🔧 2–3 mundane jobs. The certify-corridor-2 job went with the Overrun.
+- Certify corridor 2. 🔧 Plus 1–2 mundane jobs.
 
 ### Puzzles
 *Each as NOTICE → VERIFY → ACT → PAYOFF. No puzzle ships without a payoff.*
 
-- 🔧 **What opens 242's far door is unassigned.** The Overrun is discarded, so the reel no longer features here at all.
+- **The Payout.** NOTICE the tape passing the Schedule's number → VERIFY with [[The Ruler]] → ACT: sign a DISCREPANCY → PAYOFF: the work-order line closes and the measure is fixed under [[Clause 02 — The Measure]]. It opens nothing — certificates never do, see [[Locks and Openers]].
+- 🔧 **What opens 242's far door is still unassigned.**
 - **The teaching pocket.** [[Clause 02 — The Measure]] taught fully. The nest is seen and left — no light verb exists yet.
 - **The smoke-locked door.** Cannot be opened from the corridor, now or ever. See [[The Sleep Maze]].
 

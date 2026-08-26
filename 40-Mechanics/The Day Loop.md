@@ -4,7 +4,9 @@ status: locked
 ---
 # The Day Loop
 
-The Hunt. Day = chapter = autosave at wake.
+The Hunt. Day = chapter.
+
+**Saving is beat-level and invisible** — see [[Saving]]. The old rule, *autosave at wake*, was written for 21–35 minute chapters and is retired; wake points survive only as the chapter-select surface.
 
 ## Five beats
 1. **Work order** — 2–3 mundane jobs; the route is where the Building misbehaves.
