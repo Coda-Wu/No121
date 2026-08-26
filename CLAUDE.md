@@ -9,11 +9,12 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - `00-Inbox/` — raw drops (session notes, new documents). Atomize into the tree, then move the original to `00-Inbox/processed/`.
 - `10-World/` — one note per base screen or place. `Building/` (lobby, rings, rooms 202/212/232/313/434, 101, 242, 696…), `Pockets/` (teaching pocket, maze family, Penrose stair…), `Satellites/` (street/tram, the Ward).
 - `20-Cast/` — one note per voice, including Renner, the Couple, and Mr. Vacancy.
-- `30-Narrative/` — `Chapters/` (one note per day card: №121, SPOOL, LIVED, RADAR, REPAPER, ANNA, DEED, REDIVIDER), `Endings/`, `Anecdotes/`, plus tapes and the corkboard thread.
+- `30-Narrative/` — `Chapters/` (one note per day card: №121, SPOOL, LIVED, RADAR, REPAPER, ANNA, DEED, REDIVIDER), `Endings/`, `Anecdotes/`, `Flowcharts/` (one `.canvas` per card — the working surface, not canon), plus tapes and the corkboard thread.
 - `35-Corkboard/` — the Lynch board. `Notes/` holds sticky scenes (`S### Evocative Title.md`), `Threads/` holds synthesis outputs, `Corkboard.canvas` is a generated view. Method in `35-Corkboard/PROTOCOL.md`; commands: `/sticky`, `/board`, `/weave`.
 - `40-Mechanics/` — systems (camera, ruler, persona law, day loop, night phase, festering…). `Clauses/` holds one note per House Rule; `Flags/` holds one note per permanent "the Building remembers" flag.
 - `50-Moodboards/` — `.canvas` boards. Binary images live only in `50-Moodboards/_assets/`; never modify binaries.
 - `60-Production/` — scope ledger, art/audio/localization specs, schedule, positioning, and 🔧 workshop agendas.
+- `70-Script/` — the finished text, one folder per card, one file per scene. Strict format so the word budget can be counted: spoken lines are `**SPEAKER:** text`, italics are stage directions, HTML comments are design notes. `type: script` counts against the 15,000; `type: document` is diegetic paper on its own budget. Method in `70-Script/_Protocol.md`; `tools/wordcount.py` regenerates `_Word Count.md` — never hand-edit it.
 - `90-Templates/` — frontmatter schemas (used by the core Templates plugin). These are the source of truth for properties; keep existing notes conforming.
 - `tools/` — optional helper scripts (currently the experimental translate watcher; off by default).
 - `60-Production/Glossary.md` — binding EN↔zh-Hans terminology for `/translate`; rows graduate seed → ratified by Coda only.

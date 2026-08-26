@@ -10,7 +10,7 @@ status: locked
 
 ## Function
 
-Demo, D1. The corridor that shouldn't fit behind [[Room 242]]'s far door. **Exempt from the ≤6 bespoke-pocket cap** — it is the tutorial for lawful weirdness.
+Demo, D1. The corridor that shouldn't fit behind [[Room 242]]'s far door. **The far door is not locked and never has been** — a work order routes Otto into 242 and he opens it. **Exempt from the ≤6 bespoke-pocket cap** — it is the tutorial for lawful weirdness.
 
 One gimmick: a **scripted pacing-count overrun** — gibberish counting, an air change, no minigame. Pacing-count is scripted-only, everywhere, forever.
 
