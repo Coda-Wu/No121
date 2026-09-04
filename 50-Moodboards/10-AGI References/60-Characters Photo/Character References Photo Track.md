@@ -38,7 +38,7 @@ Shape for every block: build + one garment sentence + posture + one identifying 
 **[Constant detail]** — 🔧 **unchosen.** The invariant that survives both personas so Otto reads as Otto. Example: *an old camera on a neck strap.* Coda's call — but once chosen, the wording stays identical in every prompt, both states.
 
 **[EVE]** — [[Eve]], the Nurse, clinical register
-> a calm woman in a plain white nursing uniform of no particular decade, flat shoes, hands at rest, unhurried posture, a folded blanket over one arm
+> a calm woman with chestnut hair in a low chignon, wearing an oversized winged nurse’s cap banded twice in black velvet and a white belted dress, hands at rest, unhurried posture, a dark-bezel fob watch pinned upside-down at her breast
 
 **[LEON-NOEL]** — [[Leon]] / [[Noel]], one role, two bodies
 > a trim man in a crisp white shirt under a plain dark waistcoat, [Tie], standing at patient attention with his hands at his sides
