@@ -41,7 +41,11 @@ Shape for every block: build + one garment sentence + posture + one identifying 
 > a calm woman in a plain white nursing uniform of no particular decade, flat shoes, hands at rest, unhurried posture, a folded blanket over one arm
 
 **[LEON-NOEL]** — [[Leon]] / [[Noel]], one role, two bodies
-> a middle-aged man in a caretaker's cardigan over a shirt and tie, keys on a belt clip, patient stance, a tie in a pattern you would not describe twice the same way
+> a trim man in a crisp white shirt under a plain dark waistcoat, [Tie], standing at patient attention with his hands at his sides
+
+**[Tie]** — the only thing that differs between the two bodies. [[Leon]]: *a plain black necktie.* [[Noel]]: *a bolo tie on a thin black cord with a plain brass slide* — administrative and odd, never western: no turquoise, no conchos, no tooling.
+
+**Mirrored, not different.** Same build, same haircut, same waistcoat. Everything sided reverses between them — hair part, watch wrist, waistcoat pocket in use — and the sprite runs **one idle loop played mirrored**, so the two bodies breathe on the same clock. Generate the pair as the same man photographed twice in identical stance and framing, then flip one.
 
 **[ELLE]** — [[Elle]], the Insomniac
 > a heavyset man in a dressing gown over day clothes, slippers, standing in a doorway, holding a mug in both hands
