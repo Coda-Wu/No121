@@ -48,7 +48,7 @@ Shape for every block: build + one garment sentence + posture + one identifying 
 **Mirrored, not different.** Same build, same haircut, same waistcoat. Everything sided reverses between them — hair part, watch wrist, waistcoat pocket in use — and the sprite runs **one idle loop played mirrored**, so the two bodies breathe on the same clock. Generate the pair as the same man photographed twice in identical stance and framing, then flip one.
 
 **[ELLE]** — [[Elle]], the Insomniac
-> a heavyset man in a dressing gown over day clothes, slippers, standing in a doorway, holding a mug in both hands
+> a woman with pale ragged ash-blonde hair, dusty-rose foam curlers at the crown and a dark sleep mask pushed up on her forehead, wrapped to the floor in a patchwork quilt she holds closed at the throat, the front falling open on a dark V above two oversized flat slippers, one bare arm out holding a big mustard mug with steam rising from it
 
 **[NAN]** — [[Nan]], 1998
 > an elderly woman in a floral housecoat and cardigan, house slippers, one hand on a doorframe, warm settled posture
