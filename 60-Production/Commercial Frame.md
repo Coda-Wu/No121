@@ -4,7 +4,7 @@ status: locked
 ---
 # Commercial Frame
 
-- **Engine:** Godot 4.x, frozen at project-start stable — **4.7.1-stable** as of Aug 2026 — until the demo ships.
+- **Engine:** Godot 4.x, frozen at project-start stable — **4.6.3-stable** as of Aug 2026 — until the demo ships.
 - **Platforms:** Steam (primary), itch.io (demo). Controller and Steam Deck support from day one; the design is cursorless — see [[The Camera]]'s deck mapping.
 - **Length / price:** **4–5 hours** at **$14.99**, 10% launch-week discount, Valve regional matrix. Raised from 3–4 h in Round 9 to match 25–40 min per chapter across 8 cards. See [[The Day Loop]].
 - **Demo:** Cold Open + Day 1 — [[01 №121 — Arrival]] and [[02 SPOOL — The Job]] — **35–50 minutes**, deliberately shorter than a full chapter, ending on the 3 AM ring. **It teaches observe, measure, exploit, capture, develop and escape — and not purge**; there is no RMB light in it, and it closes on two unpaid promises, the smoke-locked room and the nest. Free on itch and Steam, and **it stays live permanently post-launch**.

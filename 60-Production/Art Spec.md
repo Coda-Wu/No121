@@ -4,8 +4,8 @@ status: locked
 ---
 # Art Spec
 
-- **Resolution:** 640×360 base, integer scaling.
-- **Sprites:** tall, ~90–110 px (6–7 heads); faces capable of stillness.
+- **Resolution:** 320 x 180 base, integer scaling.
+- **Sprites:** tall, ~64 px (6–7 heads); faces capable of stillness.
 - **Transforms:** nearest-neighbor with free transforms — a **deliberate mixels policy**, applied consistently.
 - **Palette:** master 48–64 colors, plus per-scene **LUT grading via shader**. This is the scope weapon: a re-grade plus prop swaps yields a permutation variant or an era shift ([[Room 434]]'s 1998, [[The Ward]]).
 - **Dialogue:** speech bubbles, **no portraits** — Darkside Detective style. The portrait cut funded the purge verb, see [[Scope Ledger]].
