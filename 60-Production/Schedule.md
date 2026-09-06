@@ -21,7 +21,7 @@ From August 2026.
 
 ## Engine
 
-Godot **4.7.1-stable**, frozen through demo ship — [[Commercial Frame]].
+Godot **4.6.3-stable**, frozen through demo ship — [[Commercial Frame]].
 
 ## Trailer and capsule
 
