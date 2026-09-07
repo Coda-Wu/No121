@@ -3,6 +3,7 @@ type: script
 card: "SPOOL"
 day: "1"
 scene: "05"
+locale: spool.tape_2
 speakers: ["[[Otto]]"]
 status: seed
 ---

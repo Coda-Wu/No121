@@ -1,0 +1,25 @@
+{
+  "card": "prologue",
+  "scenes": {
+    "transition": [],
+    "lobby_leon": [
+      {
+        "key": "prologue.lobby_leon.010",
+        "speaker": "leon"
+      }
+    ],
+    "tape_1": [
+      {
+        "key": "prologue.tape_1.010",
+        "speaker": "otto"
+      }
+    ],
+    "dream_0": [
+      {
+        "key": "prologue.dream_0.010",
+        "speaker": "renner"
+      }
+    ],
+    "examine": []
+  }
+}

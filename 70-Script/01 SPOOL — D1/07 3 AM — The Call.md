@@ -3,6 +3,7 @@ type: script
 card: "SPOOL"
 day: "1"
 scene: "07"
+locale: spool.call_3am
 speakers: ["[[Anna]]", "[[Otto]]"]
 status: seed
 ---

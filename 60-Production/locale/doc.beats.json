@@ -1,0 +1,16 @@
+{
+  "card": "doc",
+  "scenes": {
+    "work_order_d1": [],
+    "clause_01": [
+      {
+        "key": "doc.clause_01.010"
+      }
+    ],
+    "clause_02": [
+      {
+        "key": "doc.clause_02.010"
+      }
+    ]
+  }
+}

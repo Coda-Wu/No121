@@ -3,6 +3,7 @@ type: script
 card: "№121"
 day: "Cold Open"
 scene: "04"
+locale: prologue.dream_0
 speakers: ["[[Renner]]", "[[Otto]]"]
 status: seed
 ---

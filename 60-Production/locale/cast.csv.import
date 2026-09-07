@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://chrpe3i88eaq0"
+
+[deps]
+
+files=["res://locale/cast.en.translation", "res://locale/cast.zh_Hans.translation"]
+
+source_file="res://locale/cast.csv"
+dest_files=["res://locale/cast.en.translation", "res://locale/cast.zh_Hans.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

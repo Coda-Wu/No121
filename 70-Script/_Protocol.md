@@ -41,6 +41,7 @@ type: script          # or: document
 card: "SPOOL"
 day: "1"
 scene: "04"
+locale: spool.teaching_pocket   # the export anchor - see below
 speakers: ["[[Otto]]"]
 status: seed          # seed -> draft -> locked
 ```
@@ -48,6 +49,18 @@ status: seed          # seed -> draft -> locked
 ## Counting
 
 `tools/wordcount.py` walks this folder and reports per scene, per card, per speaker, and the totals against the lock. Output goes to [[_Word Count]]. **Regenerate it; never hand-edit it.**
+
+## The locale export
+
+`tools/build_locale.py` derives the engine's text tables from this folder into `60-Production/locale/` — one `<card>.csv` and one `<card>.beats.json` per card, plus a shared `doc.*` pair for diegetic paper. Contract: [[README]]; spec: [[WS-3-text-spine]]; coverage report: [[_Index]].
+
+**This folder stays the single source.** The CSV is derived and never hand-edited — a fix goes into the scene file and the export is rerun, or the 15,000-word lock ends up measuring a copy.
+
+- **`locale: card.scene`** is the export anchor, and the only thing that puts a scene in the pipeline. It is a *key*, not a filename: renaming this file must never renumber anything downstream. Cards are `prologue spool lived radar repaper anna deed redivider`; diegetic paper is always `doc.<document>` whatever card it appears on.
+- **A 🔧 placeholder reserves its key** with empty text. An unwritten line is visibly blank in playtest; an invented one is not.
+- **Names in dialogue are written as wikilinks** — `[[Leon]]` — and export as the `{leon}` token that carries his colour. Spelled-out names are only warned about, never auto-converted: Chinese has no word boundaries, and 奶奶 is also just the word for grandmother.
+- **Diegetic paper exports its blockquotes.** `> …` paragraphs are the paper; prose around them is brief, not text, and reserves no key.
+- **Keys are never renumbered.** An edited line keeps its key, an inserted line takes a number from the gap, and a deleted line's key is reported as orphaned rather than quietly reused.
 
 ## The bilingual layer
 

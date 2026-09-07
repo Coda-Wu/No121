@@ -3,6 +3,7 @@ type: script
 card: "№121"
 day: "Cold Open"
 scene: "02"
+locale: prologue.lobby_leon
 speakers: ["[[Leon]]", "[[Otto]]"]
 status: seed
 ---

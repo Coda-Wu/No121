@@ -3,6 +3,7 @@ type: document
 card: "SPOOL"
 day: "1"
 scene: "01"
+locale: doc.work_order_d1
 speakers: []
 status: seed
 ---

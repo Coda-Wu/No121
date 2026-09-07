@@ -3,6 +3,7 @@ type: script
 card: "SPOOL"
 day: "1"
 scene: "04"
+locale: spool.teaching_pocket
 speakers: ["[[Otto]]"]
 status: seed
 ---

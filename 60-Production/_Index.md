@@ -16,6 +16,15 @@ Generated map of content. Ask Claude Code to regenerate.
 - [[Schedule]] — M0–M12, hard dates, hours audit.
 - [[Positioning]] — order of pitch, tags, trailer and capsule brief.
 - [[Workshop Agendas]] — every open 🔧 item; the tree is closed.
+- [[Glossary]] — binding EN↔zh-Hans terminology for `/translate`.
+
+## locale/
+
+The engine's text tables, derived from `70-Script/` by `tools/build_locale.py`. Generated — never hand-edited, `cast.csv` excepted.
+
+- [[_Index]] — coverage report: keys per scene, what is still awaiting text.
+- [[README]] — the engine-side brief (two files per card, key law, name tokens).
+- [[WS-3-text-spine]] — the spec behind it: fonts per locale, the bubble, cast colours.
 
 ## The locks at a glance
 

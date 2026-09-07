@@ -1,0 +1,29 @@
+{
+  "card": "spool",
+  "scenes": {
+    "teaching_pocket": [],
+    "tape_2": [
+      {
+        "key": "spool.tape_2.010",
+        "speaker": "otto"
+      }
+    ],
+    "dream_1": [
+      {
+        "key": "spool.dream_1.010",
+        "speaker": "eve"
+      },
+      {
+        "key": "spool.dream_1.020",
+        "speaker": "eve"
+      }
+    ],
+    "call_3am": [
+      {
+        "key": "spool.call_3am.010",
+        "speaker": "anna"
+      }
+    ],
+    "examine": []
+  }
+}

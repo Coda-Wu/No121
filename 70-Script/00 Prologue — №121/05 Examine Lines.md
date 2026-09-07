@@ -3,6 +3,7 @@ type: script
 card: "№121"
 day: "Cold Open"
 scene: "05"
+locale: prologue.examine
 speakers: ["[[Otto]]"]
 status: seed
 ---
