@@ -63,7 +63,7 @@ cast.csv            display names          -> written, do not regenerate
 - Diegetic paper takes a `doc.` prefix and its own files.
 - `70-Script/` stays the single source; the CSV is derived and never hand-edited, or `wordcount.py` ends up measuring a copy.
 
-> The `Localization Spec` is LOCKED on a **PO** pipeline. CSV is the same pipeline one step earlier and far easier for a solo dev with a bilingual vault; `csv -> po` is a ~20-line script if an agency is ever engaged. Coda approved CSV 2026-09-07; the vault spec still says PO.
+> The `Localization Spec` was LOCKED on a **PO** pipeline. CSV is the same pipeline one step earlier and far easier for a solo dev with a bilingual vault; `csv -> po` is a ~20-line script if an agency is ever engaged. Coda approved CSV 2026-09-07; **the vault spec was amended to match on 2026-09-08** and the two now agree.
 
 ## Still open
 

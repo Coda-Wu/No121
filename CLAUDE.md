@@ -34,7 +34,7 @@ Obsidian vault for the world bible, cast, narrative, mechanics, and mood boards 
 - Stickies never count against the 15,000-word budget.
 - Notes may carry a bilingual layer: the human source text is everything OUTSIDE `<!-- lang:… -->` marker blocks; the block inside is machine-maintained by `/translate` and may be regenerated wholesale. Nothing outside a marker block is ever modified by tooling — this extends the sticky verbatim law vault-wide.
 - Which language is "source" is decided per note by where Coda wrote: outside the markers. Either language is legitimate; the system is direction-agnostic.
-- №121, and room numbers stay in Latin script/numerals in Chinese text (palindrome canon is visual). Loop-names will be localized.
+- №121 and room numbers stay in Latin script/numerals in Chinese text (palindrome canon is visual). Loop-names **are** localized — `60-Production/locale/cast.csv` is the single source for every cast display name, and dialogue references a name as a `{token}` rather than spelling it out.
 - `/translate` runs at session seams, commits as `meta: lang sync (…)`.
 
 ## Scope guard

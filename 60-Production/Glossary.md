@@ -8,9 +8,11 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 
 ## Policy (treat as ratified)
 
-- **Loop-names stay in Latin script** inside Chinese text: Otto, Anna, Eve, Elle, Pip, Nan, Renner, Leon, Noel. The palindrome canon is *visual* — 奥托 is not a palindrome. Same for №121 and all room numbers (202, 212, 232, 313, 434, 101, 696).
+- **Loop-names are localized** (Coda, 2026-09-08). Otto is 奥托 in Chinese text, not *Otto*. The display names are canon in `60-Production/locale/cast.csv` — that file is the single source, one row per name, and nothing else spells a cast name out. Do not duplicate the pairs here; they would drift.
+- **№121 and all room numbers stay Latin** script / numerals inside Chinese text: 202, 212, 232, 313, 434, 101, 696. These carry the palindrome canon *visually*, and transliteration destroys them.
+- **Names in dialogue are written `[[Otto]]`** and export as the `{otto}` token — see [[_Protocol]]. A translator keeps the token and translates around it; a spelled-out name loses the speaker's colour, in either language.
 - Diegetic paper (notices, work orders, the tenancy agreement) renders in 公文/合同 register — legalese as literature must survive translation.
-- 🔧 Parked to the localization workshop: how zh-Hans *players* discover the palindrome rule in-game (mailbox grid / roster are Latin-script diegetic art — likely fine via the document-viewer layer, but confirm when localization starts). Vault policy above is settled regardless.
+- 🔧 **Consequence of localizing the loop-names:** a zh-Hans player cannot read the palindrome rule off dialogue at all — 奥托 is not a palindrome. Discovery now rests *entirely* on the Latin-script diegetic art: the lobby mailbox grid and the handyman roster ([[Naming Canon]]). Confirm the document-viewer layer renders those unlocalized when localization starts.
 
 ## Terms
 
@@ -33,7 +35,7 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 | develop (film) | 冲洗 | contact sheet: 印样 | seed |
 | the corkboard | 线索板 | | seed |
 | the Ward / infirmary 101 | 病房 / 医务室 | dream hub vs waking room | seed |
-| Mr. Vacancy | 空房先生 | placeholder, like the EN; alts 空置先生 / 空缺先生 | seed |
+| Mr. Vacancy | 空缺先生 | **ratified 2026-09-08.** Display name — source of truth is `locale/cast.csv`; this row binds the term in prose too | ratified |
 | festering | 溃烂 | | seed |
 | caretaker | 看守人 | | seed |
 | MISSING notice | 寻人启事 | exact real-world genre term | seed |
