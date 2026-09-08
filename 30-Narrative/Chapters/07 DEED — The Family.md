@@ -43,5 +43,4 @@ Playtime varies by player, by design — see the branch below.
 
 ## Microbeats (anecdote bank)
 - [[Nan's Biscuits]].
-- [[Noir Corrections]].
 - [[The Cigarette Gag]] — the last of six.

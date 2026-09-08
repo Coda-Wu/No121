@@ -22,7 +22,7 @@ He reaches for a hardboiled line on the tape, hears it, and corrects himself.
 
 Noir as a costume he keeps catching himself in. Carried by the demo.
 
-<!-- Canon extract: locked anecdote [[Noir Corrections]]. Claude's wording, free to rewrite. -->
+<!-- Canon extract from the retired Noir Corrections anecdote (cut from the game). Sticky retained per protocol — disposition is Coda's. Claude's wording, free to rewrite. -->
 
 <!-- lang:zh source-hash:5f98d193 machine -->
 > [!quote]- 中文（机器译稿）

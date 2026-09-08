@@ -13,6 +13,6 @@ status: seed
 
 **OTTO:** 🔧
 
-<!-- Carries: the smell of [[Anna]] in the building, said aloud and unconfirmable. [[Noir Corrections]] — he corrects his own hardboiled phrasing. Tapes take the largest share of the word budget. -->
+<!-- Carries: the smell of [[Anna]] in the building, said aloud and unconfirmable. Tapes take the largest share of the word budget. -->
 
 🔧

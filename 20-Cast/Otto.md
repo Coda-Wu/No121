@@ -29,7 +29,7 @@ Lives in [[Room 202]], which was [[Renner]]'s. Reports nightly to Anna on tape.
 
 Near-silent in world, voluble on tape ([[Tapes to Anna]]). Two gibberish-synth formants, one per persona — the player hears the Shift. Counts against the 15,000-word budget in the [[Scope Ledger]].
 
-Costume: blue tee, blue trousers, yellow tool belt (Handyman); black suit, white shirt, black tie (Agent). The noir-corrections gag reads as a man out of practice correcting himself — see [[Noir Corrections]].
+Costume: blue tee, blue trousers, yellow tool belt (Handyman); black suit, white shirt, black tie (Agent).
 
 ## Relations
 - [[Anna]] — his partner, dead five years, and the place he is standing in. She chose him.

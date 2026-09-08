@@ -22,5 +22,4 @@ The wound. **The chapter takes place on the fifth floor** — the lung. The woun
 - **Chapter ending — the rubbing of the eyes.** The player is put back on the beach in 1998 and experiences the loss directly: the wind, the sand, the hands going to the eyes, the empty water afterwards. See [[The Delusions]].
 
 ## Microbeats (anecdote bank)
-- [[Noir Corrections]].
 - [[The Crooked Frame]].

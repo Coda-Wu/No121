@@ -9,7 +9,6 @@ status: locked
 ## Locked gags
 - [[The Cigarette Gag]]
 - [[The Doorknob]]
-- [[Noir Corrections]]
 - [[The Crooked Frame]]
 - [[Tie Continuity]]
 - [[Elle's Mug]]
@@ -19,6 +18,6 @@ status: locked
 
 ## Demo carries
 
-[[The Cigarette Gag]] · [[The Doorknob]] · [[Noir Corrections]] · [[Leon]]'s lift line · [[The Crooked Frame]].
+[[The Cigarette Gag]] · [[The Doorknob]] · [[Leon]]'s lift line · [[The Crooked Frame]].
 
 🔧 The microbeat and pocket **placement pass** is workshop business — see [[Workshop Agendas]]. Corkboard stickies are the raw material; `/weave place` proposes, Coda decides.

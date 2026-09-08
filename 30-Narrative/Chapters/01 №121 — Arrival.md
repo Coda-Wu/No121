@@ -24,5 +24,4 @@ Arrival. In the demo.
 
 ## Microbeats (anecdote bank)
 - [[The Cigarette Gag]] — pack #1.
-- [[Noir Corrections]] on tape.
 - [[Leon]]'s lift line.
