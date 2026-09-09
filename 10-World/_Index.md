@@ -44,10 +44,11 @@ Generated map of content. Ask Claude Code to regenerate. Screen-ledger lock: **�
 
 **Full.** [[Mirror Maze]] (D1) · [[The Sleep Maze]] (D2) · [[The Eye Maze]] (D3) · [[Maze Family]] variant (D4) · [[Maze Family]] variant (D6) · [[Flash-Survival Room]]. [[Penrose Stair]]'s slot went to the Eye Maze; its persona-duplicate gimmick is unplaced. **No slots remain — the next pocket must name a deletion.**
 
-## Satellites (2)
+## Satellites (3)
 
 - [[Street and Tram]] — ✓ in demo
 - [[The Ward]] — ✓ in demo
+- [[The Coast]] — ✓ in demo (the prologue). **One asset at three grades** — the prologue night, the 8 August 2002 interstitial, and the reserved mind-space. It takes the beach slot already pending from the Round 7 audit, so the count does not move.
 
 ## Demo scene count
 

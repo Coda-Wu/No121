@@ -15,4 +15,6 @@ status: seed
 
 <!-- The slip reads RETURN UPON TERMINATION OF TENANCY. Renner's hum is ambient here and not yet a voice the player can place. -->
 
+<!-- Seam, D0 and D1 only: stream-of-consciousness over tar, retching and washing - the body being cleaned out. The Building is curing his smoking. Never explained, never commented on. See [[Clause 01 - Smoking and Alcohol]] and [[The Cigarette Gag]]. -->
+
 🔧

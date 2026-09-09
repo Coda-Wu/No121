@@ -22,7 +22,7 @@ Three screens, all of them reuses:
 |---|---|
 | **Otto and Anna's flat** — two faces of four, the other two withheld until D5 | [[Anna's Flat]], already inside the scene audit. She rebuilds it out of his memory; the player has only ever seen half. |
 | **The tram stop**, night and rain | [[Street and Tram]] |
-| **The beach**, low water, fog | the coast — re-rendered for the D2 interstitial and the endings |
+| **The beach**, low water, fog | [[The Coast]] — one asset at three grades |
 
 **Zero NPCs.** The only voices are a radio, an inbox and his own tape. The isolation is the payload.
 
@@ -44,9 +44,8 @@ The full beat list and script live in `70-Script/00 Prologue — №121/`.
 
 1. **The coast, 8 August 2002**, immediately after the drowning — the search that first night. It lands before the player knows what they are looking at. Placed after D2.
 2. **The stand-down, Tuesday 20 August** — twenty people packing up a search, and Otto not leaving. This is the event his first tape refers to and the player has only heard about. Placed after D4.
-3. 🔧 **Open.** The third slot's original content — the fifth rose going into the water — has moved into the prologue, where there is only ever one rose. Candidate: the flat continuing without him, the phone ringing in an empty room, the post piling up. Placed after D6.
+3. **The flat, continuing without him.** The rose has moved into the prologue, so the third slot goes to the world carrying on in his absence: the two faces the player knows, unlit, the post drifting under the door, the phone ringing and the machine taking it. **Nobody is looking for Otto either.** It is the same asset as the prologue flat at a dead grade, and it is the last time the player sees the real world before the endings. Placed after D6.
 
 ## 🔧 Open
 - Whether each interstitial is playable or a held shot.
-- The third interstitial's subject, above.
-- Whether [[The Aunt and Uncle]] are heard in this layer at all.
+- Whether [[The Aunt and Uncle]] are heard in this layer at all — the third interstitial is the natural place for it.
