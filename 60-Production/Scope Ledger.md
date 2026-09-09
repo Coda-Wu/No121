@@ -12,7 +12,7 @@ The locks. **The scope-tax rule: any mid-project addition must name its deletion
 |---|---|---|
 | Base scenes | ≤30 (elevator included) | [[Art Spec]], `10-World/` |
 | Dressing variants | ~2 average | [[Art Spec]] |
-| Words (all speakers) | ≤15,000 | dialogue + [[Tapes to Anna]] |
+| Spoken text (all speakers) | ≥15,000 EN-word ceiling, counted in **Han characters** | dialogue + [[Tapes to Anna]], via `tools/wordcount.py` |
 | House Rules clauses | 9–11 **diagnostic** (11 written) | `40-Mechanics/Clauses/` |
 | Bespoke pockets | ≤6 (teaching pocket exempt) | `10-World/Pockets/` |
 | Music loops | 8–10 | [[Audio Spec]] |
@@ -37,7 +37,9 @@ New systems file to the post-launch parking lot. New pitches route to [[Workshop
 - **Base scenes audited in Round 7: 27 of 30.** The underwater heart and [[The Cafeteria]] are counted in; three slots remain. **No change to the lock.** Full working in `10-World/_Index.md`.
 - **Anecdote bank 11 → 10:** Pip's Ratings retired in Round 5 (Pip is non-verbal). The demo's carried microbeats are unaffected — it carried the cigarette, the doorknob, the noir-correction, the lift line and the frame.
 - **Anecdote bank 10 → 9:** *Noir Corrections* retired — Otto does not perform when he talks to [[Anna]], so the hardboiled self-correction gag is cut from the game and its note and backlinks are gone. This **supersedes the demo microbeat list above**: the demo now carries the cigarette, the doorknob, the lift line and the frame. Sticky S025 was deleted by Coda. No lock is affected; the bank has no cap.
-- 🔧 **Pending against ≤15,000 words:** the [[The Tomb Reading]] misdirection slate, [[The Hidden Family]] concealment channels, and [[Key Items]] discovery scenes.
+- **Counted unit changed to the Han character (Round 12).** The script is written in Chinese, which has no word boundaries, so the old whitespace count read a 250-character monologue as three words. `tools/wordcount.py` now counts Han characters as the primary unit and reports English words alongside for localisation. Working ratio **1.6 Han characters per English word**, so the ≤15,000-word lock is a **≤24,000-character ceiling**, and Coda has set a **≥10,000-character floor** as the target volume. The lock itself is unchanged — only the unit it is measured in. See [[_Word Count]].
+
+- 🔧 **Pending against the spoken budget:** the [[The Tomb Reading]] misdirection slate, [[The Hidden Family]] concealment channels, and [[Key Items]] discovery scenes.
 
 ## Paid ledger to date
 - Portrait cut → funded the purge verb.
