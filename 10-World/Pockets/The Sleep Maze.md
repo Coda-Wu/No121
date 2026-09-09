@@ -10,7 +10,7 @@ status: draft
 
 ## Function
 
-[[03 LIVED — The Name]]'s centrepiece, and [[Elle]]'s. A maze built around sleep and passing out — what last happened to [[Anna]] in 1998.
+[[03 LIVED — The Name]]'s centrepiece, and [[Elle]]'s. A maze built around sleep and passing out — what last happened to [[Anna]] on 8 August 2002.
 
 **The player must fake being asleep while moving**, so that the nightmare does not find them awake and devour them.
 

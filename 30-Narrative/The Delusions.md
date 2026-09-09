@@ -28,7 +28,7 @@ The demon is death. It is not bound by the Building's rules and can approach fro
 
 **④ D4 (REPAPER) — the ward.** Fear: **that he is not a detective** — that he has gone mad and none of this is his work. The chapter is built from mirrored twin puzzles throughout. It ends with Otto in a hospital gown or a straitjacket, locked in a psychiatric hospital: a second-layer bad dream underneath the dream. The Administration explains nothing and does not appear.
 
-**⑤ D5 (ANNA) — the rubbing of the eyes.** Fear: **that she saw him and he did not come.** The chapter ends by putting the player back on the beach in 1998 to experience the loss directly — the wind, the sand, the hands going to the eyes, and the empty water afterwards.
+**⑤ D5 (ANNA) — the rubbing of the eyes.** Fear: **that she saw him and he did not come.** The chapter ends by putting the player back on the beach on 8 August 2002 to experience the loss directly — the wind, the sand, the hands going to the eyes, and the empty water afterwards.
 
 **⑥ D6 (DEED) — the bridge.** Fear: that what he finds will not be her. It sits **mid-chapter**, between [[Nan]]'s section and the descent to [[Renner]], and it is the branch that decides which endings remain. See below and [[07 DEED — The Family]].
 

@@ -4,27 +4,49 @@ status: draft
 ---
 # The Real World
 
-The 2003 layer outside the Building. See [[Timeline]].
+The 2002 layer outside the Building. See [[Timeline]].
 
 ## What the player sees
 
-**Framing plus three interstitials, and no more.** The arrival and the endings carry the frame; three short scenes between chapters carry the rest. All of them ship as LUT re-grades of screens that already exist, per the [[Art Spec]], so the base-scene count in the [[Scope Ledger]] is unaffected.
+**A playable prologue, three interstitials, and the endings.** All of it ships as LUT re-grades of screens that already exist, per the [[Art Spec]], so the base-scene count in the [[Scope Ledger]] is unaffected.
 
-**1998 is shown rarely.** The year is carried by documents, testimony and [[Nan]], not by playable scenes.
+**1991 is never played.** The year [[Renner]] and [[Eve]] were taken is carried entirely by paper — newspaper records and next-of-kin fields. See [[The Hidden Family]] and [[The Curse]].
 
-## What is in it
+## The prologue — Thursday 22 August 2002, day fifteen
 
-- The coast where [[Anna]] drowned in 1998, and where her body still lies — [[The Body]].
-- [[Otto]]'s five-year search: the case file, the coastline, the hospitals, the notices.
-- The **MISSING notices**, which Otto printed and posted himself in the real world — see [[MISSING Notices Collected]].
-- One rose cast into the ocean each year — see [[Key Items]].
-- The declaration of death in absentia, 2003. The night after it is issued, Otto sees the Building standing in mist on the water by moonlight, lit from within. It is the building he had been dreaming.
+The game opens in the real world and stays there for about twenty minutes of continuous night. There is no time skip: [[Otto]] wakes at 01:10 and is on the beach by low water at 20:02.
+
+Three screens, all of them reuses:
+
+| Screen | Charged against |
+|---|---|
+| **Otto and Anna's flat** — two faces of four, the other two withheld until D5 | [[Anna's Flat]], already inside the scene audit. She rebuilds it out of his memory; the player has only ever seen half. |
+| **The tram stop**, night and rain | [[Street and Tram]] |
+| **The beach**, low water, fog | the coast — re-rendered for the D2 interstitial and the endings |
+
+**Zero NPCs.** The only voices are a radio, an inbox and his own tape. The isolation is the payload.
+
+The rain is not weather. **Water strengthens the connection**, which is why he shuts the window at 01:10 and stands in it at 20:02 without knowing he has done either.
+
+The full beat list and script live in `70-Script/00 Prologue — №121/`.
+
+## What is in the layer
+
+- The coast where [[Anna]] drowned on 8 August 2002, and where her body still lies — [[The Body]].
+- Otto's two-week search: the coastline, the hospitals, the posters, an address on a notice that nobody legitimate has answered.
+- The **MISSING notices**, which Otto printed and posted himself — see [[MISSING Notices Collected]]. The seven collected inside the Building are the lock; the one he flattens at the tram stop in the prologue is a real-world poster and does not count against it.
+- The Coast Guard's twelve-day search, stood down on Tuesday 20 August. Snapped search-sector tape on a half-buried stake is still on the beach, because collecting it is nobody's job. **It is not a cordon** — a police line would tell the player a crime happened, and [[The Death of Anna]] is locked as neither crime nor negligence.
+- **One rose**, cut from the flask in the flat and given to the sea on the fifteenth night. It is what lets her reach him. See [[Key Items]].
+
+**There is no declaration of death in absentia and no letter.** No court issues one automatically, and a partner has no standing to petition for one. Nothing official happens in this story.
 
 ## The three interstitials
 
-1. **The coast, 1998**, immediately after the drowning — the search that first night. This is the game's **only** visit to 1998, and it lands before the player knows what they are looking at. Placed after D2.
-2. **Otto's flat, 2003** — the case wall, and the declaration letter arriving. Placed after D4.
-3. **The coast, 2003** — the fifth rose going into the water. Placed after D6.
+1. **The coast, 8 August 2002**, immediately after the drowning — the search that first night. It lands before the player knows what they are looking at. Placed after D2.
+2. **The stand-down, Tuesday 20 August** — twenty people packing up a search, and Otto not leaving. This is the event his first tape refers to and the player has only heard about. Placed after D4.
+3. 🔧 **Open.** The third slot's original content — the fifth rose going into the water — has moved into the prologue, where there is only ever one rose. Candidate: the flat continuing without him, the phone ringing in an empty room, the post piling up. Placed after D6.
 
 ## 🔧 Open
 - Whether each interstitial is playable or a held shot.
+- The third interstitial's subject, above.
+- Whether [[The Aunt and Uncle]] are heard in this layer at all.

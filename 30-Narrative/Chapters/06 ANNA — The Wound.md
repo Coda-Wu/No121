@@ -19,7 +19,7 @@ The wound. **The chapter takes place on the fifth floor** — the lung. The woun
 - Her undeveloped roll found, and developed on [[Renner]]'s rig. Key item: **her love** — the one photograph among the eight, see [[Key Items]].
 - **The evening call.** It opens with the same sentence [[Anna]] used at 3 AM on D1, then she says something only a living person would say, in the future tense, and Otto does not correct her. Cut with flashbacks to the day she went missing.
 - [[Reverse Film]] window opens.
-- **Chapter ending — the rubbing of the eyes.** The player is put back on the beach in 1998 and experiences the loss directly: the wind, the sand, the hands going to the eyes, the empty water afterwards. See [[The Delusions]].
+- **Chapter ending — the rubbing of the eyes.** The player is put back on the beach on 8 August 2002 and experiences the loss directly: the wind, the sand, the hands going to the eyes, the empty water afterwards. See [[The Delusions]].
 
 ## Microbeats (anecdote bank)
 - [[The Crooked Frame]].

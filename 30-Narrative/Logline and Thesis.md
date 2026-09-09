@@ -6,9 +6,9 @@ status: locked
 
 ## Logline
 
-An investigator takes a five-year-old cold case back to the building where it started — and the building puts him to work: measuring corridors that lie, photographing things that were never there, and reporting nightly to the woman he is looking for.
+Two weeks after his partner drowns, an investigator follows her into a building that should not exist — and the building puts him to work: measuring corridors that lie, photographing things that were never there, and reporting nightly to the woman he is looking for.
 
-> [!note] Ratified as **C1**, Round 1. The previous logline — *"A handyman returns to the apartment building where he grew up…"* — is retired. [[Otto]] is an investigator by trade, the handyman post is [[Anna]]'s empowerment, and he did not grow up in this building: he grew up in the real №121, and this one is her memory of his stories about it. See [[Timeline]].
+> [!note] Ratified as **C1**, Round 1. The previous logline — *"A handyman returns to the apartment building where he grew up…"* — is retired. **Retimed in Round 12:** the gap is two weeks, not five years, so the case is not cold — it is two days past the moment everyone else stopped looking. See [[Timeline]]. [[Otto]] is an investigator by trade, the handyman post is [[Anna]]'s empowerment, and he did not grow up in this building: he grew up in the real №121, and this one is her memory of his stories about it. See [[Timeline]].
 
 ## Thesis
 

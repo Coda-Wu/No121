@@ -38,9 +38,13 @@ The eighth item is different in kind from the other seven: it is what drowning r
 
 ## The rose
 
-Separate from the eight. [[Otto]] cast one rose into the ocean each year for five years. The fifth reached her, and waking her is what strengthened her broadcast to him. She preserved it fresh with her own blood, sealed in a glass jar.
+Separate from the eight. **There is one rose, not five.**
 
-She gives it to him in the heart, in [[08 REDIVIDER — The Door]], as the revealing cutscene of that chapter. It is the only object in the game she deliberately hands over.
+[[Otto]] brought [[Anna]] a rose most weeks while she was alive. The last one has stood in a flask in their flat since before the eighth, and he has changed its water every day since — thinking that if she came back she would see there were still flowers on the table. By day fifteen it is going anyway, and he cannot keep it.
+
+So he cuts it and gives it to the sea. That is not a search; it is the first thing he has done that admits she may not be coming back, and **letting it go is the ten seconds he stops being an investigator.** It is what lets her reach him at all. See [[Timeline]] and `70-Script/00 Prologue — №121/`.
+
+She keeps it. She preserves it fresh with her own blood, sealed in a glass jar, and gives it back to him in the heart in [[08 REDIVIDER — The Door]] as the revealing cutscene of that chapter — **flask to jar**, the only object in the game she deliberately hands over.
 
 ## 🔧 Open
 - Whether the seven shade the restored Anna or hard-gate. Current call: shade — a missing faculty shows in the epilogue.

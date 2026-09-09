@@ -15,7 +15,7 @@ status: draft
 
 ## Exploit (steering use)
 
-**The Building is in permanent breach of this one.** [[The Sealed Fifth Floor]] is flooded and has been since 1998. The clause is in force for the whole game and visibly violated, and the player can only understand why once they get up there in [[06 ANNA — The Wound]].
+**The Building is in permanent breach of this one.** [[The Sealed Fifth Floor]] is flooded and has been since the moment she drowned, on 8 August 2002. The clause is in force for the whole game and visibly violated, and the player can only understand why once they get up there in [[06 ANNA — The Wound]].
 
 ## Sick-weird violations it diagnoses
 

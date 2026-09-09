@@ -15,7 +15,7 @@ Round 9 is complete and **the design tree is closed**. Everything here is worksh
 
 Round 1 of the narrative grill reopened the fiction beneath the closed systems tree. These are writing-pass items, not system pitches.
 
-- **The exact cause of death** — [[The Death of Anna]]. She drowned at sea in 1998 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
+- **The exact cause of death** — [[The Death of Anna]]. She drowned at sea on 8 August 2002 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
 - **The evening call** — [[06 ANNA — The Wound]]'s critical beat. The 3 AM call now ends the demo in [[02 SPOOL — The Job]]; whether D5's evening call is a separate, later beat or was relocated is 🔧 open.
 - **[[The Cafeteria]]** — floor 1, the social hub. Dressing, anecdote placement, and the twins' split shift.
 - **[[The Three Hums]]** — settled as the chain release. 🔧 How the player finds three chances to record, how the mixdown works, and the basement maze's verbs.

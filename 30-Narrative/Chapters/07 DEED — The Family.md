@@ -17,7 +17,7 @@ Playtime varies by player, by design — see the branch below.
 
 **① [[Room 313]], floor 3 — the eye.** Operation two on [[Pip]]; **NIR** unlocked. See [[The Cataract Operations]].
 
-**② [[Room 434]], floor 4 — the ear.** [[Nan]], 1998, the property deed; the exit found through the past. The predecessor's ledger, last page. The newspaper record of [[Renner]]'s death — a fall down a hill, recorded as an accident. See [[The Curse]].
+**② [[Room 434]], floor 4 — the ear.** [[Nan]], 1998, the property deed; the exit found through the past. The predecessor's ledger, last page. The newspaper record of [[Renner]]'s death in **1991** — a fall down a hill, recorded as an accident. See [[The Curse]].
 
 **③ The bridge — the branch.** [[Mr. Vacancy]]'s delusion at the unfenced edge of [[The Lightwell]]. See [[The Delusions]].
 

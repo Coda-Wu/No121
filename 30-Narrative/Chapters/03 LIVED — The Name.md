@@ -23,7 +23,7 @@ A coffee-making minigame or cutscene, unhurried. Noel introduces [[Elle]], [[Nan
 
 **② The corridor to [[Room 232]], floor 2 — the liver.** The room that was sealed behind dark smoke on D1 is here. Otto now has the flashgun ([[Purge and Light]]) and knows immediately where to use it. This corridor teaches the two verbs: **the flashgun disperses, the camera seals permanently.**
 
-**③ The sleep maze.** A maze anomaly built around sleep and passing out — what last happened to [[Anna]] in 1998. The player must **fake being asleep while moving** from place to place, so that a nightmare does not find them awake and devour them. 🔧 Appearance and mechanism to be designed.
+**③ The sleep maze.** A maze anomaly built around sleep and passing out — what last happened to [[Anna]] on 8 August 2002. The player must **fake being asleep while moving** from place to place, so that a nightmare does not find them awake and devour them. 🔧 Appearance and mechanism to be designed.
 
 **④ Elle, out.** Otto drags Elle out of the maze and cures her insomnia. She has been sharing that nightmare so long that she knows what it is called: **[[Mr. Vacancy]] is named, from Elle's mouth.**
 
