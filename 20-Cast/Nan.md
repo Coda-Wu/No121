@@ -14,7 +14,7 @@ The Grandmother of [[Room 434]], still living in 1998. The domestic register's w
 
 > [!warning] Top-secret: **Nan is [[Anna]]'s old state.** Not a relative — one of her own states, after the Buddhist figure of the past, the present and the future. [[Pip]] is the childhood, Anna is the present, Nan is the age she never reached. The player may read her as family or as a state; **both readings work and neither is confirmed.** See [[The Hidden Family]].
 
-**The memory-keeper.** 1998 is the founding year — the year [[Anna]] died and the vessel formed, in one event ([[Timeline]]). Nan is not stuck in 1998 out of whimsy: she is the last intact piece of the founding moment, which is why the exit in [[07 DEED — The Family]] runs through her year rather than through the present, and why nothing in her flat was ever asked to survive past it.
+**1998 is the year [[Anna]] met [[Otto]]** ([[Timeline]]). Nan is not stuck there out of whimsy: she is Anna at the age she never reached, still living in the best year she had — an old woman who chose a year and stayed in it. That is why the exit in [[07 DEED — The Family]] runs through her year rather than through the present: **1998 is where the vessel is thickest, because it holds the most of him.** Nothing in her flat was ever asked to survive past that year, which is why the biscuits are best before 1999.
 
 ## Voice
 <!-- formant preset, diction, word-budget notes -->

@@ -16,7 +16,7 @@ The antagonist: the pollution that causes sick-weird anomalies and spatial rot. 
 
 > [!warning] Top-secret, revised in Round 6: **it existed before Anna died.** It is a demon. It cursed her family and took them one at a time — [[Pip]], [[Renner]], [[Eve]], and finally [[Anna]], who was the one it wanted. See [[The Curse]].
 >
-> Inside the vessel it is additionally fed by: **entropy**, **[[Anna]]'s dying wish** as she loses hope of being answered over five years, and **[[Otto]]'s guilt and heartbreak**. That is the layer that gives it his face. Outside, it is a predator with intent; inside, it grows on despair.
+> Inside the vessel it is additionally fed by: **entropy**, **[[Anna]]'s dying wish** as she loses hope of being answered, and **[[Otto]]'s guilt and heartbreak**. That is the layer that gives it his face. Outside, it is a predator with intent; inside, it grows on despair.
 
 **Its method is information mismatch.** It opens a gap between what a person perceives and what is happening, and lives in the gap. It made the wind that blinded Otto on the beach, and it has been working the resulting mismatch on both of them ever since.
 

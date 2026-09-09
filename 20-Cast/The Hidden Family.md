@@ -35,7 +35,7 @@ Both parents died before Otto ever met Anna (ratified as C2). She built them fro
 |---|---|
 | [[Pip]] | her childhood — a gender-neutral infant, blind with her cataracts, who nonetheless draws the true map, because only the child's eye sees clearly |
 | [[Anna]] | the present |
-| [[Nan]] | the age she never reached, still living in 1998 |
+| [[Nan]] | the age she never reached, still living in 1998 — the year Anna met [[Otto]] |
 
 **[[Elle]] is a fourth kind again** — not a life stage but a **faculty**: Anna's dream, personified as an insomniac who cannot sleep and therefore cannot dream. [[Mr. Vacancy]] has been in that dream long enough to be named from her mouth.
 
@@ -46,7 +46,7 @@ Both parents died before Otto ever met Anna (ratified as C2). She built them fro
 Never stated, never confirmed, never confirmed-by-denial. Discoverable only by accumulation, across at least three independent channels so no single find gives it away:
 
 - Missing-person paperwork and next-of-kin fields.
-- Newspaper articles from 1998.
+- Newspaper articles from 1991 — [[Renner]]'s fall, [[Eve]]'s death.
 - Hidden voice messages and the corridor radio — [[Renner]] is every radio in the game, which is a father's voice under every door for seven days before the player knows whose it is.
 - **Unremarkable patterns in how they describe her.** The likeliest and cheapest channel: two people who use the same specific phrase about the same girl, and neither of them ever says why.
 - Fluorescent marks under UV, on the building and on objects — [[Filters]] does not read files.
