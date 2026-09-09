@@ -15,7 +15,7 @@ Still **not** a computer simulation. The banned-technique list in [[The Two-Gram
 
 ## The lifeboat, misread as a tomb
 
-Her intent was **survival**. She died in 1998 — see [[Timeline]] and [[The Death of Anna]] — and what remained of her took shape as a place that could hold people, because an apartment building is the most ordinary machine there is for keeping people who would otherwise disperse.
+Her intent was **survival**. She died on 8 August 2002 — see [[Timeline]] and [[The Death of Anna]] — and what remained of her took shape as a place that could hold people, because an apartment building is the most ordinary machine there is for keeping people who would otherwise disperse.
 
 The player is meant to read it as a **grave**. Evidence is planted that way on purpose; see [[The Tomb Reading]]. The tomb conclusion is fully derivable on [[The Corkboard Thread]], and it is wrong.
 
@@ -44,7 +44,7 @@ By her choice. She called him. The rival explanations are authored misdirection 
 
 Only he can repair her and fight the corruption. The other tenants can maintain the Building; none of them can fight back. See [[Otto]].
 
-**Settled in Round 4:** the five years are three clocks completing at once — the body's conversion, the accumulation of Otto's search, and the declaration of death in absentia. **Anna does not get stronger**; she reaches for him every night and a lost soul is weak. What changes in 2003 is Otto's ability to sense her, boosted by heartbreak on the day of the declaration. See [[Timeline]].
+**Settled in Round 12:** the gap is **two weeks**, not five years, and nothing official closes it. **Anna does not get stronger**; she has reached for him every night since the eighth and a lost soul is weak. What changes is Otto's ability to sense her, and it changes because he stops working the case for ten seconds at the waterline and lets the rose go. His low spiritual sensing is the lead, and the investigator is what it is made of. See [[Timeline]].
 
 ## The Administration
 

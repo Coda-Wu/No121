@@ -9,7 +9,7 @@ secret: true
 
 ## What is settled
 
-- [[Anna]] **drowned at sea in 1998**. It was a natural event, not a crime and not negligence. There is no culprit.
+- [[Anna]] **drowned at sea on 8 August 2002**, fifteen days before the present ([[Timeline]]). It was a natural event, not a crime and not negligence. There is no culprit.
 - The mechanism is a **rip current** plus the **instinctive drowning response**: a drowning person cannot call out, because the respiratory system is committed to breathing, and cannot wave, because the arms press down on the water. They stay upright and silent for twenty to sixty seconds and then go under. It does not look like distress.
 - **[[Otto]] was awake and watching her swim.** Wind blew sand into his eyes. He rubbed them, and when he could see again **Anna and everyone else on the beach were gone.** He does not know what happened.
 - **The wind was [[Mr. Vacancy]]'s.** The demon existed before she died and had already taken the rest of her family the same way. See [[The Curse]].
@@ -30,6 +30,8 @@ Design-side fact, never confirmed in-game: **Anna's memory is the correct one.**
 ## 🔧 Open
 
 **Settled in Round 6:** an ordinary day, late in the season, at a coast a few hours from home; they lived inland at the real №121. Anna was a strong swimmer — rip currents kill strong swimmers, who fight them.
+
+**Settled in Round 12:** the date is **Thursday 8 August 2002**. The Coast Guard searched for twelve days and stood down on Tuesday the 20th. Otto has gone on alone since. There is no inquest yet, no death certificate, and no declaration of any kind — see [[Timeline]].
 
 🔧 Open: how [[Renner]] and [[Eve]] were taken, and why this family. See [[The Curse]].
 

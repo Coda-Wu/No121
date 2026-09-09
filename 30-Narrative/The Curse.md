@@ -19,9 +19,11 @@ Its method is not force. It creates a **mismatch in information** — a gap betw
 
 | Who | Relation | Taken |
 |---|---|---|
-| [[Renner]] | Anna's father | Before [[Otto]] met Anna. Fell down a hill, recorded as an accident. **Revealed only through newspaper documentation in-game** — Renner never tells Otto himself. The reason is revealed in the chapter that holds the family truth. |
-| [[Eve]] | Anna's mother | Before Otto met Anna. She fell into the demon's trap and died inside a delusion. **Documented as a suicide**; the player works out that she was trapped. Never confirmed. |
-| [[Anna]] | the last one it wanted | 1998, at sea. See [[The Death of Anna]]. |
+| [[Renner]] | Anna's father | **1991**, while Anna is a child and seven years before [[Otto]] meets her. Fell down a hill, recorded as an accident. **Revealed only through newspaper documentation in-game** — Renner never tells Otto himself. The reason is revealed in the chapter that holds the family truth. |
+| [[Eve]] | Anna's mother | **1991.** She fell into the demon's trap and died inside a delusion. **Documented as a suicide**; the player works out that she was trapped. Never confirmed. |
+| [[Anna]] | the last one it wanted | **8 August 2002**, at sea. See [[The Death of Anna]]. |
+
+After 1991 Anna was raised by [[The Aunt and Uncle]]. She never spoke of her parents to Otto, and he never saw a photograph of them — which is why he cannot place [[Renner]] and [[Eve]] when the Building hands them to him.
 
 See [[The Hidden Family]].
 
@@ -38,9 +40,17 @@ The wind was the demon's. The blindness was the demon's. The mismatch it opened 
 
 Both accounts are complete. Neither can be checked from inside the Building.
 
-## Why Anna
+## Why Anna, and never Otto
 
 **She has strong spiritual sensing.** That is what the demon wanted, and it is why she was taken last and wanted most. It is never explained further.
+
+**[[Otto]] has almost none.** He is the inverse of her and the demon has never wanted him — which is also why a handful of wind-blown sand was enough to blind him for the length of a drowning. See [[Timeline]].
+
+## Its bodies and its weather
+
+**Its bodies are always Otto-shaped.** [[Mr. Vacancy]] is a doppelganger and wears the persona Otto is not; that law does not bend.
+
+**Everything else it does is weather.** The wind that blinded him on the beach, a window blowing open in the rain at one in the morning, birds awake at an hour birds are not. Never a body, never named, never confirmed — and the player has no way to tell any of it from ordinary bad weather until much later.
 
 ## What the player gets
 

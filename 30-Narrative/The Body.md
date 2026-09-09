@@ -9,9 +9,11 @@ secret: true
 
 ## Where she is
 
-[[Anna]] drowned at sea in 1998 ([[Timeline]]). Her body was never recovered. It lies in deep water, wrapped in **adipocere** — body wax, which forms in cold, oxygen-poor conditions and holds a body's shape for decades.
+[[Anna]] drowned at sea on **8 August 2002** ([[Timeline]]). Her body was never recovered. It lies in deep water, where **adipocere** — body wax, which forms in cold, oxygen-poor conditions and can hold a body's shape for decades — has begun to form but has not closed over her.
 
-She is **decaying slowly, not gone**. The rate of decay is the rate at which the Building fails.
+**She is fifteen days dead.** The wax is early and incomplete, and that is the point: the Building is not an old ruin, it is a new thing already coming apart.
+
+She is **decaying, not gone**. The rate of decay is the rate at which the Building fails — and because the vessel formed whole in the instant she drowned rather than accreting over years, the eight days of [[The Day Loop]] are the whole of what is left. See [[Timeline]].
 
 ## How the player sees it
 
