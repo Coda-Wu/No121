@@ -45,8 +45,8 @@ One **canvas** per card, nine fields each — the working surface for the writin
 Never stated plainly in-game. Assembled by the player from evidence; confirmed only at the endings.
 
 - [[The Ontology]] — the vessel *is* [[Anna]]; the lifeboat misread as a tomb.
-- [[Timeline]] — 1998 founding and death, 2003 present; the real №121; the dead who staff the Building.
-- [[The Death of Anna]] — she drowned at sea in 1998 with [[Otto]] present. 🔧 The exact cause is open.
+- [[Timeline]] — 1991 the parents, 1998 they meet, 8 August 2002 she drowns, 22 August 2002 the present; the real №121; the dead who staff the Building.
+- [[The Death of Anna]] — she drowned at sea on 8 August 2002 with [[Otto]] present. 🔧 The exact cause is open.
 - [[The Body]] — where she lies, and how she is restored.
 - [[The Organ Map]] — the Building as mind and body; the anomaly generation law.
 - [[The Curse]] — the demon took the family one at a time; Anna was the last one it wanted.
@@ -57,9 +57,9 @@ Never stated plainly in-game. Assembled by the player from evidence; confirmed o
 
 ## Canon (world layer)
 
-- [[The Real World]] — the 2003 layer: framing plus three interstitials.
+- [[The Real World]] — the 2002 layer: the playable prologue, three interstitials, the endings.
 
-## Anecdotes (10 locked gags)
+## Anecdotes (9 locked gags — 8 with notes, plus [[Leon]]'s lift line)
 
 [[Anecdote Bank]] · [[The Cigarette Gag]] · [[The Doorknob]] · [[The Crooked Frame]] · [[Tie Continuity]] · [[Elle's Mug]] · [[Nan's Biscuits]] · [[The Polite Pause]] · [[The Spirit Level]]
 
