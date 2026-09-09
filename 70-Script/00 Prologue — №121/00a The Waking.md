@@ -40,4 +40,6 @@ Otto躺在床上，旋转，入梦
 查看玫瑰花
 **OTTO:** 她最喜欢玫瑰，我几乎每周都会送她一枝。
 
-<!-- The two lines below are the same line in two languages, so they are left unmarked to avoid double-counting. Per the Round 12 decision the aphorism moves OFF the rose entirely — it lands once, attributed to [[Anna]], in 00c — and onto a post-it in her hand on the fridge. Cut when ready. -->
+<!-- Coda cut the Little Prince aphorism from this examine between drafts — correct: it now lands once, attributed to [[Anna]] (你总说), in 00c. Its optional home is a post-it in her hand on the fridge, which is also the objective-log texture. -->
+
+<!-- 🔧 The distorted name line below the radio bulletin is unmarked because “XXX” is a placeholder, not text. Mark it **RADIO:** once the wording exists. The tab-indented “Otto：” is Coda's placeholder for his reply. -->

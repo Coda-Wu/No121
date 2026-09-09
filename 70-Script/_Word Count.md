@@ -13,18 +13,18 @@ English words are shown alongside for localisation. Working ratio: **1.6 Han cha
 
 | Budget | Han chars | Floor | Ceiling | EN words |
 |---|---|---|---|---|
-| **Spoken** | 216 | 10000 | 24000 | 5 |
+| **Spoken** | 368 | 10000 | 24000 | 16 |
 | **Diegetic paper** | 0 | — | 🔧 unset | 61 |
 
-- Spoken against the floor: **216 / 10000** (-9784)
-- Spoken against the ceiling: **216 / 24000** (-23784)
-- Ceiling in English-word equivalents: **140 / 15000**
+- Spoken against the floor: **368 / 10000** (-9632)
+- Spoken against the ceiling: **368 / 24000** (-23632)
+- Ceiling in English-word equivalents: **246 / 15000**
 
 ## Spoken, by card
 
 | Card | Han chars |
 |---|---|
-| №121 | 216 |
+| №121 | 368 |
 | SPOOL | 0 |
 | ? | 0 |
 
@@ -32,8 +32,8 @@ English words are shown alongside for localisation. Working ratio: **1.6 Han cha
 
 | Speaker | Han chars |
 |---|---|
+| OTTO | 237 |
 | RADIO | 131 |
-| OTTO | 85 |
 | LEON | 0 |
 | RENNER | 0 |
 | EVE | 0 |
@@ -45,7 +45,7 @@ English words are shown alongside for localisation. Working ratio: **1.6 Han cha
 |---|---|---|
 | 00 Prologue — №121 / 00a The Waking | 153 | 0 |
 | 00 Prologue — №121 / 00b The Tram Stop | 0 | 0 |
-| 00 Prologue — №121 / 00c The Beach | 63 | 0 |
+| 00 Prologue — №121 / 00c The Beach | 215 | 11 |
 | 00 Prologue — №121 / 01 The Transition | 0 | 0 |
 | 00 Prologue — №121 / 02 Lobby — Leon | 0 | 0 |
 | 00 Prologue — №121 / 03 Tape 1 | 0 | 0 |
