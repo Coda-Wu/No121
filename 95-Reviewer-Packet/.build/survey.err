@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "E:\Obsidian\repos\No121\No121\95-Reviewer-Packet\.build\survey.py", line 29, in <module>
+    r = survey(p)
+  File "E:\Obsidian\repos\No121\No121\95-Reviewer-Packet\.build\survey.py", line 14, in survey
+    raw = open(path, encoding='utf-8').read()
+          ~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '--walk'
