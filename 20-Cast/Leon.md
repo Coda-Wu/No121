@@ -4,6 +4,7 @@ palindrome: false
 room: ""
 speaking: true
 register: clinical
+bird: "Yellow-billed magpie"
 status: locked
 ---
 # Leon

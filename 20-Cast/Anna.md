@@ -4,6 +4,7 @@ palindrome: true
 room: ""
 speaking: true
 register: unassigned
+bird: "Blue budgerigar"
 status: locked
 ---
 # Anna

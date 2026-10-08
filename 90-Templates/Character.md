@@ -4,6 +4,7 @@ palindrome: true
 room: ""
 speaking: true
 register: domestic
+bird: ""
 status: seed
 ---
 # {{title}}

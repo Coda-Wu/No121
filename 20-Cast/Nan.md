@@ -4,6 +4,7 @@ palindrome: true
 room: "434"
 speaking: true
 register: domestic
+bird: "European robin"
 status: locked
 ---
 # Nan

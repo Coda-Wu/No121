@@ -4,6 +4,7 @@ palindrome: false
 room: "696"
 speaking: true
 register: sick-weird
+bird: "Raven"
 status: draft
 ---
 # Mr. Vacancy

@@ -4,6 +4,7 @@ palindrome: true
 room: "313"
 speaking: false
 register: domestic
+bird: "Blue jay"
 status: draft
 ---
 # Pip

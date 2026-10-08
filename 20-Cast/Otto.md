@@ -4,6 +4,7 @@ palindrome: true
 room: "202"
 speaking: true
 register: mundane
+bird: "Rose-breasted grosbeak"
 status: locked
 ---
 # Otto

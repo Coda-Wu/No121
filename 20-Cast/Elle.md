@@ -4,6 +4,7 @@ palindrome: true
 room: "232"
 speaking: true
 register: domestic
+bird: "Hoopoe"
 status: draft
 ---
 # Elle

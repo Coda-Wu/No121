@@ -4,6 +4,7 @@ palindrome: true
 room: "202"
 speaking: true
 register: lawful-weird
+bird: "Superb lyrebird"
 status: locked
 ---
 # Renner

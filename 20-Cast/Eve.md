@@ -4,6 +4,7 @@ palindrome: true
 room: "101"
 speaking: true
 register: clinical
+bird: "White dove"
 status: locked
 ---
 # Eve
