@@ -8,20 +8,20 @@ The locks. **The scope-tax rule: any mid-project addition must name its deletion
 
 ## Locks
 
-| Lock | Limit | Where it lives |
-|---|---|---|
-| Base scenes | ≤30 (elevator included) | [[Art Spec]], `10-World/` |
-| Dressing variants | ~2 average | [[Art Spec]] |
+| Lock                       | Limit                                                  | Where it lives                                         |
+| -------------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| Base scenes                | ≤30 (elevator included)                                | [[Art Spec]], `10-World/`                              |
+| Dressing variants          | ~2 average                                             | [[Art Spec]]                                           |
 | Spoken text (all speakers) | ≥15,000 EN-word ceiling, counted in **Han characters** | dialogue + [[Tapes to Anna]], via `tools/wordcount.py` |
-| House Rules clauses | 9–11 **diagnostic** (11 written) | `40-Mechanics/Clauses/` |
-| Bespoke pockets | ≤6 (teaching pocket exempt) | `10-World/Pockets/` |
-| Music loops | 8–10 | [[Audio Spec]] |
-| Scripted blackouts | 3–5 | [[The Day Loop]] |
-| Ruler scares | 3 | [[The Ruler]] |
-| Meter beats | ≤3 | [[The Day Loop]] |
-| Festering cap | 2 hatched alive at once | [[Festering]] |
-| MISSING notices | 7 | [[MISSING Notices Collected]] |
-| Corkboard nodes | ~30 | [[The Corkboard Thread]] |
+| House Rules clauses        | 9–11 **diagnostic** (11 written)                       | `40-Mechanics/Clauses/`                                |
+| Bespoke pockets            | ≤6 (teaching pocket exempt)                            | `10-World/Pockets/`                                    |
+| Music loops                | 8–10 for main (demo), 2-3 for queen (demo)             | [[Audio Spec]]                                         |
+| Scripted blackouts         | 3–5                                                    | [[The Day Loop]]                                       |
+| Ruler scares               | 3                                                      | [[The Ruler]]                                          |
+| Meter beats                | ≤3                                                     | [[The Day Loop]]                                       |
+| Festering cap              | 2 hatched alive at once                                | [[Festering]]                                          |
+| MISSING notices            | 7                                                      | [[MISSING Notices Collected]]                          |
+| Corkboard nodes            | ~30                                                    | [[The Corkboard Thread]]                               |
 
 **Pockets are full: 6 of 6.** [[Mirror Maze]] · [[The Sleep Maze]] · [[The Eye Maze]] · two [[Maze Family]] variants · [[Flash-Survival Room]]. [[Penrose Stair]] is retired and its slot reassigned to the Eye Maze; its gimmick is unplaced and costs nothing. [[Anna's Flat]] is a screen, not a pocket, and is counted in the 27-of-30 scene audit. **The next pocket must name a deletion.**
 

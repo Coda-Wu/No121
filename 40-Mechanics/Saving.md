@@ -19,14 +19,14 @@ The wake points stay as they always were, and become the replay surface. With fo
 
 ## What is deliberately absent
 
-**No save-anywhere with slots**, and this is the load-bearing decision.
 
-The branch at the bridge in [[07 DEED — The Family]] is the most consequential action in the game: it decides whether the camera survives, and therefore whether [[I See You — The True Ending]] and [[Do I Know You — The Hollow Return]] remain reachable. **Multi-slot manual saving lets a player park a save before the bridge and undo the outcome**, which removes the consequence and empties the branch.
 
-A **single rolling autosave** does not have that problem. Reloading takes the player to their own most recent beat, which after the bridge is *past* the bridge. The consequence stands.
+The branch at the bridge in [[07 DEED — The Family]] is the most consequential action in the game: it decides whether the camera survives, and therefore whether [[I See You — The True Ending]] and [[Do I Know You — The Hollow Return]] remain reachable.
 
-**No save shrine — no photobooth, no phone booth, no typewriter.**
-A save device you must walk to teaches the player that there is something to lose. In this game there is not: no death, no resource attrition, no fail state outside a maze restart. Resident Evil's typewriter works because ammo and death are real. Here it would be a lie about the stakes, and it would turn a contemplative game anxious.
+The game now has multiple slots plus an autosave.
+
+**There are save shrine but very limited during daytime exploration, and autosave takes cares of most saving'**
+
 
 ## The diegetic touch
 
