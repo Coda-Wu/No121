@@ -1,5 +1,7 @@
 # Brief — The Corkboard deduction system
 
+> [!warning] **Superseded by Round 15.** See [[Round 15 Decision Record]] and [[The Corkboard Thread]]. Coda reversed the deduction system on 14 November 2026: the player no longer strings threads, there is no hidden compatibility graph and no conclusion tiers, and the board no longer steers an ending. It fills itself and shows progress. The engine now needs two tables, set out at the end of [[The Corkboard Thread]]. This brief is kept as the record.
+
 **For: a Grill session in the Obsidian vault, to re-author `30-Narrative/The Corkboard Thread`.**
 
 Written from the engine side. Everything below is either quoted vault canon, a ratified decision, or a statement of what the engine will need back. Paste this whole file into the vault-side session; it is meant to be readable without repo access.

@@ -18,13 +18,17 @@ Every delusion is built the same way:
 
 The demon is death. It is not bound by the Building's rules and can approach from any direction.
 
+**Round 15: the delusions are built to be survived.** Each refusal sharpens Otto, and that is the demon's second purpose. See [[Mr. Vacancy's Plan]].
+
 ## The slate
+
+**⓪ The opening dream — the fall.** *Round 15.* Not an offer of an account. The flock tears his memory, and the lit exit is a cliff. It is the first thing the demon does to him, and its method in small: it shows a way out. See [[The Opening Dream]].
 
 **① D1 — the ravens.** *Settled.* Fear: she is dead and her body was consumed. The [[Mirror Maze]] contact sheet develops as standing · rushing the camera · **a raven**; Otto drops into a beach mind-space, the sound of ravens, a group of them feeding on a body far off.
 
 **② D2 (LIVED) — the face.** Fear: forgetting her. He takes out a MISSING notice he printed himself, looks away, looks back, and the photograph is a different woman. He cannot say which was right. The mismatch is with his own memory, so there is nothing to check it against.
 
-**③ D3 (RADAR) — the bedroom.** Fear: that he killed her. He wakes at midnight after the dream and the camera is glaring purple — the sign that the filter can be activated. He raises it, and the whole bedroom is covered in fluorescent text: *she's dead* · *I killed her*. This is the first use of UV and it is turned on him immediately.
+**③ D3 (RADAR) — the bedroom.** Fear: that he killed her. He wakes at midnight after the dream and the camera is glaring purple — the sign that the filter can be activated. He raises it, and the whole bedroom is covered in fluorescent text: *she's dead* · *I killed her*. This is the first use of UV and it is turned on him immediately. 🔧 UV shows a true message, by the decision of 13 November 2026, and the demon cannot enter [[Room 202]], by Round 15. Whose hand wrote on the wall is open. See [[04 RADAR — Detection]].
 
 **④ D4 (REPAPER) — the ward.** Fear: **that he is not a detective** — that he has gone mad and none of this is his work. The chapter is built from mirrored twin puzzles throughout. It ends with Otto in a hospital gown or a straitjacket, locked in a psychiatric hospital: a second-layer bad dream underneath the dream. The Administration explains nothing and does not appear.
 
@@ -51,6 +55,8 @@ Note: the radial reveal is an optical effect and is fine. Floating noise shaders
 ## The raven
 
 The demon's eye, in the manner of the owl in *Twin Peaks*. It appears only a few times, always unremarked, sometimes only as a feather. Never in the Building's lawful layer, never explained. Its presence is the player's one reliable sign that they are inside something the demon made.
+
+**Round 15.** The flock in [[The Opening Dream]] is made of copies. The one that survives the flash is the true one. A raven also stands on the tape post at [[The Cliff]]. 🔧 Whether a flock in the first minutes spends the motif too early.
 
 ## What it tells Anna
 

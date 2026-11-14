@@ -18,11 +18,11 @@ This is the generative rule for the anomaly catalogue. No anomaly is invented fr
 
 | Location | Organ | Notes |
 |---|---|---|
-| Facade / [[Street and Tram]] | skin | The exterior, and the only surface seen from outside. The only non-interior assignment. |
+| Facade / [[Street and Bus]] | skin | The exterior, and the only surface seen from outside. The only non-interior assignment. |
 | [[Lobby]], ground floor | mouth | Intake. Holds the chain-locked well — see [[The Lightwell]]. |
 | [[Elevator]] | throat | The persona trigger under [[Persona Law]]. |
 | Floor 1 | gut | **The cafeteria** — see [[The Cafeteria]]. |
-| Floor 2 | **liver** | [[Room 202]], [[Room 212]], [[Room 232]]. The floor where the Building performs normalcy for the Agent. |
+| Floor 2 | **liver** | [[Room 202]], [[Room 212]], [[Room 232]]. The floor where the Building performs normalcy for the Suit. |
 | Floor 3 | eye | [[Pip]] in [[Room 313]]. Hosts the cataract operation — see [[Key Items]]. |
 | Floor 4 | ear | [[Nan]] in [[Room 434]], who still hears 1998. Also the source of [[05 REPAPER — The Twins]]' mirror and sound puzzles. |
 | **Floor 5** | **lung — the wound** | She drowned. [[The Sealed Fifth Floor]] is flooded. **The wound is in the lung; they are not separate.** Setting of [[06 ANNA — The Wound]]. |
@@ -37,7 +37,7 @@ Eight cards, six days plus the final night, after the DEED/ROTOR merge in Round 
 
 | Chapter | Day | Main location | Organ | Also entered or passed |
 |---|---|---|---|---|
-| [[01 №121 — Arrival]] | Cold Open | [[Street and Tram]], [[Lobby]], [[Room 202]] | skin, mouth | [[Elevator]] (throat) · the chain-locked well, walked past ([[The Lightwell]]) · [[The Ward]] (immune) |
+| [[01 №121 — Arrival]] | Cold Open | [[Street and Bus]], [[Lobby]], [[Room 202]] | skin, mouth | [[Elevator]] (throat) · the chain-locked well, walked past ([[The Lightwell]]) · [[The Ward]] (immune) |
 | [[02 SPOOL — The Job]] | D1 | [[Corridor Ring]] floor 2 · [[Room 242]] · [[Teaching Pocket]] · [[Mirror Maze]] | liver | [[Elevator]] · [[Lobby]] · [[The Ward]] · the darkroom in [[Room 202]] |
 | [[03 LIVED — The Name]] | D2 | [[The Cafeteria]] → the corridor to [[Room 232]] → the sleep maze | **gut, then liver** | [[Elevator]] · [[Lobby]] · [[The Ward]] |
 | [[04 RADAR — Detection]] | D3 | floor 3 · [[Room 313]] — operation one, **UV** | eye | [[Room 232]] · [[The Cafeteria]] · [[The Ward]] |

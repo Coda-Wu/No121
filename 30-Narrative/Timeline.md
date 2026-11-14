@@ -14,7 +14,7 @@ secret: true
 | **1991** | [[Mr. Vacancy]] takes [[Renner]] and [[Eve]], eleven years before the present, while [[Anna]] is a child. She is raised afterwards by [[The Aunt and Uncle]]. She never speaks of her parents to [[Otto]]; he never meets them and never sees a photograph of them. See [[The Curse]]. |
 | **1998** | [[Otto]] and [[Anna]] meet. Four years together. This is the year the vessel is thickest — see below. |
 | **8 August 2002** | Anna drowns at sea in a rip current while Otto is blinded by wind-blown sand. He clears his eyes to an empty beach. The wind is Mr. Vacancy's. Her body is never recovered. **The vessel forms in the same instant.** See [[The Death of Anna]] and [[The Body]]. |
-| **22 August 2002** | The present. Day fifteen. The Coast Guard stood down on Tuesday the 20th. That night Otto casts a rose into the sea and sees the Building on the water — [[01 №121 — Arrival]]. |
+| **22 August 2002** | The present. Day fifteen. The Coast Guard stood down on Tuesday the 20th. That night Otto takes her rose to [[The Cliff]], walks to the edge and jumps. He wakes on [[The Rock Path]] and walks to the Building — [[01 №121 — Arrival]]. *(Round 15. It was: he casts a rose into the sea and sees the Building on the water.)* |
 
 Anna vanished on a Thursday and Otto walks out on a Thursday: exactly two weeks, the same weekday, and nobody says so.
 
@@ -34,6 +34,8 @@ And the lead is **the investigator**. For fifteen days he has worked her disappe
 
 **That crack is where she gets in.** The rose leaves his hand, the petals drift, and he sees the Building standing in mist on the water, lit from within, with the street number legible. See [[The Real World]] and [[Key Items]].
 
+> [!warning] 🔧 **Round 15: the fifteenth night ends at a cliff, and he jumps.** See [[Round 15 Decision Record]], [[The Cliff]] and [[The Rock Path]]. The four paragraphs above were written for the beach at low water. The gesture with the rose, and the ten seconds in which he stops being a detective, have to be restaged at the edge. That is Coda's writing.
+
 **Nothing official happens.** There is no letter and no court. Death in absentia is not issued automatically anywhere, and a partner has no standing to petition for it. The trigger is the rose and nothing else.
 
 ## What the dates buy
@@ -41,7 +43,7 @@ And the lead is **the investigator**. For fifteen days he has worked her disappe
 - [[Nan]] lives in **1998** because that is the year Anna met Otto — the year an old woman would choose to stay in. She is not the keeper of a founding; she is Anna at the age she never reached, still living in the best year she had. That is why the exit in [[07 DEED — The Family]] runs through her year rather than the present: **1998 is where the vessel is thickest, because it holds the most of him.** Her biscuits are best before 1999 because nothing in that flat was ever asked to survive past the year.
 - **1991 is carried by paper**, never by a playable scene: the newspaper record of [[Renner]]'s fall, and the documentation of [[Eve]]'s death. See [[The Hidden Family]].
 - A **2002** present keeps film cameras, cassette recorders, corridor radios and the tram honest without paying for a period piece — and it is the only palindrome year within reach. The analog register in the [[Art Spec]] and [[Audio Spec]] is contemporary, not nostalgic.
-- Two invisible palindromes carry the prologue: the bedside clock reads **01:10**, and low water is at **20:02**.
+- Two invisible palindromes carry the prologue: the bedside clock reads **01:10**, and low water is at **02:20**.
 
 ## The real №121 (ratified as C1)
 
@@ -58,5 +60,7 @@ The vessel is **her memory of his stories about it**. This is why everything fee
 The Building is populated by Anna's dead. **Otto is the only living thing in it.** See [[The Hidden Family]].
 
 ## 🔧 Open
+- **Round 15.** Whether Otto survives the jump. This note says that he is the only living thing in the Building. The round neither confirms nor withdraws it.
+- **Round 15.** In the first night's dream he loses his name, his trade and his life with Anna. See [[The Opening Dream]].
 - How [[Renner]] and [[Eve]] were taken, and whether Anna's grief over them is load-bearing for how she died — [[The Curse]].
 - What [[The Aunt and Uncle]] were told, and whether either of them appears in the real-world layer at all.

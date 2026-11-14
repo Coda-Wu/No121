@@ -23,6 +23,8 @@ The Building exists in a different space-time from the world outside. Breaching 
 
 The door is torn and **the water comes in**. The Building floods. **Both [[Otto]] and [[Anna]] die** — he drowns her a second time and drowns with her. In the last moment before he dies he can see her corpse, far off in the ocean.
 
+**Round 15: this is where the plan is felt.** No character explains what [[Mr. Vacancy]] was doing with Otto. Here the player sees it: the Otto they sharpened is what is taken, and she with him. See [[Mr. Vacancy's Plan]]. 🔧 The staging is a writing-pass item.
+
 The **scale-shock vista** and the crowd are **superseded**: they were written under the earlier ontology, before the drowning was settled, and no longer apply.
 
 Reached from [[08 REDIVIDER — The Door]]. Shaded, not selected, by the [[Disposition Tracker]]. See [[Logline and Thesis]]: leaving isn't wrong; leaving carelessly is.

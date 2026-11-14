@@ -19,9 +19,11 @@ Named in Round 8. It forgives both sides and returns to the origin of the traged
 - [[Usher Burned]] — burning [[Mr. Vacancy]] in the final purge, which yields the eighth key item, **her breath**. **Unloseable:** arriving unprepared throws you back, never kills you.
 - **All eight [[Key Items]].** Reverse Film restores the body; the key items restore the person. Reverse Film without them gives [[Do I Know You — The Hollow Return]].
 
+**Round 15.** The burning of the usher is played as the Queen's last run, with [[Otto]] beside her. Residents whose side requests were completed help in it. They add no gate. See [[Her Side]] and [[Side Requests Completed]].
+
 ## What it means
 
-An **informed** breach: the Building's integrity is understood before the door is opened, so opening it does not tear her. The antagonist — her own decline, wearing a face — is purged first. The vessel is reborn open-skied, and [[Anna]] is at the tram stop on [[Street and Tram]].
+An **informed** breach: the Building's integrity is understood before the door is opened, so opening it does not tear her. The antagonist — her own decline, wearing a face — is purged first. The vessel is reborn open-skied, and [[Anna]] is at the tram stop on [[Street and Bus]].
 
 ## Settled in Round 3
 

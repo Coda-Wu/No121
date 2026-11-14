@@ -40,13 +40,28 @@ The eighth item is different in kind from the other seven: it is what drowning r
 
 Separate from the eight. **There is one rose, not five.**
 
-[[Otto]] brought [[Anna]] a rose most weeks while she was alive. The last one has stood in a flask in their flat since before the eighth, and he has changed its water every day since — thinking that if she came back she would see there were still flowers on the table. By day fifteen it is going anyway, and he cannot keep it.
+[[Otto]] brought [[Anna]] a rose most weeks while she was alive. The last one has stood in a vase in their flat since before the eighth, and he has changed its water every day since — thinking that if she came back she would see there were still flowers on the table. By day fifteen it is going anyway, and he cannot keep it.
 
-So he cuts it and gives it to the sea. That is not a search; it is the first thing he has done that admits she may not be coming back, and **letting it go is the ten seconds he stops being an investigator.** It is what lets her reach him at all. See [[Timeline]] and `70-Script/00 Prologue — №121/`.
+So he cuts it and takes it to the sea. 🔧 Round 15 moves this night to [[The Cliff]], where he jumps. Where the rose leaves his hand is to be restaged. That is not a search; it is the first thing he has done that admits she may not be coming back, and **letting it go is the ten seconds he stops being an investigator.** It is what lets her reach him at all. See [[Timeline]] and `70-Script/00 Prologue — №121/`.
 
-She keeps it. She preserves it fresh with her own blood, sealed in a glass jar, and gives it back to him in the heart in [[08 REDIVIDER — The Door]] as the revealing cutscene of that chapter — **flask to jar**, the only object in the game she deliberately hands over.
+She keeps it. She preserves it fresh with her own blood, sealed in a glass jar, and gives it back to him in the heart in [[08 REDIVIDER — The Door]] as the revealing cutscene of that chapter — **vase to jar**, the only object in the game she deliberately hands over. The vase is clay, from the real world. The jar is glass, from the sand of the beach. The difference is meant.
+
+## What the Building does with each item
+
+Draft, from the redesign of 13 November 2026. Because the Building is Anna, each faculty she regains makes the floors he has finished a little kinder. He never grows stronger. She does, around him. At the cut he sets the item on the desk beside the PC in [[Room 202]]. See [[Her Side]].
+
+| Item | What the Building does once she has it |
+|---|---|
+| Her voice | The telephone in 202 can ring. |
+| Her name | Nameplates and the mailbox grid read Salas. |
+| Her childhood | Crayon marks appear at child height beside wrong doors. |
+| Her doubt | Wrong doors flicker for a moment as he passes. |
+| Her love | Purged rooms keep a warm light. |
+| Her fear | Shadows stop at doors dressed for 1998. |
+| Her courage | The lights stay on along Renner's line. |
+| Her breath | The only item that gates the true ending. |
 
 ## 🔧 Open
-- Whether the seven shade the restored Anna or hard-gate. Current call: shade — a missing faculty shows in the epilogue.
+- Whether the seven shade the restored Anna or hard-gate. Current call: shade — a missing faculty shows in the epilogue. **Round 15:** the story does not advance without the object, so no faculty can be missing except her courage, on the deceived path of the bridge. See [[Requests]].
 - The physical form of each of the seven and its discovery scene.
 - Placement against the [[Scope Ledger]] word budget.
