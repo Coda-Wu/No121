@@ -17,7 +17,7 @@ status: draft
 
 None. This is the one clause that hands the player nothing.
 
-It reads as the most boring line in the document, which is its cover. **The twist: the Building has no outdoor area at all.** There is no exterior a tenant can reach — [[Street and Tram]] is the arrival screen and never a place to stand. So the rule is absolute, and [[Otto]] can never smoke and never drink, for the whole game.
+It reads as the most boring line in the document, which is its cover. **The twist: the Building has no outdoor area at all.** There is no exterior a tenant can reach — [[Street and Bus]] is the arrival screen and never a place to stand. So the rule is absolute, and [[Otto]] can never smoke and never drink, for the whole game.
 
 This is the mechanical home of [[The Cigarette Gag]]: the pack empties across six days and nothing is ever smoked.
 

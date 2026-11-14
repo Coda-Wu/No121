@@ -17,13 +17,17 @@ After *Dead Space*'s RIG: the state is on the character, not on the screen. Thre
 | Normal | clean |
 | Hit once | **light smoke** |
 | Hit twice | **burning black smoke** |
-| Hit three times | fail |
+| Hit three times | he comes to in [[Room 202]] as the Suit |
 
 🔧 **Legibility.** [[Art Spec]] puts sprites at 90–110 px, 6–7 heads, and the Eye Maze is isometric, so the sprite is smaller still. A shader confined to the *face* will not read at that size. Recommendation: play it at **silhouette** level — smoke rising off the head and shoulders, readable at a glance and from any distance — with facial detail as a bonus only where the sprite is large.
+
+**Round 15.** The Agent's face burns in black smoke at all times, and he keeps his reason. The face therefore cannot carry the count. Hits read on his outline: a wisp, then his edges, then his whole figure. See [[Persona Law]] and [[Shadows]].
 
 ## Failure
 
 In [[The Eye Maze]], three hits restarts at layer one. **This is not a death and not a blackout**: the scripted-blackout budget of 3–5 in [[The Day Loop]] is untouched, and [[Eve]] does not put him to bed for it. It is a soft restart, consistent with the vault's standing rule that the player is thrown back and never killed.
+
+On the walk, the third hit closes the picture like an eye and he comes to in [[Room 202]] as the Suit. He loses place and time, and nothing else. In [[The Opening Dream]] the count is ten, and it wakes him.
 
 ## It carries into the day
 
