@@ -18,17 +18,17 @@ Ratified in Round 15. See [[Round 15 Decision Record]]. It replaces [[The Work O
 
 ## Proposed, not yet ratified 🔧
 
-- **Three lines at most**, in handwriting. A line is a person, a place or a thing: "Elle, 232". "Behind 242". "Film".
-- **The first line is always the lead to the episode's object.** The others are optional.
+- **Three lines at most**, in handwriting. It functions as mission description.
+- **The first line is always the lead to the episode's object.** The others are optional side quests if any is activated.
 - **A line is added at the moment he learns something**, and struck through when it is done.
-- **One button raises it in his hand, over the scene.** The world does not pause.
+- **One button raises it in his hand, over the scene.** The world does not pause. 
 - **It never places a marker on a map.**
-- **It is written by the Suit and read by the Agent.** The work order used to carry instructions across the Shift. The note can carry them now. See [[Persona Law]].
+- **It is written by no one in the game**. We do not disclose who wrote it, and leave the player to guess.
 
 ## Inherited from the work order
 
-- It stays out of the view until called. Hold-to-peek on a controller. Cursorless, per [[Commercial Frame]].
-- It is suppressed where immersion matters: cutscenes, dreams, the mind-spaces in [[The Delusions]], the bridge, [[Anna's Flat]], the underwater heart, and the climax of any pocket.
+- It stays out of the view until called. Hold-to-peek on a controller. Cursorless, per [[Commercial Frame]]. In some cases (e.g., as a tutorial and in important scenes where instructions are expected), Otto feels it in his pocket and takes it out.
+- It is mostly suppressed where immersion matters: cutscenes, the mind-spaces in [[The Delusions]], the underwater heart, and the climax. Exceptions are allowed for certain plots, as part of the cutscene (not actively pulled out).
 
 ## On Day 1
 
