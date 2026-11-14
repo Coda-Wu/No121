@@ -20,7 +20,7 @@ How many of the **7** MISSING notices [[Otto]] has pocketed. Seven exactly — a
 
 **≥5 of 7** is half the [[Reverse Film]] grant.
 
-**The lock is Building-only.** The poster Otto flattens at the tram stop in the prologue is a real-world poster on a real wall and does not count against the seven — it is where the player first reads her name and sees her face. See [[The Real World]].
+**The lock is Building-only.** The poster at the bus stop, now inside a memory room, is a real-world poster on a real wall and does not count against the seven — it is where the player first reads her name and sees her face. See [[The Real World]].
 
 ## Surfaces where it shows
 - The first is pocketed in [[02 SPOOL — The Job]], inside the demo.

@@ -1,26 +1,31 @@
 ---
 type: system
-status: locked
+status: draft
 ---
 # The Ruler
 
-A self-anchoring reel: the hook fires left and bites the far wall itself; live line; fat pixel readout.
+> [!warning] **Retired in Round 15.** See [[Round 15 Decision Record]]. Measuring the Building was rejected in playtest as not fun. The Ruler, certification and the Payout are out of the game. This note is kept as the record.
 
-**Thesis: a nerve ending into offscreen space.**
+## What replaces it
 
-## Three scares (a scope lock — 3, no more)
+**Looking replaces measuring.** [[Otto]] finds anomalies in four ways, and none needs a tape. See [[The Walk]].
 
-1. **The Payout** (demo) — certifying corridor 2, the tape passes the Schedule's number and keeps paying out. [[02 SPOOL — The Job]].
+1. **Blueprint against corridor.** [[Pip]]'s crayon plan is true, and the corridor may differ from it. [[Clause 03 — The Later Plan]] becomes the clause that the demo teaches in full.
+2. **Door numbers.** A palindrome belongs to the Building. Any other number is the Vacancy's. See [[Doors]].
+3. **The lens.** The viewfinder glows toward the day's main anomaly only. See [[The Camera]].
+4. **The new sense.** Each ability re-reads screens that already exist. See [[Abilities and Gates]].
 
-   > [!note] 🔧 **Name provisional.** Reinstated in Round 14 after being briefly discarded. It was called *the Overrun*, which collided with the [[Teaching Pocket]]'s scripted **pacing-count overrun** — two different things under one word. *The Payout* is what a reel literally does, it is the verb already in the canon prose, and it sits beside *the Countdown* and *the Taut Line* as a description of the tape's behaviour. Alternatives: **the Runout** (film and tape both run out) or **the Unspooling** (which ties to the SPOOL card). Coda's call.
+## What this frees
 
-2. **The Countdown** (mid-game) — the number starts decreasing, accelerating: a reading of an approach. Slack at ~3 m.
-3. **The Taut Line** (late) — the extended tape lifts, pulled tight against empty air; the hook is clipped to nothing.
+- The scope lock of three ruler scares. See [[Scope Ledger]].
+- The certification lines on the work order, which is itself retired. See [[The Work Order HUD]].
 
-Plus ambient ±0.1 m shivers, rare.
+## What it leaves open
 
-## Rules
-- All measurements annotate [[Pip]]'s blueprint — see [[Night Phase]].
-- Certified work orders read MEASURED / SCHEDULED / DISCREPANCY / SIGNED, O — see [[The Day Loop]].
-- **A certificate never unlocks anything.** Certification closes a work-order line and fixes a measure under [[Clause 02 — The Measure]]. It is paperwork, not a key. See [[Locks and Openers]].
-- **Canon: a mismatch that doesn't open a case or a clause doesn't ship.**
+- 🔧 [[Clause 02 — The Measure]] was verified by the Ruler and taught in the demo. Its text can stand as a House Rule. Its teaching and its proof need a new home.
+- 🔧 [[Teaching Pocket]] taught Clause 02 through a scripted pacing count. Its lesson is to be set again.
+- 🔧 The three scares, the Payout, the Countdown and the Taut Line, were images worth keeping. Whether any returns in another form is Coda's.
+
+## Still canon
+
+**A mismatch that doesn't open a case or a clause doesn't ship.**

@@ -4,11 +4,11 @@ status: locked
 ---
 # The Camera
 
-The hero object. [[Renner]]'s rig, initials scratched in the plate, issued by dream requisition slip — "RETURN UPON TERMINATION OF TENANCY."
+The hero object. [[Renner]]'s rig, initials scratched in the plate, issued by dream requisition slip — "RETURN UPON TERMINATION OF TENANCY." **Round 15:** it reaches him in [[The Opening Dream]], falling out of the dark and glowing. 🔧 Whether the slip survives.
 
 One rig only: detachable flashgun, screw-on [[Filters]], film. **There is no tool-belt torch** — the flashgun is the game's only light, and [[Eve]] hands it over in the Dream 1 of [[02 SPOOL — The Job]], at the end of the demo.
 
-Before that, in D1, the camera takes photographs with **no flash at all**: the rooms are lit, nothing needs purging, and the sound is the shutter alone. Nobody remarks that a flash is missing.
+Before that, in D1, the camera takes photographs with **no flash at all**: the rooms are lit, nothing needs purging, and the sound is the shutter alone. Nobody remarks that a flash is missing. The player has held the flash once already, in the opening dream, and lost it on waking.
 
 ## Controls
 
@@ -30,9 +30,13 @@ A faint glow toward the MAIN narrative anomaly only. Side anomalies: eyes and de
 
 ## Film economy
 - Wake with ≥6 (dream restock, spool on the nightstand); bank to 10 max.
-- Careful shooters earn hidden print layers — the deepest requires good agitation in [[Night Phase]] — and one-night-only side anomalies.
+- Careful shooters earn hidden print layers and one-night-only side anomalies. 🔧 The deepest layer required good agitation in the darkroom. The darkroom is now played only twice, so the layer needs a new source. Proposed: a frame taken unseen, from behind. It needs a feel test. See [[Night Phase]].
 - Empty camera on the main anomaly → the board logs a pencil sketch; progression is never blocked, but there's no hidden layer. Side anomalies met filmless pin as rumours, re-shootable if they persist.
-- Work orders declare the official job count; the side-anomaly count is revealed only at night: "IRREGULARITIES LOGGED: 2 OF 4."
+- There is no work order, from Round 15. Progress is read on [[The Corkboard Thread]], at any time.
+
+## The darkroom
+
+**Played twice in the game**, by Round 15: the first captures in [[02 SPOOL — The Job]], and her undeveloped roll in [[06 ANNA — The Wound]]. At every other time, kept frames become prints on their own and land on [[The Corkboard Thread]]. See [[Night Phase]].
 
 ## Related
 [[Develop-to-Heal]] · [[Reverse Film]] · [[Mr. Vacancy]]'s camera immunity.

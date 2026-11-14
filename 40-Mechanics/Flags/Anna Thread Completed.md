@@ -12,7 +12,7 @@ status: seed
 
 ## What the Building remembers
 
-That the player has drawn the [[Anna]] thread to completion on [[The Corkboard Thread]] — the board the Agent brought in his own luggage, strung in his own years-old handwriting.
+That the [[Anna]] thread is complete on [[The Corkboard Thread]] — the board the Suit brought in his own luggage, strung in his own years-old handwriting. The player does not draw it. It is complete when its pins are full. *(Round 15.)*
 
 **One condition, two surfaces:** the [[Reverse Film]] gate and the photo-evidence gate.
 

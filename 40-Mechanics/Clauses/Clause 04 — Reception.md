@@ -15,7 +15,7 @@ status: draft
 
 ## Exploit (steering use)
 
-[[Persona Law]] written as property law, which closes the enforcement-fiction hole without an invisible wall. Agent Otto was received; Handyman Otto is on the staff roster. Doors that only open for a suit are obeying this clause, not a script.
+[[Persona Law]] written as property law, which closes the enforcement-fiction hole without an invisible wall. The Suit was received; the Agent is on the staff roster. Doors that only open for the Suit are obeying this clause, not a script.
 
 ## Sick-weird violations it diagnoses
 

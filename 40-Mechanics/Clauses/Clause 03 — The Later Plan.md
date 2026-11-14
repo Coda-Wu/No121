@@ -3,7 +3,7 @@ type: clause
 number: 03
 found-where: "[[Pip]]'s crayon map, [[Room 313]]"
 verified-by: "[[Pip]]'s blueprint vs the Administration's Schedule"
-taught: "D1 — demo, shown not taught"
+taught: "D1 — demo, fully (Round 15)"
 organ: "eye"
 status: draft
 ---
@@ -17,7 +17,7 @@ status: draft
 
 Why [[Pip]]'s blueprint beats the Administration's Schedule: the Schedule is simply older. Pip deposits a refined copy every morning, so the true map is always the most recent one.
 
-Shown in the demo and not explained. The player works out what it means when the two documents first disagree.
+**Round 15: this is the clause that the demo teaches in full.** Blueprint against corridor is how Otto looks, in place of measuring. See [[The Walk]].
 
 ## Sick-weird violations it diagnoses
 

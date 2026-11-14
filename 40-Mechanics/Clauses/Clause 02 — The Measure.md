@@ -2,12 +2,14 @@
 type: clause
 number: 02
 found-where: "[[Teaching Pocket]]"
-verified-by: "[[The Ruler]] · pacing count (scripted)"
-taught: "D1 — demo, fully"
+verified-by: "🔧 unset — the Ruler is retired (Round 15)"
+taught: "🔧 unset — no longer taught in the demo (Round 15)"
 organ: "skin"
 status: draft
 ---
 # Clause 02 — The Measure
+
+> [!warning] **Round 15.** [[The Ruler]] and certification are retired, and [[Clause 03 — The Later Plan]] is now the clause the demo teaches. The text below can stand as a House Rule. Its exploit and its proof are out of date. 🔧 Coda's call.
 
 ## Text (legalese as literature)
 
