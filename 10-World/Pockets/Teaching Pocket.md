@@ -10,7 +10,7 @@ status: locked
 
 ## Function
 
-Demo, D1. The corridor that shouldn't fit behind [[Room 242]]'s far door. **The far door is not locked and never has been** — a work order routes Otto into 242 and he opens it. **Exempt from the ≤6 bespoke-pocket cap** — it is the tutorial for lawful weirdness.
+Demo, D1. The corridor that shouldn't fit behind [[Room 242]]'s far door. **The far door is not locked and never has been** — a lead on [[The Pocket Note]] brings Otto into 242 and he opens it. **Exempt from the ≤6 bespoke-pocket cap** — it is the tutorial for lawful weirdness.
 
 One gimmick: a **scripted pacing-count overrun** — gibberish counting, an air change, no minigame. Pacing-count is scripted-only, everywhere, forever.
 
@@ -20,9 +20,9 @@ Beats: the overrun → the nest → [[Clause 02 — The Measure]]. The exit is t
 
 ## Dressing A (performance) / Dressing B (truth)
 
-Handyman only; the Agent is never routed here.
+Agent only; the Suit is never routed here.
 
 ## Anomalies & cases hosted
-- [[Clause 02 — The Measure]] — taught fully in the demo.
+- 🔧 Round 15: [[The Ruler]] is retired, and [[Clause 03 — The Later Plan]] is now the clause the demo teaches. This pocket's lesson is to be set again. It was: [[Clause 02 — The Measure]], taught fully in the demo.
 - 🔧 No light verb on D1 — see above and [[Purge and Light]].
 - [[02 SPOOL — The Job]].

@@ -14,7 +14,7 @@ The demo flat whose **far door** shouldn't fit what's behind it — the mouth of
 
 ## Dressing A (performance) / Dressing B (truth)
 
-The uniform sees the corridor that shouldn't fit; the suit is not routed here.
+The Agent sees the corridor that shouldn't fit; the Suit is not routed here.
 
 ## Anomalies & cases hosted
 - [[Teaching Pocket]] — the scripted pacing-count overrun, the nest, [[Clause 02 — The Measure]]; the exit is three steps away. The torch purge is retired; the nest is left unresolved.

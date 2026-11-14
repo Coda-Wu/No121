@@ -10,7 +10,7 @@ status: locked
 
 ## Function
 
-The Building's floor topology, and the hunting ground of [[The Day Loop]]. Each floor is a **rectangular ring**: four side-view faces, perspective-rotating corners, doors set into the faces, lappable endlessly.
+The Building's floor topology, and the ground of [[The Walk]]. Each floor is a **rectangular ring**: four side-view faces, perspective-rotating corners, doors set into the faces, lappable endlessly.
 
 A ring floor counts as **1 base scene** in the [[Art Spec]] ledger — the four faces are variant-cheap, rendered from shared tilesets, not separate scenes.
 
@@ -18,10 +18,10 @@ Scope: corridors and palindrome rooms only. Vacant flats are doors, not spaces; 
 
 ## Dressing A (performance) / Dressing B (truth)
 
-Performance for the Agent, truth for the uniform — see [[Persona Law]].
+Performance for the Suit, truth for the Agent — see [[Persona Law]].
 
 ## Anomalies & cases hosted
 - Lap-anomaly menu: five-corner laps · a face occurring twice · direction-dependence (a lawful clause: "the third floor is to be walked against the clock" — see [[Clause 08 — Against the Clock]]).
 - ≥1 blueprint-comparison anomaly per floor, against [[Pip]]'s map.
-- [[The Ruler]]'s **Payout**, certifying corridor 2 in the demo.
+- Seven kinds of door, read from the corridor. See [[Doors]]. *(Retired in Round 15: [[The Ruler]]'s Payout.)*
 - [[Elle]] watches this corridor all night from [[Room 232]] and has never seen it change.

@@ -30,3 +30,7 @@ Elle's insomnia is cured; [[Mr. Vacancy]] is named from her mouth; she writes **
 Takes the pocket slot that was free. See [[Scope Ledger]].
 
 🔧 Open: appearance and mechanism of faking sleep, and what the nightmare's detection rules are.
+
+## Redesign, 13 November 2026
+
+The maze leaves [[Otto]] **Dreamwalk**: seated, he shuts his eyes and gets up as the dreamer. Its rule in the redesign is *sleep to travel, wake to steer*. See [[Abilities and Gates]]. The Sleeper is first met here. See [[Shadows]]. 🔧 The mechanism above, faking sleep while moving, is to be reconciled with this.

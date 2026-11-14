@@ -16,7 +16,7 @@ Failure is a **scripted blackout**: [[Eve]] puts you to bed. Blackouts are cappe
 
 ## Dressing A (performance) / Dressing B (truth)
 
-Handyman only; sick-weird throughout.
+Agent only; sick-weird throughout.
 
 ## Anomalies & cases hosted
 - Shadow variants requiring different [[Filters]].

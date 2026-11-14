@@ -18,7 +18,7 @@ Long horizontal traverse, left to right: the tram stop at one end, the strandlin
 
 | Grade | When | What it carries |
 |---|---|---|
-| **Night, low water, fog and easing rain** | the prologue, 22 August 2002, 20:02 | The rose. See `70-Script/00 Prologue — №121/00c The Beach.md`. |
+| **Night, low water, fog and easing rain** | the prologue, 22 August 2002, 02:20 | The rose. See `70-Script/00 Prologue — №121/00c The Beach.md`. *(Round 15: the fifteenth night moves to [[The Cliff]]. 🔧 Whether this grade is still used.)* |
 | **Day, 8 August 2002** | interstitial after D2 — the search that first night | The game's only visit to the day she died, landing before the player knows what they are looking at. See [[The Real World]]. |
 | **Mind-space** | the beach as [[Anna]] holds it | 🔧 Unplaced. Reserved in the Round 7 audit in `10-World/_Index.md`. |
 
@@ -39,5 +39,6 @@ He lights one getting off the tram — **the last cigarette he ever smokes** —
 - The hinge into the mind-world: close on Otto's face, the light changes, the tram. See `01 The Transition`.
 
 ## 🔧 Open
+- **Round 15.** The fifteenth night is now at [[The Cliff]], and it ends in a jump. The cigarette, the tape, the bird and the mirage were written for this beach. Which of them move to the cliff is Coda's. The beach keeps 8 August 2002.
 - Whether the mind-space grade is a distinct dressing or a fourth.
-- Whether the endings return here or stay at [[Street and Tram]].
+- Whether the endings return here or stay at [[Street and Bus]].

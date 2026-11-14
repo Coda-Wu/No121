@@ -10,7 +10,7 @@ status: locked
 
 ## Function
 
-The service lift — **the only trigger of the Shift** in [[Persona Law]]. The ride is a threshold ritual, and it works even floor 2 → floor 2. Never shown as a costume change; never remarked on. Two gibberish-synth formants tell the player which self stepped out.
+The service lift — **the only trigger of the Shift** in [[Persona Law]]. The ride is a threshold ritual, and it works even floor 2 → floor 2. Never shown as a costume change; never remarked on. Two gibberish-synth formants tell the player which self stepped out. From Round 15 the two selves are the Suit and the Agent, and what changes is his face. See [[Persona Law]].
 
 Counted inside the ≤30 base-scene ledger in the [[Art Spec]].
 

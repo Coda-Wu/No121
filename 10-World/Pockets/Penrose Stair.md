@@ -18,7 +18,7 @@ Trimmed set-piece on a **single static screen**: 2–3 mixed-persona duplicates 
 
 ## Dressing A (performance) / Dressing B (truth)
 
-Both at once — the duplicates are split across suit and uniform, which is the puzzle. See [[Persona Law]].
+Both at once — the duplicates are split across the Suit and the Agent, which is the puzzle. See [[Persona Law]].
 
 ## Anomalies & cases hosted
 - Persona-matched switches as the lock.

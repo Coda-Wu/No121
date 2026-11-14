@@ -16,6 +16,8 @@ The arrival screen, and the only exterior. **One screen, two dressings, joined b
 
 The bus bell is one of the diegetic crossfade sources in the [[Audio Spec]], and it is the hinge of the transition above.
 
+> [!warning] 🔧 **Round 15.** Otto now reaches the Building on foot, along [[The Rock Path]], after the jump from [[The Cliff]]. The bus belongs to the real world: it takes him from the bus stop to the cliff. The transition by a close shot and a bell is retired. Whether the bell keeps a use, and what this screen is for, is open. See [[Round 15 Decision Record]].
+
 Under [[The Organ Map]] the facade is the **skin**.
 
 ## Dressing A (performance) / Dressing B (truth)
