@@ -24,7 +24,7 @@ The first scare, and it is arithmetic. A nerve ending into offscreen space.
 
 <!-- Canon extract, card SPOOL. Cut in Round 13 and reinstated in Round 14; the beat is renamed from the Overrun to 🔧 the Payout. Claude's wording, free to rewrite. -->
 
-<!-- lang:zh source-hash:b0e158f3 machine -->
+<!-- lang:zh source-hash:54c54416 machine -->
 > [!quote]- 中文（机器译稿）
 > **卷尺不停地放出去**
 >

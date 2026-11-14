@@ -24,7 +24,7 @@ Lawful weird taught as a lesson. Nothing attacks. The wrongness is that the coun
 
 <!-- Canon extract from the world bible, card SPOOL / §12.1. Claude's wording, free to rewrite. -->
 
-<!-- lang:zh source-hash:f0f6c572 machine -->
+<!-- lang:zh source-hash:df14f9f0 machine -->
 > [!quote]- 中文（机器译稿）
 > **242 后面的走廊**
 >

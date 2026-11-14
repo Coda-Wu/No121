@@ -30,8 +30,12 @@ The harshest critic in the building drafts like a municipal architect and signs 
 
 <!-- CUT in Grill Round 5: Pip is non-verbal and does not rate anything. The Pip's Ratings anecdote note was retired. Kept per PROTOCOL — nothing is ever deleted. -->
 
-<!-- lang:zh source-hash:5e20e787 machine -->
+<!-- lang:zh source-hash:69d9aff5 machine -->
 > [!quote]- 中文（机器译稿）
+> **第 9 轮起完全退役。** [[Pip]] 失明，尚未学会说话：他不说话，不打分，也不评判任何东西。「皮皮的评分」那条趣闻笔记已删除，所有引用一并移除。这张卡上没有一样是正典。
+>
+> 保留这个文件，只是因为 `35-Corkboard/PROTOCOL.md` 规定任何东西都不删除。说一声，它就走。
+>
 > **四分。糊了。**
 >
 > **发生了什么：**
