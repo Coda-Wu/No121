@@ -8,6 +8,7 @@ speakers: ["[[Leon]]", "[[Otto]]"]
 status: seed
 ---
 # Lobby — Leon
+<!-- R15: this scene is now a memory room. A second, optional Leon scene is needed for Day 1: he asks how Otto feels and points him toward his memory. See [[02 SPOOL — The Job]]. -->
 
 *The [[Lobby]]. [[Leon]] behind the desk. The mailbox grid is visible and unremarked.*
 

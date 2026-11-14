@@ -6,9 +6,10 @@ status: seed
 
 Generated map of content. Ask Claude Code to regenerate.
 
-## Notes (8)
+## Notes (10)
 
-- [[Scope Ledger]] — **the locks**, the scope-tax rule, the systems freeze, the paid ledger.
+- [[Round 15 Decision Record]] — every Round 15 decision, where it lives, and what is open.
+- [[Scope Ledger]] — **the locks**, the scope-tax rule, the systems freeze, the paid ledger. Round 15 is listed as not yet paid for.
 - [[Commercial Frame]] — engine, platforms, length/price, demo, endings, reserves.
 - [[Art Spec]] — pixel spec, palette/LUT, dressings, and the ≤30 screen ledger.
 - [[Audio Spec]] — two-layer hybrid, 8–10 loops, gibberish synth, signature sounds.
@@ -28,7 +29,7 @@ The engine's text tables, derived from `70-Script/` by `tools/build_locale.py`. 
 
 ## The locks at a glance
 
-≤30 base scenes · ~2 dressings avg · ≤15,000 words · 9–11 clauses · ≤6 bespoke pockets · 8–10 music loops · 3–5 blackouts · 3 ruler scares · ≤3 meter beats · festering cap 2 · 7 MISSING notices · ~30 corkboard nodes.
+≤30 base scenes · ~2 dressings avg · ≤15,000 words · 9–11 clauses · ≤6 bespoke pockets · 8–10 music loops · 3–5 blackouts · ruler scares retired · ≤3 meter beats · festering cap 2 · 7 MISSING notices · ~30 corkboard nodes.
 
 Any addition names its deletion first — including additions to this vault.
 

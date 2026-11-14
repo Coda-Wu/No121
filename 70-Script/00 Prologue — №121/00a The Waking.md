@@ -8,6 +8,7 @@ speakers: ["[[Otto]]", "RADIO"]
 status: seed
 ---
 # The Waking
+<!-- R15: this scene is now a memory room, found during SPOOL. The game opens on the dream. Per Coda: the PC will not launch Queen; he takes a rose, a tape recorder and a box of cigarettes; the telephone plays the stand-down; the radio teaches frequency tuning and reports the closed beach and the storm. The vase is clay. See [[The Memory Rooms]]. Script text unchanged. -->
 
 
 开场动画

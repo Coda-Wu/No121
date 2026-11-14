@@ -8,6 +8,7 @@ speakers: ["[[Otto]]"]
 status: seed
 ---
 # The Transition
+<!-- R15: retired. The transition by a close shot and a bell is replaced by the jump and the walk along [[The Rock Path]]. Kept as the record. -->
 
 *Night. The beach, in fog, at low water — the rose has just gone into the sea. Close on [[Otto]]'s face. The camera pushes in; the background and the light change behind him; the camera pulls out and he is sitting in a moist tram. The bell is the hinge.*
 

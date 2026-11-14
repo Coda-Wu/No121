@@ -8,6 +8,7 @@ speakers: ["[[Otto]]"]
 status: seed
 ---
 # The Teaching Pocket
+<!-- R15: the pocket's lesson is to be set again, since the Ruler is retired. See [[Teaching Pocket]]. -->
 
 *Behind [[Room 242]]'s far door. The far door is not locked and never was. Gibberish counting; the air changes; no minigame.*
 

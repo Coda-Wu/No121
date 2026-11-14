@@ -25,8 +25,8 @@ English words are shown alongside for localisation. Working ratio: **1.6 Han cha
 | Card | Han chars |
 |---|---|
 | №121 | 368 |
-| SPOOL | 0 |
 | ? | 0 |
+| SPOOL | 0 |
 
 ## Spoken, by speaker
 
@@ -44,7 +44,7 @@ English words are shown alongside for localisation. Working ratio: **1.6 Han cha
 | Scene | Han chars | EN words |
 |---|---|---|
 | 00 Prologue — №121 / 00a The Waking | 153 | 0 |
-| 00 Prologue — №121 / 00b The Tram Stop | 0 | 0 |
+| 00 Prologue — №121 / 00b The Bus Stop | 0 | 0 |
 | 00 Prologue — №121 / 00c The Beach | 215 | 11 |
 | 00 Prologue — №121 / 01 The Transition | 0 | 0 |
 | 00 Prologue — №121 / 02 Lobby — Leon | 0 | 0 |

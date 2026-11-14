@@ -8,6 +8,7 @@ speakers: ["[[Otto]]"]
 status: seed
 ---
 # The Beach
+<!-- R15: the fifteenth night moves from the beach to [[The Cliff]] and ends in a jump. This scene needs restaging by Coda as two memory rooms: the cliff, and the cliff edge. A new scene follows it: [[The Rock Path]]. Script text unchanged. -->
 
 *Low water, 02:20. Fog, the rain easing. [[Otto]] lights a cigarette getting off the bus — the last one he ever smokes. He walks the strandline and does not search it. He steps over the snapped search-sector tape. A bird is awake that should not be.*
 

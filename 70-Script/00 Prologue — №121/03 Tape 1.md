@@ -8,6 +8,7 @@ speakers: ["[[Otto]]"]
 status: seed
 ---
 # Tape 1
+<!-- R15: open. Whether a first-night tape survives inside the memory of 202 is Coda's call. See [[Tapes to Anna]]. -->
 
 *[[Room 202]], night. The recorder. [[Pip]]'s blueprint arrives under the door mid-tape.*
 

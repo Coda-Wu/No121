@@ -8,6 +8,7 @@ speakers: ["[[Renner]]", "[[Otto]]"]
 status: seed
 ---
 # Dream 0 — The Calling
+<!-- R15: retired as Renner's Calling. The dream that opens the game is [[The Opening Dream]]: the fall, the ravens, the camera, the exit that is a cliff, the second fall. A new script file is needed for it. -->
 
 *[[The Ward]]. A voice with no body. The camera is issued with a requisition slip.*
 

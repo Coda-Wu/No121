@@ -9,6 +9,7 @@ speakers:
 status: seed
 ---
 # The Tram Stop
+<!-- R15: this scene is now a memory room. He smokes here, sees the notice he pasted, and takes the bus to the cliff. See [[The Memory Rooms]]. Script text unchanged. -->
 
 *Night, rain, one light. Nobody else. [[Otto]] flattens his own MISSING poster — rain-swollen, peeling — back onto the board. It will not stay. The bus comes.*
 
