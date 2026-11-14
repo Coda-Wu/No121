@@ -23,7 +23,7 @@ Named in Round 8. It forgives both sides and returns to the origin of the traged
 
 ## What it means
 
-An **informed** breach: the Building's integrity is understood before the door is opened, so opening it does not tear her. The antagonist — her own decline, wearing a face — is purged first. The vessel is reborn open-skied, and [[Anna]] is at the tram stop on [[Street and Bus]].
+An **informed** breach: the Building's integrity is understood before the door is opened, so opening it does not tear her. The antagonist — her own decline, wearing a face — is purged first. The vessel is reborn open-skied, and [[Anna]] is at the bus stop on [[Street and Bus]].
 
 ## Settled in Round 3
 

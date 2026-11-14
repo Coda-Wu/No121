@@ -4,7 +4,7 @@ status: locked
 ---
 # Audio Spec
 
-**Two-layer hybrid:** jazz-adjacent motifs (normal/domestic) + drone and musique-concrète (wrongness), with **diegetic crossfade sources** — the tram bell, radiators, the elevator hum, the radio. The radio is [[Renner]].
+**Two-layer hybrid:** jazz-adjacent motifs (normal/domestic) + drone and musique-concrète (wrongness), with **diegetic crossfade sources** — the bus bell, radiators, the elevator hum, the radio. The radio is [[Renner]].
 
 - **8–10 loops** — a scope lock, see [[Scope Ledger]].
 - **No VO.** Gibberish synth per character: pitch and formant presets, ~10 in all. **Two formants for [[Otto]]'s personas** — the player hears the Shift in [[Persona Law]]. "Her" tape voice is achievable without casting ([[Anna]]).

@@ -23,7 +23,7 @@ Three screens, all of them reuses:
 | Screen | Charged against |
 |---|---|
 | **Otto and Anna's flat** — two faces of four, the other two withheld until D5 | [[Anna's Flat]], already inside the scene audit. She rebuilds it out of his memory; the player has only ever seen half. |
-| **The tram stop**, night and rain | [[Street and Bus]] |
+| **The bus stop**, night and rain | [[Street and Bus]] |
 | **The beach**, low water, fog | [[The Coast]] — one asset at three grades |
 
 **Zero NPCs.** The only voices are a radio, an inbox and his own tape. The isolation is the payload.
@@ -36,7 +36,7 @@ The full beat list and script live in `70-Script/00 Prologue — №121/`.
 
 - The coast where [[Anna]] drowned on 8 August 2002, and where her body still lies — [[The Body]].
 - Otto's two-week search: the coastline, the hospitals, the posters, an address on a notice that nobody legitimate has answered.
-- The **MISSING notices**, which Otto printed and posted himself — see [[MISSING Notices Collected]]. The seven collected inside the Building are the lock; the one he flattens at the tram stop in the prologue is a real-world poster and does not count against it.
+- The **MISSING notices**, which Otto printed and posted himself — see [[MISSING Notices Collected]]. The seven collected inside the Building are the lock; the one he flattens at the bus stop in the prologue is a real-world poster and does not count against it.
 - The Coast Guard's twelve-day search, stood down on Tuesday 20 August. Snapped search-sector tape on a half-buried stake is still on the beach, because collecting it is nobody's job. **It is not a cordon** — a police line would tell the player a crime happened, and [[The Death of Anna]] is locked as neither crime nor negligence.
 - **One rose**, cut from the vase in the flat and taken to the cliff on the fifteenth night. It is what lets her reach him. See [[Key Items]].
 

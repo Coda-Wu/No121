@@ -12,7 +12,7 @@ status: seed
 
 The beach where [[Anna]] drowned on 8 August 2002, and where her body still lies — [[The Body]]. **One asset, re-rendered.** Every appearance of the sea in the game is this screen at a different grade, per the LUT rule in the [[Art Spec]], so it costs the scene audit nothing beyond the slot already reserved for the beach.
 
-Long horizontal traverse, left to right: the tram stop at one end, the strandline through the middle, the spot and the waterline at the other.
+Long horizontal traverse, left to right: the bus stop at one end, the strandline through the middle, the spot and the waterline at the other.
 
 ## Dressings — three grades
 
@@ -32,11 +32,11 @@ Long horizontal traverse, left to right: the tram stop at one end, the strandlin
 
 ## The cigarette
 
-He lights one getting off the tram — **the last cigarette he ever smokes** — and takes the last drag after the rose. It burns for the length of the traverse and is the scene's only timer, with no UI. See [[The Cigarette Gag]] and [[Clause 01 — Smoking and Alcohol]].
+He lights one getting off the bus — **the last cigarette he ever smokes** — and takes the last drag after the rose. It burns for the length of the traverse and is the scene's only timer, with no UI. See [[The Cigarette Gag]] and [[Clause 01 — Smoking and Alcohol]].
 
 ## Anomalies & cases hosted
 - The mirage: the Building standing in mist on the water, lit from within, the street number legible. It fires when the rose leaves his hand — see [[Timeline]] and [[01 №121 — Arrival]].
-- The hinge into the mind-world: close on Otto's face, the light changes, the tram. See `01 The Transition`.
+- The hinge into the mind-world: close on Otto's face, the light changes, the bus. See `01 The Transition`.
 
 ## 🔧 Open
 - **Round 15.** The fifteenth night is now at [[The Cliff]], and it ends in a jump. The cigarette, the tape, the bird and the mirage were written for this beach. Which of them move to the cliff is Coda's. The beach keeps 8 August 2002.

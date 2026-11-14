@@ -42,7 +42,7 @@ And the lead is **the investigator**. For fifteen days he has worked her disappe
 
 - [[Nan]] lives in **1998** because that is the year Anna met Otto — the year an old woman would choose to stay in. She is not the keeper of a founding; she is Anna at the age she never reached, still living in the best year she had. That is why the exit in [[07 DEED — The Family]] runs through her year rather than the present: **1998 is where the vessel is thickest, because it holds the most of him.** Her biscuits are best before 1999 because nothing in that flat was ever asked to survive past the year.
 - **1991 is carried by paper**, never by a playable scene: the newspaper record of [[Renner]]'s fall, and the documentation of [[Eve]]'s death. See [[The Hidden Family]].
-- A **2002** present keeps film cameras, cassette recorders, corridor radios and the tram honest without paying for a period piece — and it is the only palindrome year within reach. The analog register in the [[Art Spec]] and [[Audio Spec]] is contemporary, not nostalgic.
+- A **2002** present keeps film cameras, cassette recorders, corridor radios and the bus honest without paying for a period piece — and it is the only palindrome year within reach. The analog register in the [[Art Spec]] and [[Audio Spec]] is contemporary, not nostalgic.
 - Two invisible palindromes carry the prologue: the bedside clock reads **01:10**, and low water is at **02:20**.
 
 ## The real №121 (ratified as C1)

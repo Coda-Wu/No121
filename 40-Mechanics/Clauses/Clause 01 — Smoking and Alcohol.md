@@ -25,7 +25,7 @@ This is the mechanical home of [[The Cigarette Gag]]: the pack empties across si
 
 The clause is not housekeeping. **The Building is curing him.**
 
-[[Otto]] has been a heavy smoker for fifteen days — the ashtray beside the computer in the prologue is the evidence, and he is smoking indoors, which [[Anna]] never let him do. He lights his last cigarette getting off the tram at [[The Coast]] and takes the last drag after the rose goes into the sea.
+[[Otto]] has been a heavy smoker for fifteen days — the ashtray beside the computer in the prologue is the evidence, and he is smoking indoors, which [[Anna]] never let him do. He lights his last cigarette getting off the bus at [[The Coast]] and takes the last drag after the rose goes into the sea.
 
 Then [[Leon]] makes it disappear in the [[Lobby]]. That is not a magic trick; **it is the first treatment**, and the vanish that opens [[The Cigarette Gag]] is the clause being enforced on him before he has read it.
 
