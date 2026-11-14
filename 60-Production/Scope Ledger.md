@@ -17,7 +17,7 @@ The locks. **The scope-tax rule: any mid-project addition must name its deletion
 | Bespoke pockets            | ≤6 (teaching pocket exempt)                            | `10-World/Pockets/`                                    |
 | Music loops                | 8–10 for main (demo), 2-3 for queen (demo)             | [[Audio Spec]]                                         |
 | Scripted blackouts         | 3–5                                                    | [[The Day Loop]]                                       |
-| Ruler scares               | 3                                                      | [[The Ruler]]                                          |
+| Ruler scares               | retired in Round 15                                    | [[The Ruler]]                                          |
 | Meter beats                | ≤3                                                     | [[The Day Loop]]                                       |
 | Festering cap              | 2 hatched alive at once                                | [[Festering]]                                          |
 | MISSING notices            | 7                                                      | [[MISSING Notices Collected]]                          |
@@ -40,6 +40,26 @@ New systems file to the post-launch parking lot. New pitches route to [[Workshop
 - **Counted unit changed to the Han character (Round 12).** The script is written in Chinese, which has no word boundaries, so the old whitespace count read a 250-character monologue as three words. `tools/wordcount.py` now counts Han characters as the primary unit and reports English words alongside for localisation. Working ratio **1.6 Han characters per English word**, so the ≤15,000-word lock is a **≤24,000-character ceiling**, and Coda has set a **≥10,000-character floor** as the target volume. The lock itself is unchanged — only the unit it is measured in. See [[_Word Count]].
 
 - 🔧 **Pending against the spoken budget:** the [[The Tomb Reading]] misdirection slate, [[The Hidden Family]] concealment channels, and [[Key Items]] discovery scenes.
+
+## Round 15 — not yet paid for
+
+See [[Round 15 Decision Record]]. **Nothing below has named its deletion.** Coda's call on each line.
+
+**Added**
+- **Base scenes.** [[The Loft]], [[The Back Stair]], [[The Water Column]] and [[Room 222]]. [[The Cliff]], in two drawn scenes, and [[The Rock Path]]. A space for [[The Opening Dream]]. Small places: the lodge, the post room, the pantry and the cold store. The audit stood at 27 of 30.
+- **Memory rooms.** Six to eight. Five are drawn. They reuse the prologue's screens.
+- **Dressings.** Each drowned room is a third dressing of a room that has two.
+- **Systems, under the freeze.** Four abilities: Dreamwalk, Echo, Fold and the level. The roster in [[Shadows]]. [[The Pocket Note]] and [[Requests]]. The changing forms of the Queen game in [[Her Side]].
+- **Words.** Six side requests at about 150 words each, and a line for each board post, about 600 words.
+- **Flags.** [[First Dream Outcome]], [[Memory Rooms Found]], [[Side Requests Completed]].
+
+**Removed**
+- [[The Ruler]], its three scares and certification.
+- [[The Work Order HUD]].
+- [[Night Phase]] as a played routine, with daily developing, pinning and the alarm.
+- The corkboard as a deduction system, with its hidden link graph and conclusion tiers.
+- The Agent's uniform as a second costume.
+- The continuous playable prologue.
 
 ## Paid ledger to date
 - Portrait cut → funded the purge verb.

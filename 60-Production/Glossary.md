@@ -22,7 +22,8 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 | the Administration | 管理处 | bureaucratic register | seed |
 | the Superintendent | 管理员 | Leon/Noel's post | seed |
 | Handyman / HANDYMAN (ACTING) | 维修工 / 维修工（代理） | | seed |
-| the Agent | 探员 | investigator flavor | seed |
+| the Agent | 探员 | Round 15: now names the self with the burning face, formerly the Handyman. 🔧 Coda to confirm the term | seed |
+| the Suit | 🔧 | Round 15: the normal self, formerly Agent Otto | seed |
 | the Shift | 转换 | alt: 换乘 (transit flavor, deadpan) | seed |
 | the Haze | 迷雾 | crossing memory-blur | seed |
 | House Rules | 楼规 | clauses: 条款 | seed |
@@ -44,7 +45,7 @@ Binding reference for `/translate`. Rows marked `ratified` are law; `seed` rows 
 | the Ruler | 量尺 | the instrument; the tape itself 卷尺 | seed |
 | the Schedule | 排程表 | the Administration's official plan — the one that lies | seed |
 | blueprint | 蓝图 | Pip's, the true one | seed |
-| persona (Agent / Handyman) | 人格 | the Shift swaps 人格, not costumes | seed |
+| persona (Suit / Agent) | 人格 | the Shift swaps 人格. Round 15 renamed the two selves and removed the uniform | seed |
 | doppelganger | 分身 | always wearing the 人格 Otto is not | seed |
 | the usher | 引路人 | Mr. Vacancy's endgame role | seed |
 | Master Fuse | 总保险丝 | | seed |

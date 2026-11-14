@@ -53,3 +53,18 @@ Round 1 of the narrative grill reopened the fiction beneath the closed systems t
 - **Protagonist surname**, if any — [[Otto]].
 - **Steam page copy** — [[Positioning]].
 - **Trailer production** — post-vertical-slice, [[Schedule]].
+
+## 🔧 Opened by Round 15 (Nov 2026)
+
+Round 15 rebuilt the story's structure and recorded the redesign of Otto's main world. The full list of what it left open is in [[Round 15 Decision Record]]. The items that need a workshop:
+
+- **The scope tax.** Nothing in the round has named its deletion. See the Round 15 section of the [[Scope Ledger]].
+- **The police markings at [[The Cliff]]** against the lock on [[The Death of Anna]].
+- **Whether Otto survives the jump**, and how the ten seconds with the rose are restaged. See [[Timeline]].
+- **Her side**, one form for each chapter, and the redesign of the Queen game. See [[Her Side]].
+- **The permutation input**, now that the alarm is gone. Parked by Coda.
+- **The opening of [[07 DEED — The Family]].** Parked by Coda.
+- **Four feel tests:** the opening dream; the pocket note with the board that fills itself; the print layer earned by an unseen frame; the Suit beginning to see shadows.
+- **The hand on the bedroom wall** in [[04 RADAR — Detection]].
+- **[[Clause 02 — The Measure]] and the [[Teaching Pocket]]**, which lost their proof and their lesson with [[The Ruler]].
+- **The mazes are not atomized:** the Blot, the Fold, the blind mazes, the lung maze, the Turn.

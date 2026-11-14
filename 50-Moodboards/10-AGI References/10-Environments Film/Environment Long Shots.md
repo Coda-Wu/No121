@@ -37,7 +37,7 @@ Run the same prompt twice, changing only `[Dressing]`. The pair is the deliverab
 | a basement electrical room, junction box, warm hum         | [[Electrical Room]]        |         |
 | a sealed floor behind plastic sheeting and notices         | [[The Sealed Fifth Floor]] |         |
 | a furnished room that is on no floor plan                  | [[Anna's Flat]]            |         |
-| a street at dusk with a tram stop, five-storey facade      | [[Street and Tram]]        | ✓       |
+| a street at dusk with a tram stop, five-storey facade      | [[Street and Bus]]        | ✓       |
 
 ## [Architecture detail]
 

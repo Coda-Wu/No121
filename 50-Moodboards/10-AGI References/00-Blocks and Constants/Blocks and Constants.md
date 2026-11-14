@@ -56,8 +56,8 @@ Add `people` for empty environment shots; remove it for character prompts.
 
 Every persona-visible screen has two, per [[Persona Law]] and the ≤2-variant budget in [[Art Spec]]. Name one explicitly in environment prompts:
 
-- **A / performance** — composed, tidy, everything where it should be. What the Building shows the Agent.
-- **B / truth** — the same tilemap, unperformed. What the uniform sees.
+- **A / performance** — composed, tidy, everything where it should be. What the Building shows the Suit.
+- **B / truth** — the same tilemap, unperformed. What the Agent sees.
 
 ## [Wrongness] — exactly ONE per prompt
 

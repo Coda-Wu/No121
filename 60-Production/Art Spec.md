@@ -15,7 +15,7 @@ status: locked
 
 **≤30 base scenes total**, elevator included. A ring floor counts as **1** base scene rendered as 4 faces from shared tilesets — faces are variant-cheap, not separate scenes. See [[Corridor Ring]].
 
-**Demo uses ~10:** [[Street and Tram]] · [[Lobby]] · [[Stairwell]] · [[Elevator]] · [[Corridor Ring]] (floor 2) · [[Room 202]] (+bathroom) · [[Room 242]] · [[Teaching Pocket]] · [[Mirror Maze]] · [[The Ward]].
+**Demo uses ~10:** [[Street and Bus]] · [[Lobby]] · [[Stairwell]] · [[Elevator]] · [[Corridor Ring]] (floor 2) · [[Room 202]] (+bathroom) · [[Room 242]] · [[Teaching Pocket]] · [[Mirror Maze]] · [[The Ward]].
 
 Every note in `10-World/` carries `in-demo` and `dressings` — the ledger is queryable from the folder.
 
