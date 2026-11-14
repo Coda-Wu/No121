@@ -1,0 +1,33 @@
+---
+type: screen
+zone: pocket
+floor: "2"
+dressings: 1
+in-demo: true
+status: locked
+---
+# Mirror Maze
+
+## Function
+
+Demo, D1 — **all three layers, 4–6 minutes total**. A 4×4 conceptual grid on a perimeter side-scroll, opaque walls and glass shaders. Spawn at B1; [[Mr. Vacancy]] sits at C2 facing east, always, wearing the suit — the persona [[Otto]] left behind.
+
+Movement is locked in step laterally — Vacancy repeats your move in world space; walls desync the pairing and the axis remaps per viewing face. **The parking brake is the puzzle**: pin him against walls to reposition him. Win condition: one clear frontal photograph per layer.
+
+Occupies one of the three slots the [[Maze Family]] takes from the ≤6 pocket cap.
+
+## Dressing A (performance) / Dressing B (truth)
+
+Glass and reflection; the west-face shot develops, once and by authoring, as the back of your own head.
+
+## Anomalies & cases hosted
+- **The Concession** (skip valve, ratified R9): past ~2:30 on one layer, or 5:00 across the maze, the Vacancy steps into a clear line of sight and permits the shot. Never announced, no prompt; the game never admits the valve exists. Earned captures develop **neutral**, conceded captures develop **smiling**.
+- **The contact sheet — the game's first delusion.** The three prints develop, in one darkroom session, as: **standing** · **rushing the camera** · **a raven**. Otto then drops into a mind-space: a beach, the sound of ravens, and far off a group of them feeding on a body. This is [[Mr. Vacancy]]'s first attempt to make him believe [[Anna]] is dead and her body was consumed. Earned captures develop neutral and conceded captures develop smiling, per the Concession above; the raven is the third print either way.
+- A dead work-order bulb hangs at centre; changed after capture, the order reads COMPLETE.
+- 🔧 Solver-validation of all three layers is Claude's job — see [[Workshop Agendas]].
+
+## Round 15
+
+- The maze leaves [[Otto]] the **Flash**, which [[Eve]] hands over that night. See [[Abilities and Gates]].
+- 🔧 The contact sheet was developed in a nightly darkroom session. The darkroom is now played twice in the game, and the first playing is this one. See [[The Camera]].
+- 🔧 The dead work-order bulb and its COMPLETE line belong to the retired work order. See [[The Work Order HUD]].

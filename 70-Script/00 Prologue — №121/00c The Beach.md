@@ -9,7 +9,7 @@ status: seed
 ---
 # The Beach
 
-*Low water, 20:02. Fog, the rain easing. [[Otto]] lights a cigarette getting off the tram — the last one he ever smokes. He walks the strandline and does not search it. He steps over the snapped search-sector tape. A bird is awake that should not be.*
+*Low water, 02:20. Fog, the rain easing. [[Otto]] lights a cigarette getting off the bus — the last one he ever smokes. He walks the strandline and does not search it. He steps over the snapped search-sector tape. A bird is awake that should not be.*
 
 <!-- Three player-initiated actions at the waterline, in order: record (the tape is already made — see 00a), equip the rose, use the rose. No timer. The game waits as long as the player waits. -->
 

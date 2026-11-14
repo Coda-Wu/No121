@@ -1,0 +1,65 @@
+---
+type: canon
+status: draft
+secret: true
+---
+# The Delusions
+
+> [!warning] Top-secret layer. [[Mr. Vacancy]]'s method. See [[The Curse]].
+
+## The rule
+
+Every delusion is built the same way:
+
+1. It targets **something [[Otto]] fears or has privately believed**.
+2. It is delivered through **evidence he cannot check** — the demon's method is information mismatch.
+3. It is **never violent**. The lesser shadows do the violence; the Vacancy only offers him an account.
+4. It is either a relief if true, or a confirmation of the worst thing he already thinks.
+
+The demon is death. It is not bound by the Building's rules and can approach from any direction.
+
+**Round 15: the delusions are built to be survived.** Each refusal sharpens Otto, and that is the demon's second purpose. See [[Mr. Vacancy's Plan]].
+
+## The slate
+
+**⓪ The opening dream — the fall.** *Round 15.* Not an offer of an account. The flock tears his memory, and the lit exit is a cliff. It is the first thing the demon does to him, and its method in small: it shows a way out. See [[The Opening Dream]].
+
+**① D1 — the ravens.** *Settled.* Fear: she is dead and her body was consumed. The [[Mirror Maze]] contact sheet develops as standing · rushing the camera · **a raven**; Otto drops into a beach mind-space, the sound of ravens, a group of them feeding on a body far off.
+
+**② D2 (LIVED) — the face.** Fear: forgetting her. He takes out a MISSING notice he printed himself, looks away, looks back, and the photograph is a different woman. He cannot say which was right. The mismatch is with his own memory, so there is nothing to check it against.
+
+**③ D3 (RADAR) — the bedroom.** Fear: that he killed her. He wakes at midnight after the dream and the camera is glaring purple — the sign that the filter can be activated. He raises it, and the whole bedroom is covered in fluorescent text: *she's dead* · *I killed her*. This is the first use of UV and it is turned on him immediately. 🔧 UV shows a true message, by the decision of 13 November 2026, and the demon cannot enter [[Room 202]], by Round 15. Whose hand wrote on the wall is open. See [[04 RADAR — Detection]].
+
+**④ D4 (REPAPER) — the ward.** Fear: **that he is not a detective** — that he has gone mad and none of this is his work. The chapter is built from mirrored twin puzzles throughout. It ends with Otto in a hospital gown or a straitjacket, locked in a psychiatric hospital: a second-layer bad dream underneath the dream. The Administration explains nothing and does not appear.
+
+**⑤ D5 (ANNA) — the rubbing of the eyes.** Fear: **that she saw him and he did not come.** The chapter ends by putting the player back on the beach on 8 August 2002 to experience the loss directly — the wind, the sand, the hands going to the eyes, and the empty water afterwards.
+
+**⑥ D6 (DEED) — the bridge.** Fear: that what he finds will not be her. It sits **mid-chapter**, between [[Nan]]'s section and the descent to [[Renner]], and it is the branch that decides which endings remain. See below and [[07 DEED — The Family]].
+
+**⑦ The offer of the post.** *Retired.* The forged-paperwork trick that asked Otto to hand back the camera is cut: it is not a strong close for a chapter.
+
+**⑧ Final night — the usher at the door.**
+
+## The bridge
+
+A pure-white background. [[Anna]] and Otto stand at either end of a short bridge; she is at the middle of it, waiting for him to walk to her. The player can choose to walk, and the crossing is long enough that there is time to notice.
+
+**The tell:** there is a water reflection of Otto. There is no reflection of Anna.
+
+**The truth:** Otto is standing on the unfenced edge of the lightwell. Walking the bridge means stepping off the top floor into the heart-well, and the sound is camera glass cracking.
+
+**If the player catches it** and raises the camera, a radial mask expands outward from Otto and wipes away the white. What it reveals is where he actually is: the **corrupted lightwell**, with the Vacancy's devils in it and the phantom [[Anna]] floating in the air in the middle of the shaft.
+
+Note: the radial reveal is an optical effect and is fine. Floating noise shaders would brush the banned list in [[The Two-Grammar Rule]]; the missing reflection carries the tell without them.
+
+## The raven
+
+The demon's eye, in the manner of the owl in *Twin Peaks*. It appears only a few times, always unremarked, sometimes only as a feather. Never in the Building's lawful layer, never explained. Its presence is the player's one reliable sign that they are inside something the demon made.
+
+**Round 15.** The flock in [[The Opening Dream]] is made of copies. The one that survives the flash is the true one. A raven also stands on the tape post at [[The Cliff]]. 🔧 Whether a flock in the first minutes spends the motif too early.
+
+## What it tells Anna
+
+That [[Otto]] is not coming, and that the man in the Building is not really him. It needs her spirit to actually die.
+
+**None of this is shown until the final scene**, where [[Mr. Vacancy]] is revealed as her death wish.

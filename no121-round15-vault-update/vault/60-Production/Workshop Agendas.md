@@ -1,0 +1,70 @@
+---
+type: production
+status: seed
+---
+# Workshop Agendas
+
+Round 9 is complete and **the design tree is closed**. Everything here is workshop business, not tree business — the systems freeze in the [[Scope Ledger]] routes new pitches to this note rather than into the tree.
+
+- **[[Sanity]]'s scope tax** — a new system under a standing freeze, ratified by Coda's call and not yet paid for. It touches the day loop, the satchel economy, the art pipeline and the failure rules.
+- **The smoke shader's legibility** at 90–110 px, and smaller still in isometric. Silhouette-level smoke is the recommendation.
+- **The ruler scare's name** — 🔧 *the Payout* is provisional; see [[The Ruler]].
+- **[[Saving]]** — the save-format requirements, and whether chapter select is a launch feature or a patch.
+
+## 🔧 Opened by Grill Round 1 (Aug 2026)
+
+Round 1 of the narrative grill reopened the fiction beneath the closed systems tree. These are writing-pass items, not system pitches.
+
+- **The exact cause of death** — [[The Death of Anna]]. She drowned at sea on 8 August 2002 with [[Otto]] present and unable to reach her; the specific event is unchosen. It must be natural, outside expectation, witnessed from too far to help, and consistent with both people remembering the day clearly and differently. **Round 5 business.**
+- **The evening call** — [[06 ANNA — The Wound]]'s critical beat. The 3 AM call now ends the demo in [[02 SPOOL — The Job]]; whether D5's evening call is a separate, later beat or was relocated is 🔧 open.
+- **[[The Cafeteria]]** — floor 1, the social hub. Dressing, anecdote placement, and the twins' split shift.
+- **[[The Three Hums]]** — settled as the chain release. 🔧 How the player finds three chances to record, how the mixdown works, and the basement maze's verbs.
+- **The basement maze** — redesigned around the brain and the nervous system, and it produces the chain release.
+- **The sleep maze**, D2 — fake being asleep while moving so the nightmare does not find you awake. Appearance and mechanism.
+- **The twin maze**, D4 — after the paired antagonist in *Sayonara Wild Hearts*, never in the same place at the same time. Optical and mechanical design.
+- **[[Anna's Flat]]** — single-point perspective in hand-drawn pixel art, DOOM-style, same pipeline. 🔧 Costing and tooling.
+- **[[Elle]]** — the last unassigned palindrome. Neither a known parent nor an obvious state of [[Anna]].
+- **The demo's teaching load** — with the torch gone, D1 no longer teaches purging. 🔧 Confirm the nest is left unresolved as a second hook.
+- **[[Otto]]'s surname**, still open.
+- **[[The Delusions]]** — the slate is drafted; the bridge's placement waits on the structure decision.
+- **[[The Curse]]** — how [[Renner]] and [[Eve]] were taken, and why this family.
+- **[[The Cataract Operations]]** — the step-by-step minigame verbs, and what escalates on operation two.
+- **[[The Cafeteria]] menu** — night by night.
+- **The fifth floor** — the lung and the wound, flooded, and currently owned by no chapter.
+- **The four corkboard conclusions** — the individual threads, how combinations produce new threads, and which key threads derive each conclusion. See [[The Tomb Reading]].
+- **[[Key Items]]** — the physical form of each of the seven faculties and its discovery scene.
+- **[[The Tomb Reading]] evidence slate** — the planted misdirection, and whether the in-game corkboard supports competing conclusions at all. Draws on the word budget; a deletion will need naming under the scope-tax rule in the [[Scope Ledger]].
+- **[[The Hidden Family]] concealment channels** — placement of the paperwork, articles, voice messages and description-patterns that carry [[Eve]] and [[Renner]]'s parentage without ever stating it.
+- **Real-world originals** for [[Nan]], [[Elle]] and [[Pip]] — required by the secret layer of [[Naming Canon]].
+- **Anomaly catalogue** — the generative law and the organ map are settled in [[The Organ Map]]. Each floor entry needs: lawful (the organ working), sick (the organ failing), [[Mr. Vacancy]]'s invasions, and what UV and NIR reveal. Vacancy influence increases with the chapter number. Floors 1–3 drafted first. **Round 8.**
+- **House Rules clause pass** — 9–11 clauses, 3 seeds. They read as property law and derive from the organ map behind the scenes.
+
+## 🔧 Open
+- **House Rules clause-by-clause pass** — `40-Mechanics/Clauses/`, currently 3 seeds against a 9–11 lock.
+- **Puzzle validation, including the maze solver** — Claude brings the solver; all three layers of [[Mirror Maze]].
+- **Microbeat and pocket placement pass** — [[Anecdote Bank]], [[Penrose Stair]], [[Flash-Survival Room]], and the remaining pocket slot.
+- **[[Maze Family]] twist designs** — he parks *you* · a two-Vacancy decoy · a true mirror showing the other persona.
+- **Critical-items slate** — Coda's R8 note.
+- **Antagonist final name** — [[Mr. Vacancy]] is a placeholder.
+- **Final title** — №121 stands until Coda replaces it; see [[Logline and Thesis]].
+- **Achievements, full list** — naming unconstrained. Locked concepts: **WOW** (a perfect print), the **back-of-the-head** secret ([[Mirror Maze]]), the frame-streak accomplishment ([[Crooked Frame Streak]], name open), and a receipt for meeting the Concession.
+- **Sator-square lintel — offered, PARKED.** Optional lore, adoptable only if it stays one weathered, never-explained carving under the restraint amendment in [[Naming Canon]].
+- **CJK font license verification** — [[Localization Spec]].
+- **Protagonist surname**, if any — [[Otto]].
+- **Steam page copy** — [[Positioning]].
+- **Trailer production** — post-vertical-slice, [[Schedule]].
+
+## 🔧 Opened by Round 15 (Nov 2026)
+
+Round 15 rebuilt the story's structure and recorded the redesign of Otto's main world. The full list of what it left open is in [[Round 15 Decision Record]]. The items that need a workshop:
+
+- **The scope tax.** Nothing in the round has named its deletion. See the Round 15 section of the [[Scope Ledger]].
+- **The police markings at [[The Cliff]]** against the lock on [[The Death of Anna]].
+- **Whether Otto survives the jump**, and how the ten seconds with the rose are restaged. See [[Timeline]].
+- **Her side**, one form for each chapter, and the redesign of the Queen game. See [[Her Side]].
+- **The permutation input**, now that the alarm is gone. Parked by Coda.
+- **The opening of [[07 DEED — The Family]].** Parked by Coda.
+- **Four feel tests:** the opening dream; the pocket note with the board that fills itself; the print layer earned by an unseen frame; the Suit beginning to see shadows.
+- **The hand on the bedroom wall** in [[04 RADAR — Detection]].
+- **[[Clause 02 — The Measure]] and the [[Teaching Pocket]]**, which lost their proof and their lesson with [[The Ruler]].
+- **The mazes are not atomized:** the Blot, the Fold, the blind mazes, the lung maze, the Turn.

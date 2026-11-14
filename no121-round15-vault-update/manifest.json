@@ -1,0 +1,517 @@
+{
+ "base_commit": "0156b4a",
+ "round": 15,
+ "files": [
+  {
+   "path": "10-World/Building/Corridor Ring.md",
+   "action": "replace",
+   "sha256_after": "0c0e5c08fd6867e19cf05d7c8149a75cb8c96346661687b6d6f361fec238f121",
+   "sha256_before": "549dc056ecefbd9ba1a834590d4f4d67da17d0e624047080c4f27e5972bdedaf"
+  },
+  {
+   "path": "10-World/Building/Elevator.md",
+   "action": "replace",
+   "sha256_after": "d22eb18968727e3793c18150077df7a4e3dab266b6aef19a82b1d6636725240b",
+   "sha256_before": "bbbc5d6617afe0f10f22f92b0d9ddb85e6941fbccb3f5d53b89cf90660baaa29"
+  },
+  {
+   "path": "10-World/Building/Lobby.md",
+   "action": "replace",
+   "sha256_after": "30faebfde1d47ec19b2ac02781fb3860b8fa572f9660c8c0c127b95dedbd1ba4",
+   "sha256_before": "f1fc071a2b3e55189082aadeb2fb498929a92a8f1b799296f12fdfee1bb53f43"
+  },
+  {
+   "path": "10-World/Building/Room 202.md",
+   "action": "replace",
+   "sha256_after": "8a21e83d63fc871124184dd1933e8a93c8f72ef60e40b05d47d1908180a61c01",
+   "sha256_before": "157cffeb9846e1f9e27c4cceb737ee12e7b7567953f766b27e6cfa1b4851d0a7"
+  },
+  {
+   "path": "10-World/Building/Room 222.md",
+   "action": "new",
+   "sha256_after": "c25615b1e80605dbe381d6900b6577db772c3a5a5f81e4313801052c4ce20144"
+  },
+  {
+   "path": "10-World/Building/Room 242.md",
+   "action": "replace",
+   "sha256_after": "ea75768c19408c382e501a281573a4fe43e676377713ea0f16d91a1b795d0e1c",
+   "sha256_before": "1b09cdcd7fa44819caf035ba46a0d900f78980627063f9bc6c6347d946867b7b"
+  },
+  {
+   "path": "10-World/Building/Stairwell.md",
+   "action": "replace",
+   "sha256_after": "a92fbc6ab3bc7c7a0d93539a49ed2cace4a388988ef0d5d43afb405113957760",
+   "sha256_before": "d42d225e0570db1906b2d2aac8555a2a210925107013a777c361069fbcaf9c93"
+  },
+  {
+   "path": "10-World/Building/The Back Stair.md",
+   "action": "new",
+   "sha256_after": "2181f307a7b7c522cb15ea26ff384f0e589bf5211dcde396370aacb77bacab1c"
+  },
+  {
+   "path": "10-World/Building/The Loft.md",
+   "action": "new",
+   "sha256_after": "1ed1eaa7f36be1eb910e79125ba51950e4274ef1da2cccf73fe4a513fa3de67d"
+  },
+  {
+   "path": "10-World/Building/The Water Column.md",
+   "action": "new",
+   "sha256_after": "06a9dbf8bb58ce02a47364e4b57ddc91ced234efca05a3fb8a5f7c5d56b265f7"
+  },
+  {
+   "path": "10-World/Pockets/Flash-Survival Room.md",
+   "action": "replace",
+   "sha256_after": "5d3e8d79590ed2ea68db9be10da8d7208c7ef9a0e62c1411eac98c7e87367e39",
+   "sha256_before": "fd3881c07e0adf81e96bca7d43ca2fa7f2ea5605a8dcc95f4236bda081ef1381"
+  },
+  {
+   "path": "10-World/Pockets/Mirror Maze.md",
+   "action": "replace",
+   "sha256_after": "40bf6fefec1ec4c94f733284473933a835bae0aff9f7b9ae40714fca43de0893",
+   "sha256_before": "f42b1c989c874c9a9f2dd7451c2eb43c0fc8081de3e668a7889637432f0d0546"
+  },
+  {
+   "path": "10-World/Pockets/Penrose Stair.md",
+   "action": "replace",
+   "sha256_after": "14f5dcc5434360b5d9453581d43fd291599791b4d4734b6247ef0fd4121a53f3",
+   "sha256_before": "8cb7a4bab3bbc741fb4e660fee275bd1de6c8776d35652229f1844b370b07909"
+  },
+  {
+   "path": "10-World/Pockets/Teaching Pocket.md",
+   "action": "replace",
+   "sha256_after": "d739063da1daed7ca530759d5e25423ded542e3389adad2bcc46e726238ecf98",
+   "sha256_before": "3f39c29e19c4ae9e52b0635f2e73cac7abbae98262eceb8caae6809fd484b8e4"
+  },
+  {
+   "path": "10-World/Pockets/The Sleep Maze.md",
+   "action": "replace",
+   "sha256_after": "b6eb30cc72fdace51e7a9725d39d48a9e2a6d015d1cf34d0a7f48c9b3596df91",
+   "sha256_before": "abb6a32d6eaeea38eee679694de8ebce7463d429a755eed5eca77e3317e128c3"
+  },
+  {
+   "path": "10-World/Satellites/Street and Bus.md",
+   "action": "replace",
+   "sha256_after": "6488e7e987619a081363fe9a2cf31b5bb23fcf3c509e15b3922c78e3e5e923d8",
+   "sha256_before": "f70352262d56a0923d713a461a6222b5bc78fda1e27091da618a4d65061ef40b"
+  },
+  {
+   "path": "10-World/Satellites/The Cliff.md",
+   "action": "new",
+   "sha256_after": "f936b1ea7525e866b8abac7f4774c9f8a0e45e3b5ce3cf6fa6bed9afc005630e"
+  },
+  {
+   "path": "10-World/Satellites/The Coast.md",
+   "action": "replace",
+   "sha256_after": "729d393b6780640936d9efd100848fb936d04e7d5eece46e0400bf8e45b09344",
+   "sha256_before": "b5bb4590a3c364d6f95213520cdbdc16e2f859b2990c38577ca263fa7369d565"
+  },
+  {
+   "path": "10-World/Satellites/The Rock Path.md",
+   "action": "new",
+   "sha256_after": "2304d44675260e3a736b07fdeb39c3c23561bfb87d63751a16f70d643c436087"
+  },
+  {
+   "path": "10-World/Satellites/The Ward.md",
+   "action": "replace",
+   "sha256_after": "4fc6678ecb2a60c0b1cb3faf309f75280a4f7ecca75a639ecd45ec6dbf081639",
+   "sha256_before": "1ede8df789c9eea11ff23933f6e75e603fb77c675fc5ed09f5a9b5b7bbef6b42"
+  },
+  {
+   "path": "20-Cast/Elle.md",
+   "action": "replace",
+   "sha256_after": "4f648041f14142303e98c537d75df12420acb865eb176e6c81bf8e0224728595",
+   "sha256_before": "d92a397ac43506edb50922ecea1c6f7e685070b43c4cbdede8f631960aa146d6"
+  },
+  {
+   "path": "20-Cast/Leon.md",
+   "action": "replace",
+   "sha256_after": "0027b8f87b68acf401697716c8c268755ee51429c46763ff77c6301d60e15718",
+   "sha256_before": "697fe02aad9f5b8a903238492453fe6785350529fc2f9c830762b7aa8ef0763e"
+  },
+  {
+   "path": "20-Cast/Mr. Vacancy.md",
+   "action": "replace",
+   "sha256_after": "7fa5644dccab447a454d02c693162c7452bfa3d71bb8980172dcd0da5c5df326",
+   "sha256_before": "bc1e140a9bdefa2f2b0b767711910c671d73a11e46ba1387cd6bcdab12a24b7a"
+  },
+  {
+   "path": "20-Cast/Otto.md",
+   "action": "replace",
+   "sha256_after": "0a4861fccac1395b5a3a1641e053a4df63f7542a6b7c6e3584664d65b5996b35",
+   "sha256_before": "33bcd90f788bf3f1588cd962b63127460a7d2c899c53b34446d784244a0bbeda"
+  },
+  {
+   "path": "20-Cast/Renner.md",
+   "action": "replace",
+   "sha256_after": "a028d16ffc692e5f38e5b6e09dd2d0eb7968dcadc210ecfe0e3c5fba95c23074",
+   "sha256_before": "867e1c4adbd4d8f11ba000fc14fb9f03de3052875f176b921a8087bb346aa04e"
+  },
+  {
+   "path": "30-Narrative/Chapters/01 №121 — Arrival.md",
+   "action": "replace",
+   "sha256_after": "4dbc9b00d0da42169936fba89f96c6ef529ac476461218a01b6f27880f6292be",
+   "sha256_before": "7f8e399efbb2118ad435f07124e44dce29c7e013e39962fcb93f92d53bebed18"
+  },
+  {
+   "path": "30-Narrative/Chapters/02 SPOOL — The Job.md",
+   "action": "replace",
+   "sha256_after": "5f0e9b3be8d8cbc6c8c7d8b6c5a4a7a57b1430c87d34d28c3a52a714a0f77db3",
+   "sha256_before": "7a2a68c11e35ac4732b8775fd34621bdb341c21ad683f7e2c03daf1b6901505e"
+  },
+  {
+   "path": "30-Narrative/Chapters/03 LIVED — The Name.md",
+   "action": "replace",
+   "sha256_after": "de5a44cedaf55065c7f74fc47c56ce6d60473700358d80baf1875403330740e4",
+   "sha256_before": "edff2a02a8aee6e065a93cd6c6ba653aca9f8481620e72f12a03c87cf7e88fb1"
+  },
+  {
+   "path": "30-Narrative/Chapters/04 RADAR — Detection.md",
+   "action": "replace",
+   "sha256_after": "1586d3bf2cd63dd6a24aee99dfe8a491ea58b26711d51732633a3e4bae677882",
+   "sha256_before": "286ee7e36d9eec8b2e68cfbbf15eff335d08c50167dc0c6a42d2106e70eda429"
+  },
+  {
+   "path": "30-Narrative/Chapters/05 REPAPER — The Twins.md",
+   "action": "replace",
+   "sha256_after": "dc19e8c9690e185d45193613acaf3bedad560ffd43118269da1122273336b78f",
+   "sha256_before": "355f67ae5f3f7ca8fbc3cf24fb34d32446dc488a6912bee6a6b85a41ccf93bd6"
+  },
+  {
+   "path": "30-Narrative/Chapters/06 ANNA — The Wound.md",
+   "action": "replace",
+   "sha256_after": "4e006d0450a38b98ce669d94db43d1edb64a18c2e174affe3300ad0bbb9a3109",
+   "sha256_before": "aa89cc0e76dc8dd52ccea49f22d858403e272a552a86a840f41f181a3cd2a2dc"
+  },
+  {
+   "path": "30-Narrative/Chapters/07 DEED — The Family.md",
+   "action": "replace",
+   "sha256_after": "f939ededa0c9276618d2468be8d9064bc3ecec01e7daaee76fd223bd817bf5f2",
+   "sha256_before": "9be51ac9819c97da7febf724c10d61d3c44128079af6e24ba62221f9cc947f6e"
+  },
+  {
+   "path": "30-Narrative/Chapters/08 REDIVIDER — The Door.md",
+   "action": "replace",
+   "sha256_after": "1ebd5eaf4d99615443d3c3cea5a6d69cd61c2e5911fb6e58765ff4329b435eac",
+   "sha256_before": "f7441e8420d7ed72987b2067e8855411068789b1a25549e2ae487dc23e384993"
+  },
+  {
+   "path": "30-Narrative/Endings/Bad Ending — Ignorant Breach.md",
+   "action": "replace",
+   "sha256_after": "c63a0d712b0aa7e2ed00f42ed5372deb80313b3152eae78232ef79bc96e80207",
+   "sha256_before": "efd5358fd7c17c240cea503c2f29722d162432f19a5b856cae45ff9816ce199d"
+  },
+  {
+   "path": "30-Narrative/Endings/I See You — The True Ending.md",
+   "action": "replace",
+   "sha256_after": "189df84f3c0f2d4ad77e7affac7d90204815025ffda59704d7314192d419b483",
+   "sha256_before": "ea78aec15cfba7012f8ed9c479fd5d77255fdfff0e78f1ff253c3dd8347b1d82"
+  },
+  {
+   "path": "30-Narrative/Episode Structure.md",
+   "action": "new",
+   "sha256_after": "1090fd6ae7bba50fc1b5730b8e1203fe3fc1ef9c395ffcb2eefb9a5e8143ea9c"
+  },
+  {
+   "path": "30-Narrative/Her Side.md",
+   "action": "new",
+   "sha256_after": "dd6ca57748a7125708dd766055d9d7a5d3a72385fd6718feaa577c9ec1e6804a"
+  },
+  {
+   "path": "30-Narrative/Key Items.md",
+   "action": "replace",
+   "sha256_after": "b914a9a61910d2f0efd33cadd9e9e006fb0bf9ea0a704fe5c6d5e548ae956655",
+   "sha256_before": "03b8c7e3d495c9ea074532640fe9e8cda438aaf940b4c581bc6957f809d131fa"
+  },
+  {
+   "path": "30-Narrative/Mr. Vacancy's Plan.md",
+   "action": "new",
+   "sha256_after": "64db1e7ee4033c4812f81dc3ecf844d413c6a9f14a02aa32e89fd740b944f597"
+  },
+  {
+   "path": "30-Narrative/Tapes to Anna.md",
+   "action": "replace",
+   "sha256_after": "6d60adb22d04ab6877c9a22141b1c90a820c980430d39902da1ac47f2c4326da",
+   "sha256_before": "9cc17cf01ff79d5678b45684b2473998edb868379f455d47eb7338d6dbd5c709"
+  },
+  {
+   "path": "30-Narrative/The Corkboard Thread.md",
+   "action": "replace",
+   "sha256_after": "f8b165f6599ccfa29694256a083e8f77ace1880b15a06dd5440b7f06859c5758",
+   "sha256_before": "7766382a414ec631cc59d174d1dcb83fb7802018147b364533677e9d5148bad5"
+  },
+  {
+   "path": "30-Narrative/The Delusions.md",
+   "action": "replace",
+   "sha256_after": "997524a2ea79a98622700ba8f914aaa054544db106b3e5c60244d0d1674e26ac",
+   "sha256_before": "dd7d2cbfa1095307f294226768b6f672ad6c515bf2ed7e0cf4cbbe87ec14256c"
+  },
+  {
+   "path": "30-Narrative/The Memory Rooms.md",
+   "action": "new",
+   "sha256_after": "59927a3d85c59654dca431b1755e16b7ba8c4f3fe26f0fa08d98eeadb5870041"
+  },
+  {
+   "path": "30-Narrative/The Opening Dream.md",
+   "action": "new",
+   "sha256_after": "52cdd12f9e9ca642f4f415e9e3cad9b25b1e4b928a59206861b5210e816224a2"
+  },
+  {
+   "path": "30-Narrative/The Organ Map.md",
+   "action": "replace",
+   "sha256_after": "061e17e1cb34b2d7439b1d7cb27377b031120577966c4325c59577a4ff07bc8e",
+   "sha256_before": "8dbe0f91925eadc13bfe7c739f72351da6fed2e5c8259906e7d22605c1c80870"
+  },
+  {
+   "path": "30-Narrative/The Real World.md",
+   "action": "replace",
+   "sha256_after": "b8a3fb1ce476bf36df7164ed24d321fd6598dc313c91e430dfed625935ad8974",
+   "sha256_before": "1020680fed371dbd4517f07d069bcad678d9a4f59a64744f8700a1463c14eb6a"
+  },
+  {
+   "path": "30-Narrative/The Threads.md",
+   "action": "new",
+   "sha256_after": "18f4c90bc78ce65a69b52c37d649fd0eecacea1b92254d97a013882c904440eb"
+  },
+  {
+   "path": "30-Narrative/Timeline.md",
+   "action": "replace",
+   "sha256_after": "ed2f2f6e8aee67faec1ebcc3d53b151c27cb4450511970cc1db20cb921f9021c",
+   "sha256_before": "d7e9e38e9f3d30d54645d4bec4ad0195c9f6800dc803cdd67f3e3881ab8d7fc6"
+  },
+  {
+   "path": "30-Narrative/corkboard.md",
+   "action": "replace",
+   "sha256_after": "02eb4e59dd944b03f9b25e4140bfaa993608354607ba81b70f4b4ae0620ba44d",
+   "sha256_before": "f8be846077cda7b7567a05f793f568dfa4ad3e38034d3b8f43158411653cacf5"
+  },
+  {
+   "path": "40-Mechanics/Abilities and Gates.md",
+   "action": "new",
+   "sha256_after": "597851e962d84110d4ea423338c282253d096545b56d68617f8c2593df1bf2f5"
+  },
+  {
+   "path": "40-Mechanics/Clauses/Clause 02 — The Measure.md",
+   "action": "replace",
+   "sha256_after": "95f8ac5ebcd7f29f0ad7671606580f243934d1bff3109cecec14cc96afef6336",
+   "sha256_before": "75a86f77f083d7a48ec3da436b4454dc1e4c4fe9fe127b08dad953a842ccd360"
+  },
+  {
+   "path": "40-Mechanics/Clauses/Clause 03 — The Later Plan.md",
+   "action": "replace",
+   "sha256_after": "e8ab84bf653b11f83054d4c1307aae35aed831933760669b4df3fd090633a5cc",
+   "sha256_before": "1f329477184a788b965980c927cd737678acdfa294f56889a91e869ba00e223d"
+  },
+  {
+   "path": "40-Mechanics/Clauses/Clause 04 — Reception.md",
+   "action": "replace",
+   "sha256_after": "668cc82c9eae8588a49b6f9415e1fbc07b2d8ed48baf3c63bfe3210ef7ab5964",
+   "sha256_before": "aab7077eecc8efec39a2537b6ef266167321fb1816674e0454668b4b8d8f6b59"
+  },
+  {
+   "path": "40-Mechanics/Connectors and Routes.md",
+   "action": "new",
+   "sha256_after": "2bf94fbb733423f4151f1765ec1ff22202bb85f283887484385955219e159260"
+  },
+  {
+   "path": "40-Mechanics/Doors.md",
+   "action": "new",
+   "sha256_after": "e6e462752e9c95160c93c2b4303c3791f0d2999404a85dff74ccee81effc6bcc"
+  },
+  {
+   "path": "40-Mechanics/Flags/Anna Thread Completed.md",
+   "action": "replace",
+   "sha256_after": "b2ef6f948bafb9f14321c6f6fe8f8ebde35564669343b61a795c1e79ca5c4714",
+   "sha256_before": "81799576c7d19d917c4370187f96a90b2151281dc4b4045a8b7085475ac1dc5d"
+  },
+  {
+   "path": "40-Mechanics/Flags/First Dream Outcome.md",
+   "action": "new",
+   "sha256_after": "0e662e34b2ec5d1e63fe5c0c7968b17b4d3314dc41bbe4d1b2e8a7d30b13a68e"
+  },
+  {
+   "path": "40-Mechanics/Flags/MISSING Notices Collected.md",
+   "action": "replace",
+   "sha256_after": "e224e096362eb594533686c17a9ae4c64582be0b8b8fd263b82a87e8122a873d",
+   "sha256_before": "cca77bf40679af0596e23420084dd4f3b14dfcfca8b4a35090cdfdfc0e910735"
+  },
+  {
+   "path": "40-Mechanics/Flags/Memory Rooms Found.md",
+   "action": "new",
+   "sha256_after": "9aca05ff070a71b66506c8792265179025a50c88b4d344ea7a5848b6b3e608e9"
+  },
+  {
+   "path": "40-Mechanics/Flags/Side Requests Completed.md",
+   "action": "new",
+   "sha256_after": "87f8eeeaaa2856c17df1f0894676b034d3b68014eaebff9950e1f5108318ffee"
+  },
+  {
+   "path": "40-Mechanics/Locks and Openers.md",
+   "action": "replace",
+   "sha256_after": "8db38359c5db0630f9cc333c5fedd92cc3bac391574cba36bc1bcc65b3980397",
+   "sha256_before": "7563f99cb1af5ce5999e6fb6c5414a440c5638df115ef0d618deffb071cc0c59"
+  },
+  {
+   "path": "40-Mechanics/Night Phase.md",
+   "action": "replace",
+   "sha256_after": "73d10e500aa2d09a7f4848db86ff7de19a706daae771a6430653c9177a5547e0",
+   "sha256_before": "ef26e39a69b6e6565f41e4b6707d165e0082d45b1e2e80ee057ed691e0a35a5d"
+  },
+  {
+   "path": "40-Mechanics/Persona Law.md",
+   "action": "replace",
+   "sha256_after": "c2ecd5f1fc068816e6cb4f5d9dd26e0d996ae709c614eae927d297e299592e8d",
+   "sha256_before": "984a8d1dd3eb4747c906eb104aa4a63182b3e544494a6cc7d627001dc4768ed1"
+  },
+  {
+   "path": "40-Mechanics/Purge and Light.md",
+   "action": "replace",
+   "sha256_after": "c13ea8baa3fe3549fd0198ddf544c33222242c78fbcd03e3b247e514980fb162",
+   "sha256_before": "0fed3e10596b1445883d3f8c6ad9bad56ea71b70f693257bd4df0f175ab4edba"
+  },
+  {
+   "path": "40-Mechanics/Requests.md",
+   "action": "new",
+   "sha256_after": "e0d110f8850cd91415aa1706aa05d3a78446497c48b9d39087e0db5962f8d7cc"
+  },
+  {
+   "path": "40-Mechanics/Sanity.md",
+   "action": "replace",
+   "sha256_after": "de89cca780daabb40e69866aa7c565070c14f4812c75821d1ff359e41807e5b1",
+   "sha256_before": "75251cae9717c8edea755d3e9bb44d7c042af41d92643ed3903640eda6950bb9"
+  },
+  {
+   "path": "40-Mechanics/Shadows.md",
+   "action": "new",
+   "sha256_after": "e60ea1d46bc1500b453f0b3e6b6ca8fcc356bb67421b9dfb9fbcf40c15635818"
+  },
+  {
+   "path": "40-Mechanics/The Camera.md",
+   "action": "replace",
+   "sha256_after": "5e135303595e6c43f0667479baf40fe135c19631e88529e5b02cc041ea21058f",
+   "sha256_before": "b8e8483fb3c971f366c12802375711d265c6d15d7ed92de6818c3169cf2982b4"
+  },
+  {
+   "path": "40-Mechanics/The Day Loop.md",
+   "action": "replace",
+   "sha256_after": "a1cf6c56ebec2ef530eaafec19dcd49807ba353e0b86984a63882d5e75658219",
+   "sha256_before": "de2f3a4940302b3c673b914d92f9f00c20806569b216dd9250aa705227e6e8a4"
+  },
+  {
+   "path": "40-Mechanics/The Dream and Hint Ladder.md",
+   "action": "replace",
+   "sha256_after": "37c00ab7ae8f8ac077d8095fab954163dd3149b842d13357b376ca9e344b8378",
+   "sha256_before": "4f85dea99f18f386bb405b29687f3041cc10ab24ac6595a786aa40c1bb1a7713"
+  },
+  {
+   "path": "40-Mechanics/The Pocket Note.md",
+   "action": "new",
+   "sha256_after": "aa7f4d03b78795a06f7d111fb7b43deb6795355118e8b9f4e6bdcc6b42aadc18"
+  },
+  {
+   "path": "40-Mechanics/The Ruler.md",
+   "action": "replace",
+   "sha256_after": "1c09678763f4381a9478cc4a9c8d64b8d16a23ef9acb4d57efddcc8b8a2f9813",
+   "sha256_before": "96af49fbcdaa84e7fb473cb0147943ef55eb644000a10e731c6506dbbcfa6e64"
+  },
+  {
+   "path": "40-Mechanics/The Walk.md",
+   "action": "new",
+   "sha256_after": "283ec36c1f3a8d543f70de5c361a408597824fb93f5577b2bc89be5cbf920f54"
+  },
+  {
+   "path": "40-Mechanics/The Work Order HUD.md",
+   "action": "replace",
+   "sha256_after": "c580872ddd83926937f3991e7b2977d7b4cf409193b7e17e8f8028039f377b39",
+   "sha256_before": "6a1db2b3b60c4935c02fe010fc98454c6e09f1bfcfd1a8e4919efccfde712f27"
+  },
+  {
+   "path": "50-Moodboards/10-AGI References/00-Blocks and Constants/Blocks and Constants.md",
+   "action": "replace",
+   "sha256_after": "9638659f1381a69214db59abbe6d1ade86843e6d275c626ff036847b72890d70",
+   "sha256_before": "5f4ff9e1d740ecce5d512ce82e29cd5c0924c34fa77d9cd7393c25fab3c0f739"
+  },
+  {
+   "path": "60-Production/Glossary.md",
+   "action": "replace",
+   "sha256_after": "dc67d7dc056cc1a37348723c739b5b536f16e4735ea5367bd895515d2143318b",
+   "sha256_before": "4964f8364bec6bd4ffc91776179202dd16c9012b4a35e50774cb54be9239ef83"
+  },
+  {
+   "path": "60-Production/Round 15 Decision Record.md",
+   "action": "new",
+   "sha256_after": "cbeccf25a5ffef8eace2dbdc132525ab6bdfad0a5e0f93679bc1eef821426913"
+  },
+  {
+   "path": "60-Production/Scope Ledger.md",
+   "action": "replace",
+   "sha256_after": "5b573cf9be719012a9a1f9455dc415b1d450f61c420d841f7f1171ca9a5a9c35",
+   "sha256_before": "c2d50ae1dcc09758570e1cbd8cf14fa155f182f8cc46c0621edbdfdb5394ff33"
+  },
+  {
+   "path": "60-Production/Workshop Agendas.md",
+   "action": "replace",
+   "sha256_after": "f09f91208577cd376421562b86e207596a5838bffb290218246e453d1c57d24a",
+   "sha256_before": "cc574beb7010629c357abd61fc6be3e3dfe58bc80b8f97477b9232915c1dd9f5"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/00a The Waking.md",
+   "action": "replace",
+   "sha256_after": "b7ac6e8a6a1ee5bbb7942814d1310852ecba0ac80153d0133eafcd7b82ff7cda",
+   "sha256_before": "30b4d09a4f503caa81d49bc1080e4e801887d8e28bcd8be8829ff2c4a07fb192"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/00b The Bus Stop.md",
+   "action": "replace",
+   "sha256_after": "7f4a496e172720cb5c1cc0b4a8d9f105511be3cc019517b318b0780e69a1912c",
+   "sha256_before": "6804278e55a2cc5c078316c75e6cb55ad656da00e8edc22b862d2db777c3db3f"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/00c The Beach.md",
+   "action": "replace",
+   "sha256_after": "1973a329b933a1d11e7544e296aec34ff875d743d29557d5ff4adf7e403fcb4f",
+   "sha256_before": "af9a0bc14ee4eea7fe29e9777bff53f45d08f35dd2430bcfca3ff35077744b8b"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/01 The Transition.md",
+   "action": "replace",
+   "sha256_after": "b68ff76b5c3d33e6a663f5e25e7794fe8f031d94a2a9cef0bc0073ed1e92f479",
+   "sha256_before": "f7b7d698dcc7627e4c9843e95a5b04f6d431f5753526048257559991128ab463"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/02 Lobby — Leon.md",
+   "action": "replace",
+   "sha256_after": "796aabdbda461a400f3849af6c9cb0815194c1ab95ab5dd9927d379ed4a1ad58",
+   "sha256_before": "c2e21e9289678ea2c239f9b80a35a00a14fcd578b7e207e23903afc1a6abdddb"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/03 Tape 1.md",
+   "action": "replace",
+   "sha256_after": "a63ef7b028dde83704a78177992f98e93bb529cf39d53ca55908762f3db6ec42",
+   "sha256_before": "dac7eba98b70c4ffde7c8b4da1e294f512189522448007375d543ff5a0c0e075"
+  },
+  {
+   "path": "70-Script/00 Prologue — №121/04 Dream 0 — The Calling.md",
+   "action": "replace",
+   "sha256_after": "573149d90473a7ed2acec20055bb400f12c75b280f1d878572127a1e9488fae7",
+   "sha256_before": "c3d4e7f271025215ae58326848266d36e9e040145da4d8d2ff04c21e4530cdbb"
+  },
+  {
+   "path": "70-Script/01 SPOOL — D1/01 Work Order — Day 1.md",
+   "action": "replace",
+   "sha256_after": "907222f89dc420344bd8c9437a8583e92dea1f05c8fd87ad0f4dd8f5c1e96a47",
+   "sha256_before": "652be77d9e9bbb40e463d325eeba5672dd061d7ad1a2dd9f3567f226a9a3ac90"
+  },
+  {
+   "path": "70-Script/01 SPOOL — D1/03 Clause 02 — The Measure.md",
+   "action": "replace",
+   "sha256_after": "12aaad7ba5422754e4d73a78e5da7790b85ee3215b9eaf17613e285390978cdc",
+   "sha256_before": "87e78c8e760a654295adf56a97126692154ba63823a1d01c256195db389a2f14"
+  },
+  {
+   "path": "70-Script/01 SPOOL — D1/04 The Teaching Pocket.md",
+   "action": "replace",
+   "sha256_after": "c32620ce1dee911e7240fdb375d47b979c1b0bb4f88663ab173edf48d18bb315",
+   "sha256_before": "4c3b044cb3135be982bc878424d307aaac046f2f6f7e4bcffece1a91713e2e49"
+  }
+ ]
+}
