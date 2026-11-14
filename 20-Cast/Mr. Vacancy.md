@@ -29,6 +29,8 @@ A death wish cannot act without being let in. Both [[Anna]] and [[Otto]] are sti
 
 Its plan is to **delude Otto into giving up first**. If he lets go, Anna is available immediately. It works on her too, telling her Otto is not coming and that the man in the Building is not really him; that side is not shown until the final scene, where the Vacancy is revealed as **her death wish**.
 
+**Round 15: the plan has a second mouth.** If Otto does not give up, each refusal sharpens his sense, and a sharper Otto is worth consuming too. It feeds him hope and breaks it, and it lets the residents help him. It formed this plan in [[The Opening Dream]]. See [[Mr. Vacancy's Plan]].
+
 ## Two tiers
 
 - **The Vacancy itself never attacks and never threatens. It offers an account.** Illusion horror, built on information mismatch — see [[The Delusions]] for the rule and the slate. The horror is the fear that he will believe it.
@@ -60,8 +62,12 @@ Bodied form: [[Otto]]'s doppelganger, always wearing the persona Otto is **not**
 - [[The Camera]] — lesser shadows are trapped permanently by a photograph; the Vacancy is only ever photographed **because it permits it**, and every print of it differs slightly from what the shutter saw.
 - [[The Two-Grammar Rule]] — sick anomalies violate a clause the player already knows.
 - [[I See You — The True Ending]] — burning the usher in the final purge is a gate.
+- [[Room 202]] — it cannot enter. The board there is never its work. See [[The Corkboard Thread]].
+- The Agent — he sees shadows because it lets him. See [[Persona Law]].
 
 ## Appears in
+- [[The Opening Dream]] — the flock, and the one raven that survives.
+- [[The Cliff]] — a raven on the tape post, watching.
 - [[03 LIVED — The Name]] — named.
 - [[Mirror Maze]] — at C2, facing east, always; wearing the suit.
 - [[Maze Family]] — the D4 and D6 windows.

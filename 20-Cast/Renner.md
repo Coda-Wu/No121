@@ -33,6 +33,7 @@ Voice only. The dream Calling on night 0 — and, as the retcon reveals, **every
 - [[Neutral Ending — Stay]] — going to Renner and choosing the socket, which is **taking the father's post**.
 
 ## Appears in
-- [[01 №121 — Arrival]] — Dream 0, the Calling.
+- *(Retired in Round 15: Dream 0, the Calling. See [[The Opening Dream]].)*
+- The radio in the flat teaches the tuning of his line. See [[The Memory Rooms]].
 - [[07 DEED — The Family]] — the descent, the junction reveal, the intercom retcon, the fuse-swap puzzle.
 - Ambient in every corridor, unrecognised until D7.

@@ -11,15 +11,15 @@ status: locked
 
 ## Role
 
-Protagonist. **An investigator by trade** — the Agent is his real life, not a costume. [[Anna]], his partner, drowned at sea on **8 August 2002**, fifteen days before the game opens. **He was watching her swim when wind blew sand into his eyes.** He rubbed them, and when he could see again she and everyone else on the beach were gone. He does not know what happened. The wind was [[Mr. Vacancy]]'s — see [[The Curse]]. Her body was never recovered. The Coast Guard searched for twelve days and stood down on Tuesday the 20th; Otto has gone on alone since.
+Protagonist. **An investigator by trade** — the Suit is his real life, not a costume. [[Anna]], his partner, drowned at sea on **8 August 2002**, fifteen days before the game opens. **He was watching her swim when wind blew sand into his eyes.** He rubbed them, and when he could see again she and everyone else on the beach were gone. He does not know what happened. The wind was [[Mr. Vacancy]]'s — see [[The Curse]]. Her body was never recovered. The Coast Guard searched for twelve days and stood down on Tuesday the 20th; Otto has gone on alone since.
 
 His recall of that day is complete and unblurred and contains no event, and it does not match hers: she remembers a man on the beach who did not come. See [[The Death of Anna]].
 
 **He has very low spiritual sensing** — the exact inverse of Anna, and the reason he has noticed nothing in fifteen days although she has reached for him every night. It is also why a handful of wind-blown sand was enough to blind him for the length of a drowning, and why [[Mr. Vacancy]] has never wanted him. See [[Timeline]] and [[The Curse]].
 
-**He cannot swim.** He could not have gone in after her even if he had seen. The game never lets him walk into water; he stops at the line every time.
+**He cannot swim.** He could not have gone in after her even if he had seen. The game never lets him walk into water; he stops at the line every time. 🔧 Round 15 has him jump from [[The Cliff]], and the level takes him under standing water. This rule needs restating.
 
-The Building makes him its handyman — **HANDYMAN (ACTING)**. The uniform is [[Anna]]'s empowerment and it is a weapon, not a job: the other tenants can maintain her, and only Otto can repair her and fight the corruption in her. See [[The Ontology]], [[Persona Law]].
+The Building makes him its handyman — **HANDYMAN (ACTING)**. 🔧 Round 15: there is no uniform. The Agent is Otto in his suit with a burning face, gained in [[The Opening Dream]]. The vault called the uniform [[Anna]]'s empowerment; whether the burning face is hers, the demon's, or both, is open. It is a weapon, not a job: the other tenants can maintain her, and only Otto can repair her and fight the corruption in her. See [[The Ontology]], [[Persona Law]].
 
 He posted the MISSING notices himself, in the real world, and cast one rose into the ocean each year — see [[The Real World]] and [[Key Items]].
 
@@ -28,6 +28,8 @@ He posted the MISSING notices himself, in the real world, and cast one rose into
 On the fifteenth night he takes her rose to the sea, because he has been changing its water since the eighth and it is going anyway. Cutting it is not a search — it is the first thing he has done that admits she may not be coming back, and when it leaves his hand he stops being an investigator for about ten seconds. **That is the crack she gets through.** He sees the Building standing in mist on the water, lit from within, and the street number is legible.
 
 He goes on intuition, takes the handyman post as cover to search, and says on tape that he can smell her presence the moment he enters. Nothing confirms it.
+
+> [!warning] **Round 15.** See [[Round 15 Decision Record]]. The fifteenth night now ends at [[The Cliff]]: he brings the rose, a tape recorder and a box of cigarettes, walks to the edge and **jumps**. He wakes on [[The Rock Path]] and walks to the Building. In the first night's dream a flock of ravens tears away his name, his trade and his life with Anna, and his face begins to burn. He wakes on Day 1 not knowing who he is. See [[The Opening Dream]] and [[The Memory Rooms]]. 🔧 The two paragraphs above still describe the beach and the mirage. Coda restages them.
 
 He believes he grew up in this building. **He is wrong** — the real №121 is elsewhere, and this one is her memory of his stories about it. See [[Timeline]]. He is the only living thing inside her.
 
@@ -38,7 +40,7 @@ Lives in [[Room 202]], which was [[Renner]]'s. Reports nightly to Anna on tape.
 
 Near-silent in world, voluble on tape ([[Tapes to Anna]]). Two gibberish-synth formants, one per persona — the player hears the Shift. Counts against the 15,000-word budget in the [[Scope Ledger]].
 
-Costume: blue tee, blue trousers, yellow tool belt (Handyman); black suit, white shirt, black tie (Agent).
+Costume: black suit, white shirt, black tie, for both selves. The Agent's face burns in black smoke. The blue uniform and the tool belt are retired in Round 15. See [[Persona Law]].
 
 ## Relations
 - [[Anna]] — his partner, dead fifteen days, and the place he is standing in. She chose him for love, not for suitability: he is the worst receiver she could have picked.
@@ -49,5 +51,5 @@ Costume: blue tee, blue trousers, yellow tool belt (Handyman); black suit, white
 
 ## Appears in
 - Every chapter, [[01 №121 — Arrival]] through [[08 REDIVIDER — The Door]].
-- Memory model: [[Persona Law]] (the Haze). Photographs and work orders are how his two selves leave each other evidence.
+- Memory model: [[Persona Law]] (the Haze). Photographs and [[The Pocket Note]] are how his two selves leave each other evidence.
 - His childhood examine-lines in [[The Day Loop]] are real memories in a wrong building.

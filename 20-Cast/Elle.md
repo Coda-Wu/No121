@@ -26,7 +26,7 @@ Domestic register; deadpan. Carries [[Elle's Mug]].
 
 ## Relations
 - [[Anna]] — Elle *is* her dream.
-- [[Otto]] — the counter-witness: the [[Corridor Ring]] misbehaves for the Handyman and never for Elle.
+- [[Otto]] — the counter-witness: the [[Corridor Ring]] misbehaves for the Agent and never for Elle.
 - [[Pip]] — the other resident whose testimony the player learns to weigh, and the other faculty-or-state in the Building.
 - **No surname**, and the question is never raised — see [[Naming Canon]].
 
